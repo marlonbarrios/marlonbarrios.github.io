@@ -123,16 +123,19 @@ We were inspired by the Futures Thinking discipline, as an approach to creative 
 
 ## Augmented Reality in JS: Prototype 
 
-![281466699_10161835426175968_5952513153711377028_n](https://user-images.githubusercontent.com/90220317/170399439-3edf15f1-ddad-45f7-b47e-ba9c17077bac.jpg)
-
-![280338768_10161025120531062_7362217253970765952_n](https://user-images.githubusercontent.com/90220317/170400057-aabf3e9b-ff62-4585-855f-452cef354cb8.jpg)
-
 Load this site in your mobile device:
 
 https://lnkd.in/e3ysdk6Q
 
 Follow prompts.
 Scan this image with your device.
+
+![281466699_10161835426175968_5952513153711377028_n](https://user-images.githubusercontent.com/90220317/170399439-3edf15f1-ddad-45f7-b47e-ba9c17077bac.jpg)
+
+You will see something like this.
+
+![280338768_10161025120531062_7362217253970765952_n](https://user-images.githubusercontent.com/90220317/170400057-aabf3e9b-ff62-4585-855f-452cef354cb8.jpg)
+
 AugmentedReality #artest #webdevelopment
 
 [LIVE APP](https://lnkd.in/e3ysdk6Q/ 'LIVE APP')
