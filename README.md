@@ -56,7 +56,8 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
 
-# Web3/Web2 Online Communities Projects
+# WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
+
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
 
 ![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
