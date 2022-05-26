@@ -8,7 +8,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
-[Skills](https://marlonbarrios.github.io/#skills)
+[Skills](https://marlonbarrios.github.io/#skills) | [WEB3/WEB2](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#web3web-20-online-communities-development) | 
+
    
 ## Bio
 
@@ -68,7 +69,8 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
 
-# Full Stack Development Projects
+
+# FULL STACK DEVELOPMENT
 
 I have developed several projects with modern web development framewors.
 
@@ -91,7 +93,7 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
 
-## CREATIVE CODING AND GENERATIVE ART
+## CREATIVE CODING & GENERATIVE ART
 
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
@@ -104,7 +106,8 @@ Creative coding is a type of computer programming in which the goal is to create
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 
-# Teaching and Research
+## RESEARCH & TEACHING
+
 ## UnstableLandscape | Art + Tech + P2P + Blockchain
 
 ![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
