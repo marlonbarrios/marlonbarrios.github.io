@@ -1,4 +1,4 @@
-![Alt text](profilepic.png "a title")
+![Alt text](https://github.com/marlonbarrios/marlonbarrios2.github.io/blob/mondrian/profilepic.png?raw=true "a title")
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
 ### Web3 Education | REACT | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 KB5 @Kernel0x Fellow | MotionDAO | Crypto-dana | Mindfulness and Yoga |
