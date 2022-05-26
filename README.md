@@ -54,6 +54,17 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
+# Web3/Web2 Online Communities Projects
+
+[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
+
+AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
+
+[MotionDAO in Notion](https://olive-continent-a23.notion.site/MotionDAO-A-WEB3-Dancing-Ecosystem-6e9b46865dcd4021a1d4077fcffb9f3f 'MotionDAO')
+
+[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 # Full Stack Development Projects
 
@@ -89,18 +100,6 @@ Generative art refers to art that in whole or in part has been created with the 
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-# Web3/Web2 Online Communities Projects
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
-
-AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
-
-[MotionDAO in Notion](https://olive-continent-a23.notion.site/MotionDAO-A-WEB3-Dancing-Ecosystem-6e9b46865dcd4021a1d4077fcffb9f3f 'MotionDAO')
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 
 # Teaching and Research
