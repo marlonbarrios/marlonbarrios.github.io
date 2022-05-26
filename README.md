@@ -60,14 +60,13 @@ I have been fascinated by complex and networked systems, the web and online-comm
 I have developed several projects with modern web developmentframeowrks.
 
 [See projects delails](https://github.com/marlonbarrios/full-stack-development/blob/mondrian/README.md)
-https://github.com/marlonbarrios/full-stack-development/blob/mondrian/README.md
 
 
 <img width="1516" alt="Screen Shot 2022-05-25 at 10 53 08 AM" src="https://user-images.githubusercontent.com/90220317/170292444-0584f207-c259-4524-a7c2-abfff5f197d3.png">
 
 
 [See projects delails](https://github.com/marlonbarrios/full-stack-development/blob/mondrian/README.md)
-https://github.com/marlonbarrios/full-stack-development/blob/mondrian/README.md
+
 
 
 # Collections
