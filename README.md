@@ -8,9 +8,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
-[Skills](https://marlonbarrios.github.io/#skills) | [WEB3/WEB2](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#web3web-20-online-communities-development) | 
+[SKILLS](https://marlonbarrios.github.io/#skills) | [WEB3/WEB2](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#web3web-20-online-communities-development) | [FULL STACK DEVELOPMENT](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#web3web-20-online-communities-development) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | 
+[RESEARCH & TEACHING](https://marlonbarrios.github.io/#research--teaching)
 
-   
 ## Bio
 
 I have been fascinated by complex and networked systems, the web and online-community development. For more than 20 years, as a dancer, digital artist and educator, I have always been interested in building systems with rules and software, creating community platforms and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I am fascinated by the potential of the blockchain for financial inclusion and innovation. I am a graduate of the General Assembly Software Engineering Immersive Program (December 2021) and a Kernel Fellow Block5 2022. I love creative coding and I teach vipassana meditation and yoga.
@@ -123,9 +123,3 @@ https://t.me/mbarriossolano
 Discord:
 
 unstablelandscape#7984
-
-
-
-
-
-
