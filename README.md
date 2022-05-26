@@ -57,7 +57,7 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 # Full Stack Development Projects
 
-I have developed several projects with modern web development frameowrks.
+I have developed several projects with modern web development framewors.
 
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
 
@@ -80,7 +80,7 @@ This is a collection of projects as practice on the versatility and power of Van
 
 ## CREATIVE CODING AND GENERATIVE ART
 
-[PROLECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 ![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
 
@@ -92,7 +92,7 @@ Creative coding is a type of computer programming in which the goal is to create
 
 # Web3/Web2 Online Communities Projects
 
-[WEb3/web2](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 ![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
 
@@ -100,7 +100,7 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 [MotionDAO in Notion](https://olive-continent-a23.notion.site/MotionDAO-A-WEB3-Dancing-Ecosystem-6e9b46865dcd4021a1d4077fcffb9f3f 'MotionDAO')
 
-[WEb3/web2](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 
 # Teaching and Research
