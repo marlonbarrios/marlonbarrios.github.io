@@ -56,7 +56,7 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 # Web3/Web2 Online Communities Projects
 
-[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
 
 ![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
 
@@ -64,7 +64,7 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 [MotionDAO in Notion](https://olive-continent-a23.notion.site/MotionDAO-A-WEB3-Dancing-Ecosystem-6e9b46865dcd4021a1d4077fcffb9f3f 'MotionDAO')
 
-[Web3/web2 Projects](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
 
 # Full Stack Development Projects
 
