@@ -57,7 +57,7 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 # Full Stack Development Projects
 
-I have developed several projects with modern web developmentframeowrks.
+I have developed several projects with modern web development frameowrks.
 
 [See projects delails](https://github.com/marlonbarrios/full-stack-development/blob/mondrian/README.md)
 
