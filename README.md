@@ -57,6 +57,9 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
 
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+
+
 # WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
@@ -68,6 +71,8 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 [MotionDAO in Notion](https://olive-continent-a23.notion.site/MotionDAO-A-WEB3-Dancing-Ecosystem-6e9b46865dcd4021a1d4077fcffb9f3f 'MotionDAO')
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
+
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
 
 
 # FULL STACK DEVELOPMENT
@@ -82,6 +87,8 @@ I have developed several projects with modern web development framewors.
 
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
 
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+
 
 ## VANILLA JAVASCRIPT PROJECTS
 
@@ -92,6 +99,9 @@ I have developed several projects with modern web development framewors.
 This is a collection of projects as practice on the versatility and power of Vanilla or pure Java Script in combination with HTML5 and CSS3. The projects are linked to their LIVE apps and code REPOs. Enjoy
 
 [LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
+
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+
 
 ## CREATIVE CODING & GENERATIVE ART
 
@@ -104,6 +114,8 @@ Generative art refers to art that in whole or in part has been created with the 
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
 
 
 ## RESEARCH & TEACHING
@@ -123,3 +135,5 @@ https://t.me/mbarriossolano
 Discord:
 
 unstablelandscape#7984
+
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
