@@ -13,11 +13,10 @@
 
 I have been fascinated by complex and networked systems, the web and online-community development. For more than 20 years, as a dancer, digital artist and educator, I have always been interested in building systems with rules and software, creating community platforms and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I am fascinated by the potential of the blockchain for financial inclusion and innovation. I am a graduate of the General Assembly Software Engineering Immersive Program (December 2021) and a Kernel Fellow Block5 2022. I love creative coding and I teach vipassana meditation and yoga.
 
-[My CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8773628/mbscv_3_28.pdf)
 
 [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
-
+[Download my  CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf)
 
 
 ## SKILLS
