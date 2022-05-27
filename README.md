@@ -56,6 +56,8 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++teach+mindfulness+meditation+and+Yoga)](https://git.io/typing-svg)
+
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
