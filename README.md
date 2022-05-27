@@ -56,8 +56,8 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
 
 
 # WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
@@ -72,7 +72,8 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+
 
 
 # FULL STACK DEVELOPMENT
@@ -87,7 +88,7 @@ I have developed several projects with modern web development framewors.
 
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
 
 
 ## VANILLA JAVASCRIPT PROJECTS
@@ -100,7 +101,8 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+
 
 
 ## CREATIVE CODING & GENERATIVE ART
@@ -110,12 +112,12 @@ This is a collection of projects as practice on the versatility and power of Van
 ![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
 
 This is a collection with fun projects using p5.js exploring simulation of complex systems and emergence properties aith autonomous agents and interactivity.
-Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.
-Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+[Back to Top]([Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+
+
 
 
 ## RESEARCH & TEACHING
@@ -136,4 +138,6 @@ Discord:
 
 unstablelandscape#7984
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano' CODE REPOSITORY')
+[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+
+
