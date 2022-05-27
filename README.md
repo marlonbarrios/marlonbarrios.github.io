@@ -56,8 +56,7 @@ I have been fascinated by complex and networked systems, the web and online-comm
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
-
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
 # WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
@@ -72,8 +71,7 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
-
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
 # FULL STACK DEVELOPMENT
@@ -88,7 +86,7 @@ I have developed several projects with modern web development framewors.
 
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
 ## VANILLA JAVASCRIPT PROJECTS
@@ -101,7 +99,7 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
 
@@ -115,7 +113,7 @@ This is a collection with fun projects using p5.js exploring simulation of compl
 
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
-[Back to Top]([Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
 
@@ -138,6 +136,6 @@ Discord:
 
 unstablelandscape#7984
 
-[Back to Top](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md#marlon-barrios-solano 'Back to Top')
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
