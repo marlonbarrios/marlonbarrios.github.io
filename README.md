@@ -90,7 +90,7 @@ I have developed several projects with modern web development framewors.
 
 
 
-## Mobile Development in React Native
+## MOBILE DEVELOPMENT IN REACT NATIVE
 
 [See project delails](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
