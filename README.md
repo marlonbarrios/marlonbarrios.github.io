@@ -59,7 +59,7 @@ I have been fascinated by complex and networked systems, the web and online-comm
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
-# WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
+## WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
 
@@ -74,7 +74,7 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
-# FULL STACK DEVELOPMENT
+## FULL STACK DEVELOPMENT
 
 I have developed several projects with modern web development framewors.
 
@@ -114,8 +114,6 @@ This is a collection with fun projects using p5.js exploring simulation of compl
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-
 
 
 ## RESEARCH & TEACHING
