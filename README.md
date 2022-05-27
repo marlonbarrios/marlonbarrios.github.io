@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
-[SKILLS](https://marlonbarrios.github.io/#skills) | [WEB3/WEB2]([https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | 
+[SKILLS](https://marlonbarrios.github.io/#skills) | [WEB3/WEB2]([https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | 
 [RESEARCH & TEACHING](https://marlonbarrios.github.io/#research--teaching)
 
 ## Bio
@@ -92,11 +92,11 @@ I have developed several projects with modern web development framewors.
 
 ## MOBILE DEVELOPMENT IN REACT NATIVE
 
-[See project delails](https://marlonbarrios.github.io/crypto-tracker-rn/)
+[See project details](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 <img width="1440" alt="Screen Shot 2022-05-27 at 4 09 14 PM" src="https://user-images.githubusercontent.com/90220317/170784517-06d1ff36-2b7e-474a-9875-ba363dd549ac.png">
 
-[See project delails](https://marlonbarrios.github.io/crypto-tracker-rn/)
+[See project details](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 A cryptocurrency price tracker which gets the 20 most popular cryptocurrencies from the [Coin Gecko API](https://www.coingecko.com/en/api) and displays them in a list with charts using React Native.
 
