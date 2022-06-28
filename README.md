@@ -116,7 +116,6 @@ This is a collection of projects as practice on the versatility and power of Van
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
-
 ## CREATIVE CODING & GENERATIVE ART
 
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
@@ -130,9 +129,18 @@ This is a collection with  projects using p5.js exploring simulation of complex 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
+## Machine Learning and Computer Vision
+
+![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176320611-6a3948ee-4c74-4bba-8e73-dab5aa21522b.png)
+
+[Projects](https://marlonbarrios.github.io/comp_viz_ml5/ 'C Projects')
+
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
+
+
 ## RESEARCH & TEACHING
 
-## UnstableLandscape | Art + Tech + P2P + Blockchain
+## UnstableLandscape | Art + Tech + P2P + Blockchain + Generativity
 
 ![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
 
