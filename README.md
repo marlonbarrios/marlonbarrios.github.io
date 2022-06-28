@@ -1,4 +1,5 @@
-![Alt text](https://github.com/marlonbarrios/marlonbarrios2.github.io/blob/mondrian/profilepic.png?raw=true "a title")
+![Screen Shot 2022-06-22 at 8 01 26 PM](https://user-images.githubusercontent.com/90220317/176286433-e6250139-3a31-4a44-88d0-61f90c0ba988.png)
+
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
 ### Web3 Education | REACT | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 [B5 @Kernel0x Fellow](https://www.kernel.community/en/) | MotionDAO | Mindfulness and Yoga |
@@ -17,9 +18,6 @@ I have been fascinated by complex and networked systems, the web and online-comm
 
 
 [Download my  CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf) | [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
-
-[Download my  CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf)
-
 
 ## SKILLS
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
@@ -121,7 +119,7 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
-![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
+![morphing_rainbows0 (1)](https://user-images.githubusercontent.com/90220317/176286615-4024fd02-28cf-44f2-8852-a9118ab26465.png)
 
 This is a collection with fun projects using p5.js exploring simulation of complex systems and emergence properties aith autonomous agents and interactivity.
 
