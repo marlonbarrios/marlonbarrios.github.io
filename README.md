@@ -1,4 +1,4 @@
-![Screen Shot 2022-06-22 at 8 01 26 PM](https://user-images.githubusercontent.com/90220317/176286433-e6250139-3a31-4a44-88d0-61f90c0ba988.png)
+![Screen Shot 2022-06-28 at 5 03 43 PM](https://user-images.githubusercontent.com/90220317/176287703-956c2d08-66b3-4f16-b56b-41376df83334.png)
 
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
