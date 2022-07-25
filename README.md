@@ -149,9 +149,9 @@ As an interdisciplinary artist and researcher working in the intersection of dan
 ## Essays
 
 
-[Tha Dance-tech project: How ike a Netwok, published in the book Transmission in Motion: The Technologizing of Dance, edited by Maaike Bleeker](https://github.com/marlonbarrios/how_like_a_network_essay')
+[The Dance-tech Project: How like a Netwok, published in the book Transmission in Motion: The Technologizing of Dance, edited by Maaike Bleeker](https://github.com/marlonbarrios/how_like_a_network_essay')
 
-
+[Designing Unstable Landscapes: Improvisational Dance within Cognitive Systems, published in the book Dance and Cognitionn edited by Johannes Birringer](https://github.com/marlonbarrios/how_like_a_network_essay')
 
 
 [More Information](https://www.dance-tech.net/profile/network_producer 'more information')
