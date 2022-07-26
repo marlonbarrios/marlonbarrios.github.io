@@ -75,6 +75,18 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
+## CREATIVE CODING & GENERATIVE ART
+
+[PROJECT](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+![morphing_rainbows0 (1)](https://user-images.githubusercontent.com/90220317/176286615-4024fd02-28cf-44f2-8852-a9118ab26465.png)
+
+This is a collection with  projects using p5.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity. Machine learning  and more...
+
+[PROJECT](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
+
 
 ## FULL STACK DEVELOPMENT
 
@@ -115,18 +127,6 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-
-## CREATIVE CODING & GENERATIVE ART
-
-[PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-![morphing_rainbows0 (1)](https://user-images.githubusercontent.com/90220317/176286615-4024fd02-28cf-44f2-8852-a9118ab26465.png)
-
-This is a collection with  projects using p5.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity. Machine learning  and more...
-
-[PROJECT LIST ](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
 ## Machine Learning and Computer Vision
