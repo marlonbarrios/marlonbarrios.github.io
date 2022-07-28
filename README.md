@@ -3,7 +3,7 @@
 [Image from Culture Flocks: Flowers and Friends ](https://marlonbarrios.github.io/culturebots/)
 
 ## Marlon Barrios Solano
-## software engineer, creative technologist, researcher and educator
+## software engineer, creative technologist/coder, researcher and educator
 ### Web3 Education | REACT | p5.js | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 [B5 @Kernel0x Fellow](https://www.kernel.community/en/) | MotionDAO | Mindfulness and Yoga |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
@@ -12,12 +12,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
 [SKILLS](https://marlonbarrios.github.io/#skills) | [WEB3/WEB2]([https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | 
-[RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing)
+[RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) |. [ MINDFULNESS](https://github.com/marlonbarrios/marlonbarrios.github.io/edit/mondrian/README.md#minfulness--somatics--yoga) |
 
 ## Bio
 
-I have been fascinated by computational and networked systems, the web and its socio-cultural implications. For more than 30 years, as a dancer, digital artist and educator, I have always been interested in generative practices and building rule based systems with software, compositional scores  and collaborative platforms. I have always been driven by curiosity on technological and epistemic changes, my capacity to see the whole and its parts; to make transdisciplinary connections.  I  move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I am fascinated by generative arts the potential of the blockchain for financial inclusion and innovation. I  hold and MF in Dance and Technology ( yes, that is a thing!!) and I am a graduate of the General AssemblySoftware Engineering Immersive Program (December 2021) and a [Kernel Fellow Block5 2022](https://www.kernel.community/en/). I love expresive coding and I teach vipassana meditation and yoga.
-
+I have been fascinated by the interection of movement and digital arts, embodied cognition, computational and networked system and its socio-cultural implications. For more than 30 years, as a dancer, digital artist and educator, I have always been interested in generative practices and building rule based systems with software, compositional scores  and collaborative platforms. I have always been driven by curiosity on technological and epistemic changes, by my capacity to see the whole and its parts; to make transdisciplinary connections.  I  move fast and efficiently from large scale problems, such as networked systems, complex cultural fenome to the specificities of software implementation and creation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I create  generative asethtic systems  using code and the web and explore the potential of the blockchain for financial inclusion and innovation. I hold and MF in Dance and Technology (yes,that is a thing!!) and I am a graduate of the General AssemblySoftware Engineering Immersive Program (December 2021) and a [Kernel Fellow Block5 2022](https://www.kernel.community/en/). I teach vipassana meditation to artits and creative technologists.
 
 [Download my  CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf) | [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
