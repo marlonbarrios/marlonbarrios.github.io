@@ -154,8 +154,15 @@ As an interdisciplinary artist and researcher working in the intersection of dan
 
 [Designing Unstable Landscapes: Improvisational Dance within Cognitive Systems, published in the book Dance and Cognition edited by Johannes Birringer](https://github.com/marlonbarrios/how_like_a_network_essay')
 
+## Minfulness + Somatics + yoga
 
-[More Information](https://www.dance-tech.net/profile/network_producer 'more information')
+[Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
+
+![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
+
+
+[More Information about Marlon Barrios Solano](https://www.dance-tech.net/profile/network_producer 'more information')
+
 
 Telegram
 
