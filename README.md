@@ -1,6 +1,6 @@
-![Screen Shot 2022-06-28 at 5 03 43 PM](https://user-images.githubusercontent.com/90220317/176287703-956c2d08-66b3-4f16-b56b-41376df83334.png)
+![culture_bot (54)](https://user-images.githubusercontent.com/90220317/181599104-3d677705-1d87-4b0a-9093-b8f73262ee09.jpg)
 
-[Image from Wolfram Cellular Automata](https://marlonbarrios.github.io/wolfram_one_dim/)
+[Image from Culture Flocks: Flowers and Friends ](https://marlonbarrios.github.io/culturebots/)
 
 ## Marlon Barrios Solano
 ## software engineer, creative technologist, researcher and educator
@@ -77,13 +77,14 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 ## CREATIVE CODING & GENERATIVE ART
 
-[PROJECT](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
-![morphing_rainbows0 (1)](https://user-images.githubusercontent.com/90220317/176286615-4024fd02-28cf-44f2-8852-a9118ab26465.png)
+![drawing (4)](https://user-images.githubusercontent.com/90220317/181599829-36fd15b5-a9b7-4d4f-aecf-bfb0272ccb4d.jpg)
+
 
 This is a collection with  projects using p5.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity. Machine learning  and more...
 
-[PROJECT](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
