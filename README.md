@@ -1,6 +1,6 @@
 ![culture_bot (54)](https://user-images.githubusercontent.com/90220317/181599104-3d677705-1d87-4b0a-9093-b8f73262ee09.jpg)
 
-[Image from Culture Flocks: Flowers and Friends ](https://marlonbarrios.github.io/culturebots/)
+[Image from Culture Flocks: Flowers and Friends ](https://marlonbarrios.github.io/flowersandfriends/)
 
 ## Marlon Barrios Solano
 ## software engineer, creative technologist/coder, researcher and educator
@@ -68,7 +68,7 @@ I have been fascinated by the intersection of movement and digital arts, embodie
 
 AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
 
-[MotionDAO in Notion](https://olive-continent-a23.notion.site/MotionDAO-A-WEB3-Dancing-Ecosystem-6e9b46865dcd4021a1d4077fcffb9f3f 'MotionDAO')
+[MotionDAO](http://motiondao.art/ 'MotionDAO')
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
 
