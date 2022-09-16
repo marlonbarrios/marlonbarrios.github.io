@@ -3,8 +3,9 @@
 [Image from Culture Flocks: Flowers and Friends ](https://marlonbarrios.github.io/flowersandfriends/)
 
 ## Marlon Barrios Solano
-## software engineer, creative technologist/coder, researcher and educator
-### Web3 Education | REACT | p5.js | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 [B5 @Kernel0x Fellow](https://www.kernel.community/en/) | MotionDAO | Mindfulness and Yoga |
+## software engineering, creative technology, creative coding, dance improvisation and insight meditation.
+## Art, research and education
+### Web3 Education |  p5.js | REACT | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 [B5 @Kernel0x Fellow](https://www.kernel.community/en/) | MotionDAO | Mindfulness and Yoga |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
@@ -16,7 +17,7 @@
 
 ## Bio
 
-I have been fascinated by the intersection of movement and digital arts, embodied cognition, computational and networked systems and their socio-cultural implications. For more than 20 years, as a professional dancer, digital artist and educator, I have always been interested in generative practices and building rule based systems with software, compositional scores  and collaborative platforms. I have always been driven by curiosity on technological and epistemic changes, by my capacity to see the whole and its parts; to make transdisciplinary connections. I  move fast and efficiently from large scale problems, such as networked systems, complex cultural fenomena to the specificities of software implementation and creation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I create  generative aesthetic systems  using code and the web and explore the potential of the blockchain for financial inclusion and innovation. I hold an MFA in Dance and Technology from The Ohio State University (yes,that is a thing!!) and I am a graduate of the General Assembly Software Engineering Immersive Program (December 2021) and a [Kernel Fellow Block5 2022](https://www.kernel.community/en/). I teach vipassana meditation to artits and creative technologists.
+I have been fascinated by the intersection of movement and digital arts, embodied cognition, computational and networked systems and their socio-cultural implications. For more than 30 years, as a professional dancer, digital artist and educator, I have always been interested in generative practices and building rule based systems with software, compositional scores  and collaborative platforms. I have always been driven by curiosity on technological and epistemic changes, by my capacity to see the whole and its parts; to make transdisciplinary connections. I  move fast and efficiently from large scale problems, such as networked systems, complex cultural fenomena to the specificities of software implementation and creation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I create generative aesthetic systems  using code and the web and explore the potential of the blockchain for financial inclusion and innovation. I hold an MFA in Dance and Technology from The Ohio State University (yes,that is a thing!!) and I am a graduate of the General Assembly Software Engineering Immersive Program (December 2021) and a [Kernel Fellow Block5 2022](https://www.kernel.community/en/). I teach vipassana meditation to artits and creative technologists.
 
 [Download my  CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf) | [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
