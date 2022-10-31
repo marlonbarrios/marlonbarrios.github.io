@@ -1,6 +1,9 @@
-![culture_bot (54)](https://user-images.githubusercontent.com/90220317/181599104-3d677705-1d87-4b0a-9093-b8f73262ee09.jpg)
+//![culture_bot (54)](https://user-images.githubusercontent.com/90220317/181599104-3d677705-1d87-4b0a-9093-b8f73262ee09.jpg)
 
-[Image from Culture Flocks: Flowers and Friends ](https://marlonbarrios.github.io/flowersandfriends/)
+![309266480_10162104606275968_4401896488384023777_n](https://user-images.githubusercontent.com/90220317/199080378-d2029010-c410-4c63-8855-b43fb39afc0a.jpeg)
+
+
+[Image from 8 Circles (Song Vosializer): Flowers and Friends ](https://marlonbarrios.github.io/flowersandfriends/)
 
 ## Marlon Barrios Solano
 ## software engineering, creative technology, creative coding, dance improvisation and insight meditation.
