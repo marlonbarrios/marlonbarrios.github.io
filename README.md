@@ -17,7 +17,15 @@
 
 ## Bio
 
-I am an interdisciplinary artist, researcher and educator. I’ve been exploring dance  improvisation, code, generative systems, and algorithmic processes as a means of producing artwork and knowledge creation. I have always been interested in generative systems with software, compositional scores  and collaborative platforms. I have always been driven by curiosity on technological and epistemic changes, by my capacity to see the whole and its parts; to make transdisciplinary connections. I  move fast and efficiently from large scale problems, such as networked systems, complex cultural fenomena to the specificities of software implementation and creation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I create generative aesthetic systems  using code and the web. I explore the potential of the blockchain for financial inclusion and innovation. I hold an MFA in Dance and Technology from The Ohio State University (yes,that is a thing!!) and I am a graduate of the General Assembly Software Engineering Immersive Program (December 2021) and a [Kernel Fellow Block5 2022](https://www.kernel.community/en/). I teach vipassana meditation to artits and creative technologists.
+Marlon Barrios Solano is a Venezuelan-American interdisciplinary artist, Educator and Researcher based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
+
+I have worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He graduated from The General Assembly Software Engineering Immersive Program in December 2021.
+
+He has taught and developed many international projects in the US, Europe, North Africa, the Middle East and South America.
+
+As a dancer in NYC, he collaborated with choreographers Lynn Shapiro, Merian Soto, Dean Moss, Bill Young and Susan Marshall and with musicians Philip Glass, John Zorn and Erik Friedlander. Marlon was a research associate at the Inter-University of Dance/University of The Arts (UDK/HZT) in Berlin (Germany) from 2013 to 2016. He was 2017 Hombroich Fellow (Germany) and a  artist/researcher  in residency at ICK Amsterdam 2013-14 and at the Gilles Jobin Company in Geneva (Switzerland) 2009-2012.
+
+He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Meditation Center (USA). He studies and practices at Insight Meditation Society (USA) and Beatenberg Meditation Center (Switzerland).He is a student of the Somatic Experiencing Certification Program (NYC) and he is an  Embodyoga® 200 Hour Teacher (RYT200). From 2016 to 2021.. Marlon has an MFA in Dance and Technology 2004 (new media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
 
 [Download my  CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf) | [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
