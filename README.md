@@ -66,33 +66,6 @@ He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Medita
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
-## WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
-
-![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
-
-AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
-
-[MotionDAO](http://motiondao.art/ 'MotionDAO')
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-## CREATIVE CODING & GENERATIVE ART
-
-[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-![drawing (4)](https://user-images.githubusercontent.com/90220317/181599829-36fd15b5-a9b7-4d4f-aecf-bfb0272ccb4d.jpg)
-
-
-This is a collection with  projects using p5.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity. Machine learning  and more...
-
-[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
 
 ## FULL STACK DEVELOPMENT
 
@@ -121,6 +94,21 @@ A cryptocurrency price tracker which gets the 20 most popular cryptocurrencies f
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
+
+## CREATIVE CODING & GENERATIVE ART
+
+[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+![drawing (4)](https://user-images.githubusercontent.com/90220317/181599829-36fd15b5-a9b7-4d4f-aecf-bfb0272ccb4d.jpg)
+
+
+This is a collection with  projects using p5.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity. Machine learning  and more...
+
+[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
+
+
 ## VANILLA JAVASCRIPT PROJECTS
 
 [LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
@@ -140,6 +128,21 @@ This is a collection of projects as practice on the versatility and power of Van
 ![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176320611-6a3948ee-4c74-4bba-8e73-dab5aa21522b.png)
 
 [Projects](https://marlonbarrios.github.io/comp_viz_ml5/ 'C Projects')
+
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
+
+
+## WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
+
+[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
+
+![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
+
+AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
+
+[MotionDAO](http://motiondao.art/ 'MotionDAO')
+
+[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
