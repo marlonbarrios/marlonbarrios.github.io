@@ -3,8 +3,7 @@
 [Image from 8 Circles (Song Visualizer)](https://marlonbarrios.github.io/8circles/)
 
 # Marlon Barrios Solano
-## software engineering, creative development, creative coding, generative arts and insight meditation.
-##ART + TECH, research and education
+## software engineering, creative development/coding, generative arts and insight meditation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
@@ -15,7 +14,7 @@
 
 ## Bio
 
-Marlon Barrios Solano is a Venezuelan-American creative technologiest, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
+Marlon Barrios Solano is a Venezuelan-American creative technologist, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
 He has worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He graduated from The General Assembly Software Engineering Immersive Program in December 2021.
 
