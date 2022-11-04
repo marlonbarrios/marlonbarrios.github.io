@@ -3,7 +3,7 @@
 [Image from 8 Circles (Song Visualizer)](https://marlonbarrios.github.io/8circles/)
 
 # Marlon Barrios Solano
-## software engineering, creative development, creative coding, dance improvisation and insight meditation.
+## software engineering, creative development, creative coding, generative arts and insight meditation.
 ##ART + TECH, research and education
 ### Web3 Education |  p5.js | REACT | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 [B5 @Kernel0x Fellow](https://www.kernel.community/en/) | MotionDAO | Mindfulness and Yoga |
 
