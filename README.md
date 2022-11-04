@@ -18,7 +18,7 @@
 
 Marlon Barrios Solano is a Venezuelan-American creative technologiest, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
-I have worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He graduated from The General Assembly Software Engineering Immersive Program in December 2021.
+He has worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He graduated from The General Assembly Software Engineering Immersive Program in December 2021.
 
 He has taught and developed many international projects in the US, Europe, North Africa, the Middle East and South America.
 
