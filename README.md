@@ -5,7 +5,6 @@
 # Marlon Barrios Solano
 ## software engineering, creative development, creative coding, generative arts and insight meditation.
 ##ART + TECH, research and education
-### Web3 Education |  p5.js | REACT | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 [B5 @Kernel0x Fellow](https://www.kernel.community/en/) | MotionDAO | Mindfulness and Yoga |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
