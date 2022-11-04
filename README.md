@@ -1,11 +1,10 @@
 ![309266480_10162104606275968_4401896488384023777_n](https://user-images.githubusercontent.com/90220317/199080378-d2029010-c410-4c63-8855-b43fb39afc0a.jpeg)
 
-
 [Image from 8 Circles (Song Visualizer)](https://marlonbarrios.github.io/8circles/)
 
-## Marlon Barrios Solano
-## software engineering, creative technology, creative coding, dance improvisation and insight meditation.
-## Art, research and education
+# Marlon Barrios Solano
+## software engineering, creative development, creative coding, dance improvisation and insight meditation.
+##ART + TECH, research and education
 ### Web3 Education |  p5.js | REACT | React Native | GraphQL | Next.js | Solidity | WEB3+Arts+Tech | DAO+Social Networks |🌱 [B5 @Kernel0x Fellow](https://www.kernel.community/en/) | MotionDAO | Mindfulness and Yoga |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
@@ -13,12 +12,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
-[SKILLS](https://marlonbarrios.github.io/#skills) | [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | 
-[RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
+[SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
 
 ## Bio
 
-Marlon Barrios Solano is a Venezuelan-American interdisciplinary artist, Educator and Researcher based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
+Marlon Barrios Solano is a Venezuelan-American creative technologiest, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
 I have worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He graduated from The General Assembly Software Engineering Immersive Program in December 2021.
 
@@ -28,7 +26,7 @@ As a dancer in NYC, he collaborated with choreographers Lynn Shapiro, Merian Sot
 
 He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Meditation Center (USA). He studies and practices at Insight Meditation Society (USA) and Beatenberg Meditation Center (Switzerland).He is a student of the Somatic Experiencing Certification Program (NYC) and he is an  Embodyoga® 200 Hour Teacher (RYT200). From 2016 to 2021.. Marlon has an MFA in Dance and Technology 2004 (new media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
 
-[Download my  CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf) | [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
+[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf) | [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
 ## SKILLS
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
