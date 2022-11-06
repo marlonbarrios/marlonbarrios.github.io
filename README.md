@@ -22,9 +22,11 @@ He has taught and developed many international projects in the US, Europe, North
 
 As a dancer in NYC, he collaborated with choreographers Lynn Shapiro, Merian Soto, Dean Moss, Bill Young and Susan Marshall and with musicians Philip Glass, John Zorn and Erik Friedlander. Marlon was a research associate at the Inter-University of Dance/University of The Arts (UDK/HZT) in Berlin (Germany) from 2013 to 2016. He was 2017 Hombroich Fellow (Germany) and a  artist/researcher  in residency at ICK Amsterdam 2013-14 and at the Gilles Jobin Company in Geneva (Switzerland) 2009-2012.
 
+
 He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Meditation Center (USA). He studies and practices at Insight Meditation Society (USA) and Beatenberg Meditation Center (Switzerland).He is a student of the Somatic Experiencing Certification Program (NYC) and he is an  Embodyoga® 200 Hour Teacher (RYT200). From 2016 to 2021.. Marlon has an MFA in Dance and Technology 2004 (new media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
 
-[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/8781624/mbscv_5_26.pdf) | [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
+[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/9946156/mbscv_11_03_2022.pdf)
+[This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
 ## SKILLS
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
