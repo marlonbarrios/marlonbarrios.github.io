@@ -31,6 +31,8 @@ He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Medita
 ![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
 ![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "a title")
 ![P5js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=FFFFFF&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/three.js-ED225D?logo=p5.js&logoColor=FFFFFF&style=for-the-badge)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "a title")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "a title")
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "a title")
