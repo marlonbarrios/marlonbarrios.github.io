@@ -14,7 +14,11 @@
 
 ![260815709_10161476282610968_4476833928170177908_n](https://user-images.githubusercontent.com/90220317/200597885-ff21d6d4-b7e4-4169-88e9-cf4dfa292302.jpeg)
 
-## Summary
+## Summary!
+[260815709_10161476282610968_4476833928170177908_n](https://user-images.githubusercontent.com/90220317/200599836-45a66a58-e091-42f1-8467-8d97c91c720c.jpeg)
+
+
+![ScreenShot20120529at7 45 54PM](https://user-images.githubusercontent.com/90220317/200597809-a0acfe81-4e9b-4fcb-8d47-4603a97d9172.png)
 
 I am an interdiciplinary artist, creative technologist, researcher and educator with passion for complexity (systems), networked systems, movement arts, contemplative practices, social innovation and community development. I danced profesionaly for more than 20 years and I have done research on embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care. I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development)
 
@@ -25,7 +29,7 @@ Currently, I am developing applications with modern JavaScript frameworks explor
 
 ## Bio
 
-![ScreenShot20120529at7 45 54PM](https://user-images.githubusercontent.com/90220317/200597809-a0acfe81-4e9b-4fcb-8d47-4603a97d9172.png)
+
 
 Marlon Barrios Solano is a Venezuelan-American creative technologist, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
