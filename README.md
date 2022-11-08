@@ -21,7 +21,7 @@ I am an interdiciplinary artist, creative technologist, researcher and educator 
 
 I have been interested in creating platforms with a p2p architecture and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. 
 
-Currently, I am developing applications with modern JavaScript frameworks exploring the potential of WEBXR, WEBGL, ML for mixed reality experiences, blockchain and weareables. Power to the browser!
+Currently, I am exploring spatial computing and immersive technology developing applications for the browser with modern JavaScript framworks and API such as: WEBXR, WEBGL, ML, and the blockchain.
 
 
 ## Bio
