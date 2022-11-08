@@ -12,13 +12,10 @@
 
 [SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [MACHINE LEARNING + COMPUTER VISION XR](https://marlonbarrios.github.io/#machine-learning-and-computer-vision) |  [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
 
-![260815709_10161476282610968_4476833928170177908_n](https://user-images.githubusercontent.com/90220317/200597885-ff21d6d4-b7e4-4169-88e9-cf4dfa292302.jpeg)
-
-## Summary!
-[260815709_10161476282610968_4476833928170177908_n](https://user-images.githubusercontent.com/90220317/200599836-45a66a58-e091-42f1-8467-8d97c91c720c.jpeg)
-
 
 ![ScreenShot20120529at7 45 54PM](https://user-images.githubusercontent.com/90220317/200597809-a0acfe81-4e9b-4fcb-8d47-4603a97d9172.png)
+
+## Summary!
 
 I am an interdiciplinary artist, creative technologist, researcher and educator with passion for complexity (systems), networked systems, movement arts, contemplative practices, social innovation and community development. I danced profesionaly for more than 20 years and I have done research on embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care. I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development)
 
