@@ -10,23 +10,33 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
-[SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
+[SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [MACHINE LEARNING + COMPUTER VISION XR](https://marlonbarrios.github.io/#machine-learning-and-computer-vision) [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
 
 ## Sumary
 
-I am a software engineer, creative technologist, researcher and educator with passion for complexity, networked systems, movement arts, social innovation and community development. I have an interdisciplinary background: digital technology,  dance and cognitive science. I was always interested in  making, creating platforms and establishing collaborations. I have also always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. I am fascinated by the possibilities of the blockchain for financial inclusion and social innovation. I am the creator of dance-tech.net and [MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development)
+I am an interdiciplinary artists, creative technologist, researcher and educator with passion for complexity, networked systems, movement arts, contemplative practices, social innovation and community development. I danced profesionaly for more than 20 years and I have done research on embodied copgnition, interactive multimedia systems, human-computer interaction, netwoked sociotechnical systems/bottom-up architectures for creative processes and knowledge transmission and aesthetic software. I am fascinated by the possibilities of the blockchain for artictic practices and its implications for governance, ownership and the commons  for  the creative industries/creators economies. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development)
+
+I have been interested in creating platforms with a p2p architecture and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. 
+
+Currently, I am developing applications with modern JavaScript frameworks exploring the potential of WEBXR, WEBGL and ML for mixed reality experiences and weareables.
 
 ## Bio
 
 Marlon Barrios Solano is a Venezuelan-American creative technologist, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
-He has worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He graduated from The General Assembly Software Engineering Immersive Program in December 2021.
+He has worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He performed and developed interactive multimedia systems for dance performance and installations from 2003 to 2010. Marlon was a research associate at the Inter-University of Dance/University of The Arts (UDK/HZT) in Berlin (Germany) from 2013 to 2016. He was 2017 Hombroich Fellow (Germany) and an artist/researcher in residency at ICK Amsterdam 2013-14 and at the Gilles Jobin Company in Geneva (Switzerland) 2009-2012.
 
-He has taught and developed many international projects in the US, Europe, North Africa, the Middle East and South America.
+He has consulted, taught and developed many international projects in the US, Europe, North Africa, the Middle East and South America.
 
-As a dancer in NYC, he collaborated with choreographers Lynn Shapiro, Merian Soto, Dean Moss, Bill Young and Susan Marshall and with musicians Philip Glass, John Zorn and Erik Friedlander. He performed and developed interactive multimedia systems for dance performance and installations from 2003 to 2010. Marlon was a research associate at the Inter-University of Dance/University of The Arts (UDK/HZT) in Berlin (Germany) from 2013 to 2016. He was 2017 Hombroich Fellow (Germany) and an artist/researcher in residency at ICK Amsterdam 2013-14 and at the Gilles Jobin Company in Geneva (Switzerland) 2009-2012.
+As a dancer in NYC, he collaborated with choreographers Lynn Shapiro, Merian Soto, Dean Moss, Bill Young and Susan Marshall and with musicians Philip Glass, John Zorn and Erik Friedlander. 
 
-He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Meditation Center (USA). He studies and practices at Insight Meditation Society (USA) and Beatenberg Meditation Center (Switzerland).He is a student of the Somatic Experiencing Certification Program (NYC) and he is an  Embodyoga® 200 Hour Teacher (RYT200). From 2016 to 2021.. Marlon has an MFA in Dance and Technology 2004 (new media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
+He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Meditation Center (USA). He studies and practices at Insight Meditation Society (USA) and Beatenberg Meditation Center (Switzerland).He is a student of the Somatic Experiencing Certification Program (NYC) and he is an  Embodyoga® 200 Hour Teacher (RYT200). From 2016 to 2021.
+
+He has published more than [400 video interviews as one of the first international video bloggers]( https://duckduckgo.com/?q=you+tube+marlon+barrios+solano+dancetechtv+interviews&iar=videos&iax=videos&ia=videos) focused on the intersection of dance, arts, digital technology created pioneering XR projects for knowledge tramsission since 2012.
+
+He graduated from The General Assembly Software Engineering Immersive Program in December 2021 and he holds an MFA in Dance and Technology 2004 (new media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
+
+
 
 [Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/9946156/mbscv_11_03_2022.pdf)
 [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
