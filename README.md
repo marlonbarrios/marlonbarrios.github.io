@@ -12,15 +12,20 @@
 
 [SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [MACHINE LEARNING + COMPUTER VISION XR](https://marlonbarrios.github.io/#machine-learning-and-computer-vision) |  [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
 
-## Sumary
+![260815709_10161476282610968_4476833928170177908_n](https://user-images.githubusercontent.com/90220317/200597885-ff21d6d4-b7e4-4169-88e9-cf4dfa292302.jpeg)
 
-I am an interdiciplinary artist, creative technologist, researcher and educator with passion for complexity, networked systems, movement arts, contemplative practices, social innovation and community development. I danced profesionaly for more than 20 years and I have done research on embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care. I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development)
+## Summary
+
+I am an interdiciplinary artist, creative technologist, researcher and educator with passion for complexity (systems), networked systems, movement arts, contemplative practices, social innovation and community development. I danced profesionaly for more than 20 years and I have done research on embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care. I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development)
 
 I have been interested in creating platforms with a p2p architecture and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. 
 
 Currently, I am developing applications with modern JavaScript frameworks exploring the potential of WEBXR, WEBGL, ML for mixed reality experiences, blockchain and weareables. Power to the browser!
 
+
 ## Bio
+
+![ScreenShot20120529at7 45 54PM](https://user-images.githubusercontent.com/90220317/200597809-a0acfe81-4e9b-4fcb-8d47-4603a97d9172.png)
 
 Marlon Barrios Solano is a Venezuelan-American creative technologist, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
