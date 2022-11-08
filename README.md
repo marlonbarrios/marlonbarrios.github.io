@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 
-[SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [MACHINE LEARNING + COMPUTER VISION XR](https://marlonbarrios.github.io/#machine-learning-and-computer-vision) [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
+[SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [MACHINE LEARNING + COMPUTER VISION XR](https://marlonbarrios.github.io/#machine-learning-and-computer-vision) |  [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
 
 ## Sumary
 
@@ -18,7 +18,7 @@ I am an interdiciplinary artists, creative technologist, researcher and educator
 
 I have been interested in creating platforms with a p2p architecture and establishing collaborations. I have always been driven by curiosity and my capacity to see the whole and its parts. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, culture and people. 
 
-Currently, I am developing applications with modern JavaScript frameworks exploring the potential of WEBXR, WEBGL and ML for mixed reality experiences and weareables.
+Currently, I am developing applications with modern JavaScript frameworks exploring the potential of WEBXR, WEBGL, ML for mixed reality experiences, blockchain and weareables.
 
 ## Bio
 
@@ -35,8 +35,6 @@ He is a Certified Vipassana/Mindfulness Meditation Teacher by Spirit Rock Medita
 He has published more than [400 video interviews as one of the first international video bloggers]( https://duckduckgo.com/?q=you+tube+marlon+barrios+solano+dancetechtv+interviews&iar=videos&iax=videos&ia=videos) focused on the intersection of dance, arts, digital technology created pioneering XR projects for knowledge tramsission since 2012.
 
 He graduated from The General Assembly Software Engineering Immersive Program in December 2021 and he holds an MFA in Dance and Technology 2004 (new media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
-
-
 
 [Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/9946156/mbscv_11_03_2022.pdf)
 [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
