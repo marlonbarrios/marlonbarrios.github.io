@@ -95,7 +95,7 @@ As an interdisciplinary artist and researcher I have been fascinated by complexi
 
 I teach and consult for universities, arts centers, corporations, festivals and thinktanks. 
 
-Unstablelandscape is my porthumanist epistemic integrative framework for shared practices, fields of inquiry, facilitation toolbox and pedagogy. 
+Unstablelandscape is my post-humanist epistemic integrative framework for shared practices (Briadoti, Haraway...), fields of inquiry, facilitation toolbox and pedagogy. 
 
 I use improvisational/performance games, creatyive coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation and generative design.
 
