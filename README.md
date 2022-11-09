@@ -23,10 +23,7 @@ I have been interested in creating platforms with a p2p architecture and establi
 
 Currently, I am exploring spatial computing and immersive technology developing applications for the browser with modern JavaScript framworks and API such as: WEBXR, WEBGL, ML, and the blockchain.
 
-
 ## Bio
-
-
 
 Marlon Barrios Solano is a Venezuelan-American creative technologist, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
@@ -82,11 +79,67 @@ He graduated from The General Assembly Software Engineering Immersive Program in
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++teach+mindfulness+meditation+and+Yoga)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=We+live+in+an+ unstablelandscape)](https://git.io/typing-svg)
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
+## RESEARCH, TEACHING and WRITING
 
+## UnstableLandscape | Generativity and the Embodiments of Complexity
+
+![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
+
+Images froman Unstblelandscape Workshop and Performance/Installation at Connecticut College (2020)
+
+As an interdisciplinary artist and researcher I have been fascinated by complexity theory and self-organizing systems, working for many years in the intersection of imporvisationa and rule based dance/arts, computational creativity, bottom-up architectures for cohnition and embodiment, generative design and   p2p/blockchain technologies. 
+
+I teach and consult for universities, arts centers, corporations, festivals and thinktanks. 
+
+Unstablelandscape is my porthumanist epistemic integrative framework for shared practices, fields of inquiry, facilitation toolbox and pedagogy. 
+
+I use improvisational/performance games, creatyive coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation and generative design.
+
+I lead workshops and labs in North, Central and South America, North Africa, Middle East, Europe and the UK.
+
+## Essays
+
+[The Dance-tech Project: How like a Netwok, published in the book Transmission in Motion: The Technologizing of Dance, edited by Maaike Bleeker](https://github.com/marlonbarrios/how_like_a_network_essay')
+
+[Designing Unstable Landscapes: Improvisational Dance within Cognitive Systems, published in the book Dance and Cognition edited by Johannes Birringer](https://github.com/marlonbarrios/how_like_a_network_essay')
+
+## CREATIVE CODING | GENERATIVE ART
+
+[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+![drawing (4)](https://user-images.githubusercontent.com/90220317/181599829-36fd15b5-a9b7-4d4f-aecf-bfb0272ccb4d.jpg)
+
+This is a collection with  projects using p5.js, Canvas HTML and Three.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity.
+
+[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
+
+## Machine Learning and Computer Vision and more
+
+![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176320611-6a3948ee-4c74-4bba-8e73-dab5aa21522b.png)
+
+[Projects](https://marlonbarrios.github.io/comp_viz_ml5/ 'C Projects')
+
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
+
+## WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
+
+[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
+
+![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
+
+AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
+
+[MotionDAO](http://motiondao.art/ 'MotionDAO')
+
+[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
+
+[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 ## FULL STACK DEVELOPMENT
 
@@ -101,7 +154,6 @@ I have developed several projects with modern web development framewors.
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
 
 
-
 ## MOBILE DEVELOPMENT IN REACT NATIVE
 
 [See project details](https://marlonbarrios.github.io/crypto-tracker-rn/)
@@ -111,21 +163,6 @@ I have developed several projects with modern web development framewors.
 [See project details](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 A cryptocurrency price tracker which gets the 20 most popular cryptocurrencies from the [Coin Gecko API](https://www.coingecko.com/en/api) and displays them in a list with charts using React Native.
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-
-
-## CREATIVE CODING & GENERATIVE ART
-
-[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-![drawing (4)](https://user-images.githubusercontent.com/90220317/181599829-36fd15b5-a9b7-4d4f-aecf-bfb0272ccb4d.jpg)
-
-
-This is a collection with  projects using p5.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity. Machine learning  and more...
-
-[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
@@ -142,46 +179,6 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-
-
-## Machine Learning and Computer Vision
-
-![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176320611-6a3948ee-4c74-4bba-8e73-dab5aa21522b.png)
-
-[Projects](https://marlonbarrios.github.io/comp_viz_ml5/ 'C Projects')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-
-## WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
-
-![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
-
-AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
-
-[MotionDAO](http://motiondao.art/ 'MotionDAO')
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-
-## RESEARCH, TEACHING and WRITING
-
-## UnstableLandscape | Art + Tech + P2P + Blockchain + Generativity
-
-![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
-
-As an interdisciplinary artist and researcher working in the intersection of dance, computation, networks, cognitive science and blockchain studies, I teach and consult for universities, arts centers, corporations, festivals and thinktanks. I use improvisational/performance games, interactive media, somatics, vipassana meditation and design thinking as part of my facilitation toolbox and pedagogy: UnstableLandscape. I led workshops and labs in North, Central and South America, North Africa, Middle East, Europe and the UK.
-
-## Essays
-
-
-[The Dance-tech Project: How like a Netwok, published in the book Transmission in Motion: The Technologizing of Dance, edited by Maaike Bleeker](https://github.com/marlonbarrios/how_like_a_network_essay')
-
-[Designing Unstable Landscapes: Improvisational Dance within Cognitive Systems, published in the book Dance and Cognition edited by Johannes Birringer](https://github.com/marlonbarrios/how_like_a_network_essay')
 
 ## Minfulness + Somatics + yoga
 
