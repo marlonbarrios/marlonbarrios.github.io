@@ -2,6 +2,13 @@
 
 [Image from 8 Circles (Song Visualizer)](https://marlonbarrios.github.io/8circles/)
 
+
+This is an AR image:
+The image with the circles (red) is augmented with a layer video as texture ona a 3D plane. Load this  link on  your smart phone scanning the QR code  then scan the image. You will see a plane with a video and sound  floating above the image.
+
+<img width="176" alt="Screen Shot 2022-11-12 at 9 56 13 PM" src="https://user-images.githubusercontent.com/90220317/201503556-5c1705e1-e2d6-4bda-845c-f25cb5e73254.png">
+
+
 # Marlon Barrios Solano
 ## software engineering, creative development/coding, generative arts and insight meditation.
 
