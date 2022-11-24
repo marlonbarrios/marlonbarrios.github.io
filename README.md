@@ -102,7 +102,7 @@ I teach and consult for universities, arts centers, corporations, festivals and 
 
 Unstablelandscape is my post-humanist epistemic integrative framework for shared practices (Briadoti, Haraway...), fields of inquiry, facilitation toolbox and pedagogy. 
 
-I use improvisational/performance games, creatyive coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation and generative design.
+I use improvisational/performance games, creative coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation and generative design.
 
 I lead workshops and labs in North, Central and South America, North Africa, Middle East, Europe and the UK.
 
@@ -112,7 +112,7 @@ I lead workshops and labs in North, Central and South America, North Africa, Mid
 
 [Designing Unstable Landscapes: Improvisational Dance within Cognitive Systems, published in the book Dance and Cognition edited by Johannes Birringer](https://github.com/marlonbarrios/how_like_a_network_essay')
 
-## CREATIVE CODING | GENERATIVE ART
+## CREATIVE CODING | GENERATIVE ART AND DESIGN
 
 [PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
@@ -124,7 +124,7 @@ This is a collection with  projects using p5.js, Canvas HTML and Three.js explor
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-## Machine Learning and Computer Vision and more
+## XR/AR + MACHINE LEARNING 
 
 ![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176320611-6a3948ee-4c74-4bba-8e73-dab5aa21522b.png)
 
