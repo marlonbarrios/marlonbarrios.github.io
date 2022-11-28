@@ -23,9 +23,9 @@ The image with the circles  is augmented with a layer video as texture on a 3D p
 
 ## Porfolio Summary
 
-I am an a software engineer, creative technologist, artist, researcher and educator with passion for complexity, networked systems, dance, contemplative practices, and social innovation. I danced profesionaly for more than 20 years and I have done research on embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care.
+I am  a software engineer, creative technologist, artist and educator with passion for complexity, networked systems, dance, contemplative practices, and social innovation. I danced profesionaly for more than 30 years and started to use computers in my creative work since late 90s. As an interdiciplinary artist, I had the freedom of investigating embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care.
 
-I have been interested in creating platforms with a p2p architecture and establishing collaborations.  I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development).
+I have been interested in creating platforms with a p2p architecture and establishing collaborations. I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development).
 
 I have always been driven by curiosity and my capacity to see the whole and its parts always from an embodied perspective. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, art, culture and people. 
 
@@ -35,7 +35,7 @@ Currently, I am focused on the posibilities of JS and the modern JS libraries  a
 
 Marlon Barrios Solano is a Venezuelan-American creative technologist, reseracher and educator based between the US and Europe working in the intersections of software engineering, improvisational dance, and embodied awareness.
 
-He has worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and web3 communities since 2020. He performed with and developed interactive multimedia systems for dance performance and installations from 2003 to 2010. Marlon was a research associate at the Inter-University of Dance/University of The Arts (UDK/HZT) in Berlin (Germany) from 2013 to 2016. He was 2017 Hombroich Fellow (Germany) and an artist/researcher in residency at ICK Amsterdam 2013-14 and at the Gilles Jobin Company in Geneva (Switzerland) 2009-2012.
+He has worked with digital and networked systems since 2002 and as a modern java Script web developer, creative coder  and on web3 communities since 2020. He performed with and developed interactive multimedia systems for dance performance and installations from 2003 to 2010. Marlon was a research associate at the Inter-University of Dance/University of The Arts (UDK/HZT) in Berlin (Germany) from 2013 to 2016. He was 2017 Hombroich Fellow (Germany) and an artist/researcher in residency at ICK Amsterdam 2013-14 and at the Gilles Jobin Company in Geneva (Switzerland) 2009-2012.
 
 He has published more than [400 video interviews as one of the first international video bloggers didicated to dance and technology studies]( https://duckduckgo.com/?q=you+tube+marlon+barrios+solano+dancetechtv+interviews&iar=videos&iax=videos&ia=videos) focused on the intersection of dance, arts, digital technology, [several essays](https://marlonbarrios.github.io/#research-teaching-and-writing) and has created pioneering XR projects for knowledge tramsission since 2012 within dance/art festivals.
 
@@ -48,6 +48,7 @@ From 2016 to 2021, he lived and worked at Insight Meditation Society (USA) and c
 He graduated from The General Assembly Software Engineering Immersive Program in December 2021 and he holds an MFA in Dance and Technology 2004 (digital media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
 
 [Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/9946156/mbscv_11_03_2022.pdf)
+
 [This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
 
 ## SKILLS
