@@ -1,4 +1,4 @@
-# HIGHTLIGHTS
+# HIGHLIGHTS
 
 <img width="967" alt="Screen Shot 2023-02-04 at 11 12 51 AM" src="https://user-images.githubusercontent.com/90220317/216780543-6efb2779-ab33-438e-a223-48ac162d734a.png">
 
@@ -13,6 +13,8 @@ FAUX uses Artificial Intelligence to generate a synthetic social media post of n
 <img width="963" alt="Screen Shot 2023-02-04 at 11 52 29 AM" src="https://user-images.githubusercontent.com/90220317/216781904-08fda428-e6f5-40ed-9ac3-37cdbacd947c.png">
 
 [Projects](https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
+
+
 
 ## Cool AR!!
 
@@ -37,11 +39,11 @@ The image with the circles  is augmented with a layer video as texture on a 3D p
 
 I am  a software engineer, creative technologist, artist and educator with passion for complexity, networked systems, dance, contemplative practices, and social innovation. I danced profesionaly for more than 30 years and started to use computers in my creative work since late 90s. As an interdiciplinary artist, I had the freedom of investigating embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, generative AI, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care.
 
-I have been interested in creating platforms with a p2p architecture and establishing collaborations. I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development).
+I am fascinated by the possibilities of the intersection of emerging technologies, art creativity and cognition.
 
 I have always been driven by curiosity and my capacity to see the whole and its parts always from an embodied perspective. I have learned to move fast and efficiently from large scale problems, such as networks to the specificities of software implementation. I have lots of collaborative experience envisioning, engineering, coordinating and passion for deploying cutting edge international projects intersecting software, art, culture and people. 
 
-Currently, I am focused on the posibilities of JS and the modern JS libraries  and exploring  their potential for spatial computing, machine learning and immersive and mixed reality applications.
+Currently, I am focused on the posibilities generative AI, web3 and synthetic and hybrid cognition.
 
 ## Longish Bio
 
@@ -59,11 +61,10 @@ From 2016 to 2021, he lived and worked at Insight Meditation Society (USA) and c
 
 He graduated from The General Assembly Software Engineering Immersive Program in December 2021 and he holds an MFA in Dance and Technology 2004 (digital media, performance of improvisation and embodied cognition) from The Ohio State University, USA.
 
-[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/9946156/mbscv_11_03_2022.pdf)
-
-[This README.md](https://github.com/marlonbarrios/marlonbarrios.github.io/blob/mondrian/README.md)
+[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/10609334/MBS_CV_Feb23.pdf)
 
 ## SKILLS
+
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
 ![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
 ![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "a title")
@@ -101,6 +102,7 @@ He graduated from The General Assembly Software Engineering Immersive Program in
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
+
 
 
 ## CREATIVE CODING | GENERATIVE ART AND DESIGN
