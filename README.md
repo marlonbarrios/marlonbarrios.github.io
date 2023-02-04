@@ -8,6 +8,12 @@ FAUX uses Artificial Intelligence to generate a synthetic social media post of n
 
 [Live app](https://faux-ai.netlify.app/)
 
+## Speculative Clocks: Visualizing Time Forms
+
+<img width="963" alt="Screen Shot 2023-02-04 at 11 52 29 AM" src="https://user-images.githubusercontent.com/90220317/216781904-08fda428-e6f5-40ed-9ac3-37cdbacd947c.png">
+
+[Projects](https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
+
 ## Cool AR!!
 
 ![309266480_10162104606275968_4401896488384023777_n](https://user-images.githubusercontent.com/90220317/199080378-d2029010-c410-4c63-8855-b43fb39afc0a.jpeg)
@@ -26,11 +32,6 @@ The image with the circles  is augmented with a layer video as texture on a 3D p
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
-
-[SKILLS](https://marlonbarrios.github.io/#skills) | [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/#full-stack-development) | [MOBILE DEVELOPMENT](https://marlonbarrios.github.io/#mobile-development-in-react-native) | [CREATIVE CODING & GENERATIVE ART](https://marlonbarrios.github.io/#creative-coding--generative-art) | [MACHINE LEARNING + COMPUTER VISION XR](https://marlonbarrios.github.io/#machine-learning-and-computer-vision) |  [WEB3/WEB2](https://marlonbarrios.github.io/#web3web-20-online-communities-development) | [RESEARCH, TEACHING & WRITING](https://marlonbarrios.github.io/#research-teaching-and-writing) | [MINDFULNESS](https://marlonbarrios.github.io/mindfulness/) |
-
-
-![ScreenShot20120529at7 45 54PM](https://user-images.githubusercontent.com/90220317/200597809-a0acfe81-4e9b-4fcb-8d47-4603a97d9172.png)
 
 ## Porfolio Summary
 
