@@ -12,7 +12,7 @@ FAUX uses Artificial Intelligence to generate a synthetic social media post of n
 
 <img width="963" alt="Screen Shot 2023-02-04 at 11 52 29 AM" src="https://user-images.githubusercontent.com/90220317/216781904-08fda428-e6f5-40ed-9ac3-37cdbacd947c.png">
 
-[Projects](https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
+[PROJECTS]((https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
 
 
 
@@ -131,11 +131,9 @@ I am a multidisciplinary professional with a passion for technology, art, and ed
 
 ## MOBILE DEVELOPMENT IN REACT NATIVE
 
-[See project details](https://marlonbarrios.github.io/crypto-tracker-rn/)
+[[PROJECT](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 <img width="1440" alt="Screen Shot 2022-05-27 at 4 09 14 PM" src="https://user-images.githubusercontent.com/90220317/170784517-06d1ff36-2b7e-474a-9875-ba363dd549ac.png">
-
-[See project details](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
@@ -145,7 +143,6 @@ I am a multidisciplinary professional with a passion for technology, art, and ed
 
 <img width="1408" alt="github" src="https://user-images.githubusercontent.com/90220317/170297745-6f318c44-81b1-4e42-8954-faad6ce730f9.png">
 
-[LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
@@ -155,17 +152,13 @@ I am a multidisciplinary professional with a passion for technology, art, and ed
 
 ![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
 
-Images froman Unstblelandscape Workshop and Performance/Installation at Connecticut College (2020)
+As a passionate interdisciplinary artist and researcher, I have been captivated by the intricacies of complexity theory and self-organizing systems for many years. My work blends improvisational and rule-based dance/arts, computational creativity, bottom-up architectures for cognition and embodiment, generative design, and p2p/blockchain technologies to create innovative and thought-provoking pieces.
 
-As an interdisciplinary artist and researcher I have been fascinated by complexity theory and self-organizing systems, working for many years in the intersection of imporvisationa and rule based dance/arts, computational creativity, bottom-up architectures for cohnition and embodiment, generative design and   p2p/blockchain technologies. 
+In addition to my creative endeavors, I am also a sought-after teacher and consultant, working with universities, arts centers, corporations, festivals, and thinktanks to share my knowledge and experience.
 
-I teach and consult for universities, arts centers, corporations, festivals and thinktanks. 
+My "Unstablelandscape" framework is a post-humanist epistemic integrative approach to shared practices, fields of inquiry, facilitation, and pedagogy. I bring this framework to life through a unique combination of improvisational/performance games, creative coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation, and generative design.
 
-Unstablelandscape is my post-humanist epistemic integrative framework for shared practices (Briadoti, Haraway...), fields of inquiry, facilitation toolbox and pedagogy. 
-
-I use improvisational/performance games, creative coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation and generative design.
-
-I lead workshops and labs in North, Central and South America, North Africa, Middle East, Europe and the UK.
+I have traveled across North, Central and South America, North Africa, the Middle East, Europe, and the UK, leading workshops and labs and empowering participants to explore their creativity through my expertise and guidance.
 
 ## Essays
 
@@ -176,7 +169,6 @@ I lead workshops and labs in North, Central and South America, North Africa, Mid
 ## Minfulness + Somatics + yoga
 
 [Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
-
 
 ![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
 
