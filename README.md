@@ -104,14 +104,18 @@ He graduated from The General Assembly Software Engineering Immersive Program in
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
+## GENERATIVE AI 
+
+<img width="1360" alt="Screen Shot 2023-02-04 at 11 40 47 AM" src="https://user-images.githubusercontent.com/90220317/216783019-64d239eb-5fee-4f58-bd13-7d2ef70cb962.png">
+
+[PROJECTS](https://marlonbarrios.github.io/generative_ai/)
+
 
 ## CREATIVE CODING | GENERATIVE ART AND DESIGN
 
 [PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/)
 
 <img width="968" alt="Screen Shot 2023-02-04 at 11 52 39 AM" src="https://user-images.githubusercontent.com/90220317/216780388-bfe883e6-72a0-4169-a3df-1e4d2a3d24f1.png">
-
-This is a collection with  projects using p5.js, Canvas HTML and Three.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity.
 
 [PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
@@ -131,8 +135,6 @@ This is a collection with  projects using p5.js, Canvas HTML and Three.js explor
 
 ![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
 
-AI have been fascinated by networks and distributed systems. I have facilitated contexts of adoption and creative experimentation with Web2.0 and Web3 technologies; MotionDAO investigates ownership, governance and value creation within local and global communities of artists; MotionDAO operates supported and supporting the social networks dance-tech.net and movimiento.org. MotionDAO is part of the Near Protocol ecosystem.
-
 [MotionDAO](http://motiondao.art/ 'MotionDAO')
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
@@ -141,16 +143,11 @@ AI have been fascinated by networks and distributed systems. I have facilitated 
 
 ## FULL STACK DEVELOPMENT
 
-I have developed several projects with modern web development framewors.
-
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
-
 
 <img width="1516" alt="Screen Shot 2022-05-25 at 10 53 08 AM" src="https://user-images.githubusercontent.com/90220317/170292444-0584f207-c259-4524-a7c2-abfff5f197d3.png">
 
-
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
-
 
 ## MOBILE DEVELOPMENT IN REACT NATIVE
 
@@ -160,10 +157,7 @@ I have developed several projects with modern web development framewors.
 
 [See project details](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
-A cryptocurrency price tracker which gets the 20 most popular cryptocurrencies from the [Coin Gecko API](https://www.coingecko.com/en/api) and displays them in a list with charts using React Native.
-
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
 
 ## VANILLA JAVASCRIPT PROJECTS
 
@@ -171,13 +165,9 @@ A cryptocurrency price tracker which gets the 20 most popular cryptocurrencies f
 
 <img width="1408" alt="github" src="https://user-images.githubusercontent.com/90220317/170297745-6f318c44-81b1-4e42-8954-faad6ce730f9.png">
 
-This is a collection of projects as practice on the versatility and power of Vanilla or pure Java Script in combination with HTML5 and CSS3. The projects are linked to their LIVE apps and code REPOs. Enjoy
-
 [LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-
 
 ## RESEARCH, TEACHING and WRITING
 
@@ -207,11 +197,11 @@ I lead workshops and labs in North, Central and South America, North Africa, Mid
 
 [Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
 
+
 ![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
 
 
 [More Information about Marlon Barrios Solano](https://www.dance-tech.net/profile/network_producer 'more information')
-
 
 Telegram
 
