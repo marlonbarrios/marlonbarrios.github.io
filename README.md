@@ -1,3 +1,15 @@
+# HIGHTLIGHTS
+
+<img width="967" alt="Screen Shot 2023-02-04 at 11 12 51 AM" src="https://user-images.githubusercontent.com/90220317/216780543-6efb2779-ab33-438e-a223-48ac162d734a.png">
+
+## FAUX | This art(ist) does not exist
+
+FAUX uses Artificial Intelligence to generate a synthetic social media post of non-existing artists, new works and their lives. The new work is generated as the image for the post. The texts may include hashtags, handles, and emojis, making them eye-catching and engaging. Simply click the button to generate a text in first-person and an image that fits the style of the synthetic artist. Remember, this artist does not actually exist - or does it?
+
+[Live app](https://faux-ai.netlify.app/)
+
+## Cool AR!!
+
 ![309266480_10162104606275968_4401896488384023777_n](https://user-images.githubusercontent.com/90220317/199080378-d2029010-c410-4c63-8855-b43fb39afc0a.jpeg)
 
 [Image from 8 Circles (Song Visualizer)](https://marlonbarrios.github.io/8circles/)
@@ -5,7 +17,6 @@
 The image with the circles  is augmented with a layer video as texture on a 3D plane. Load this link in your smart phone scanning the QR code then scan the image. You will see a plane with a video and sound floating above the image.
 
 <img width="176" alt="Screen Shot 2022-11-12 at 9 56 13 PM" src="https://user-images.githubusercontent.com/90220317/201503556-5c1705e1-e2d6-4bda-845c-f25cb5e73254.png">
-
 
 # Marlon Barrios Solano
 
@@ -23,7 +34,7 @@ The image with the circles  is augmented with a layer video as texture on a 3D p
 
 ## Porfolio Summary
 
-I am  a software engineer, creative technologist, artist and educator with passion for complexity, networked systems, dance, contemplative practices, and social innovation. I danced profesionaly for more than 30 years and started to use computers in my creative work since late 90s. As an interdiciplinary artist, I had the freedom of investigating embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care.
+I am  a software engineer, creative technologist, artist and educator with passion for complexity, networked systems, dance, contemplative practices, and social innovation. I danced profesionaly for more than 30 years and started to use computers in my creative work since late 90s. As an interdiciplinary artist, I had the freedom of investigating embodied cognition, movement improvisation, awareness practices, interactive multimedia systems, human-computer interaction, aesthetic coding, generative AI, netwoked sociotechnical systems/bottom-up architectures for creative processes, knowledge transmission and care.
 
 I have been interested in creating platforms with a p2p architecture and establishing collaborations. I am fascinated by the possibilities of P2P technologies and the blockchain for artictic practices and its implications for governance, ownership, the commons and social change. I am the creator of [dance-tech.net and MotionDAO.](https://marlonbarrios.github.io/#web3web-20-online-communities-development).
 
@@ -90,35 +101,12 @@ He graduated from The General Assembly Software Engineering Immersive Program in
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-## RESEARCH, TEACHING and WRITING
-
-## UnstableLandscape | Generativity and the Embodiments of Complexity
-
-![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
-
-Images froman Unstblelandscape Workshop and Performance/Installation at Connecticut College (2020)
-
-As an interdisciplinary artist and researcher I have been fascinated by complexity theory and self-organizing systems, working for many years in the intersection of imporvisationa and rule based dance/arts, computational creativity, bottom-up architectures for cohnition and embodiment, generative design and   p2p/blockchain technologies. 
-
-I teach and consult for universities, arts centers, corporations, festivals and thinktanks. 
-
-Unstablelandscape is my post-humanist epistemic integrative framework for shared practices (Briadoti, Haraway...), fields of inquiry, facilitation toolbox and pedagogy. 
-
-I use improvisational/performance games, creative coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation and generative design.
-
-I lead workshops and labs in North, Central and South America, North Africa, Middle East, Europe and the UK.
-
-## Essays
-
-[The Dance-tech Project: How like a Netwok, published in the book Transmission in Motion: The Technologizing of Dance, edited by Maaike Bleeker](https://github.com/marlonbarrios/how_like_a_network_essay')
-
-[Designing Unstable Landscapes: Improvisational Dance within Cognitive Systems, published in the book Dance and Cognition edited by Johannes Birringer](https://github.com/marlonbarrios/how_like_a_network_essay')
 
 ## CREATIVE CODING | GENERATIVE ART AND DESIGN
 
 [PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
 
-![drawing (4)](https://user-images.githubusercontent.com/90220317/181599829-36fd15b5-a9b7-4d4f-aecf-bfb0272ccb4d.jpg)
+<img width="968" alt="Screen Shot 2023-02-04 at 11 52 39 AM" src="https://user-images.githubusercontent.com/90220317/216780388-bfe883e6-72a0-4169-a3df-1e4d2a3d24f1.png">
 
 This is a collection with  projects using p5.js, Canvas HTML and Three.js exploring simulation of complex systems and emergence properties with autonomous agents and interactivity.
 
@@ -186,6 +174,31 @@ This is a collection of projects as practice on the versatility and power of Van
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
+
+
+## RESEARCH, TEACHING and WRITING
+
+## UnstableLandscape | Generativity and the Embodiments of Complexity
+
+![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
+
+Images froman Unstblelandscape Workshop and Performance/Installation at Connecticut College (2020)
+
+As an interdisciplinary artist and researcher I have been fascinated by complexity theory and self-organizing systems, working for many years in the intersection of imporvisationa and rule based dance/arts, computational creativity, bottom-up architectures for cohnition and embodiment, generative design and   p2p/blockchain technologies. 
+
+I teach and consult for universities, arts centers, corporations, festivals and thinktanks. 
+
+Unstablelandscape is my post-humanist epistemic integrative framework for shared practices (Briadoti, Haraway...), fields of inquiry, facilitation toolbox and pedagogy. 
+
+I use improvisational/performance games, creative coding, XR/AR/Machine Learning, robotics, somatics, vipassana meditation and generative design.
+
+I lead workshops and labs in North, Central and South America, North Africa, Middle East, Europe and the UK.
+
+## Essays
+
+[The Dance-tech Project: How like a Netwok, published in the book Transmission in Motion: The Technologizing of Dance, edited by Maaike Bleeker](https://github.com/marlonbarrios/how_like_a_network_essay')
+
+[Designing Unstable Landscapes: Improvisational Dance within Cognitive Systems, published in the book Dance and Cognition edited by Johannes Birringer](https://github.com/marlonbarrios/how_like_a_network_essay')
 
 ## Minfulness + Somatics + yoga
 
