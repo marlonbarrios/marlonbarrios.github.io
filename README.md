@@ -104,7 +104,7 @@ He graduated from The General Assembly Software Engineering Immersive Program in
 
 ## CREATIVE CODING | GENERATIVE ART AND DESIGN
 
-[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
+[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/)
 
 <img width="968" alt="Screen Shot 2023-02-04 at 11 52 39 AM" src="https://user-images.githubusercontent.com/90220317/216780388-bfe883e6-72a0-4169-a3df-1e4d2a3d24f1.png">
 
