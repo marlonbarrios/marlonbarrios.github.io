@@ -12,7 +12,7 @@ FAUX uses Artificial Intelligence to generate a synthetic social media post of n
 
 <img width="963" alt="Screen Shot 2023-02-04 at 11 52 29 AM" src="https://user-images.githubusercontent.com/90220317/216781904-08fda428-e6f5-40ed-9ac3-37cdbacd947c.png">
 
-[PROJECTS]((https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
+[PROJECTS](https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
 
 
 
