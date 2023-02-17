@@ -15,7 +15,6 @@ FAUX uses Artificial Intelligence to generate a synthetic social media post of n
 [PROJECTS](https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
 
 
-
 ## Cool AR!!
 
 ![309266480_10162104606275968_4401896488384023777_n](https://user-images.githubusercontent.com/90220317/199080378-d2029010-c410-4c63-8855-b43fb39afc0a.jpeg)
@@ -25,6 +24,8 @@ FAUX uses Artificial Intelligence to generate a synthetic social media post of n
 The image with the circles  is augmented with a layer video as texture on a 3D plane. Load this link in your smart phone scanning the QR code then scan the image. You will see a plane with a video and sound floating above the image.
 
 <img width="176" alt="Screen Shot 2022-11-12 at 9 56 13 PM" src="https://user-images.githubusercontent.com/90220317/201503556-5c1705e1-e2d6-4bda-845c-f25cb5e73254.png">
+
+[Writing @medium](https://medium.com/@marlon_21867/)
 
 # Marlon Barrios Solano
 
@@ -40,8 +41,7 @@ The image with the circles  is augmented with a layer video as texture on a 3D p
 I am a multidisciplinary professional with a passion for technology, art, and education. My expertise lies in software engineering, creative technology, and networked systems. I bring over 30 years of dance experience and 20 years of experience in using computers for creative projects. As an interdisciplinary artist, I explore topics such as embodied cognition, movement improvisation, interactive multimedia systems, human-computer interaction, and generative AI. I am passionate about the intersection of emerging technologies, art, and cognition. My background includes experience in envisioning, engineering, and deploying cutting-edge international projects that blend software, art, culture, and people. Currently, I am focused on exploring the possibilities of generative AI, web3, and synthetic and hybrid cognition.
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
-
-[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/10609334/MBS_CV_Feb23.pdf)
+[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/10772020/se_ai_gen_mbs_2_27_23.1.pdf)
 
 ## SKILLS
 
