@@ -1,8 +1,8 @@
 # HIGHLIGHTS
 
-<img width="967" alt="Screen Shot 2023-02-04 at 11 12 51 AM" src="https://user-images.githubusercontent.com/90220317/216780543-6efb2779-ab33-438e-a223-48ac162d734a.png">
+<img width="712" alt="Screen Shot 2023-03-23 at 11 17 47 AM" src="https://user-images.githubusercontent.com/90220317/227324386-40ef5046-8a09-4b0f-b6f7-ba0d8f48b171.png">
 
-## My advetures in GenerativeAI
+## My adventures in GenerativeAI
 
 [Projects and writing in Medium](https://medium.com/@marlon_21867)
 
