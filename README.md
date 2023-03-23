@@ -1,6 +1,7 @@
 # HIGHLIGHTS
 
-<img width="712" alt="Screen Shot 2023-03-23 at 11 17 47 AM" src="https://user-images.githubusercontent.com/90220317/227324386-40ef5046-8a09-4b0f-b6f7-ba0d8f48b171.png">
+<img width="100" alt="Screen Shot 2023-03-23 at 11 17 47 AM" src="https://user-images.githubusercontent.com/90220317/227325258-c95b5e70-f1e2-4ef1-acb9-a94c1a4ae73b.png">
+
 
 ## My adventures in GenerativeAI
 
