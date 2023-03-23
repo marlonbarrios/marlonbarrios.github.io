@@ -2,18 +2,15 @@
 
 <img width="967" alt="Screen Shot 2023-02-04 at 11 12 51 AM" src="https://user-images.githubusercontent.com/90220317/216780543-6efb2779-ab33-438e-a223-48ac162d734a.png">
 
-## FAUX | This art(ist) does not exist
+## My advetures in GenerativeAI
 
-FAUX uses Artificial Intelligence to generate a synthetic social media post of non-existing artists, new works and their lives. The new work is generated as the image for the post. The texts may include hashtags, handles, and emojis, making them eye-catching and engaging. Simply click the button to generate a text in first-person and an image that fits the style of the synthetic artist. Remember, this artist does not actually exist - or does it?
-
-[Live app](https://faux-ai.netlify.app/)
+[Projects and writing in Medium](https://medium.com/@marlon_21867)
 
 ## Speculative Clocks: Visualizing Time Forms
 
 <img width="963" alt="Screen Shot 2023-02-04 at 11 52 29 AM" src="https://user-images.githubusercontent.com/90220317/216781904-08fda428-e6f5-40ed-9ac3-37cdbacd947c.png">
 
 [PROJECTS](https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
-
 
 ## Cool AR!!
 
