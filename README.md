@@ -1,8 +1,6 @@
 # HIGHLIGHTS
 <img width="225" alt="Screen Shot 2023-03-23 at 10 15 41 AM" src="https://user-images.githubusercontent.com/90220317/227325994-09fcd15d-8cac-4ca4-b778-b75dd650f01d.png">
 
-
-
 ## My adventures in GenerativeAI
 
 [Projects and writing in Medium](https://medium.com/@marlon_21867)
@@ -36,7 +34,9 @@ The image with the circles  is augmented with a layer video as texture on a 3D p
 
 ## Porfolio Summary
 
-I am a multidisciplinary professional with a passion for technology, art, and education. My expertise lies in software engineering, creative technology, and networked systems. I bring over 30 years of dance experience and 20 years of experience in using computers for creative projects. As an interdisciplinary artist, I explore topics such as embodied cognition, movement improvisation, interactive multimedia systems, human-computer interaction, and generative AI. I am passionate about the intersection of emerging technologies, art, and cognition. My background includes experience in envisioning, engineering, and deploying cutting-edge international projects that blend software, art, culture, and people. Currently, I am focused on exploring the possibilities of generative AI, web3, and synthetic and hybrid cognition.
+Marlon Barrios Solano combines a diverse range of skills in software engineering, generative AI, deep learning and mindfulness,  applying these to his work in digital therapeutics, education, and creative practices. As a certified Vipassana/Mindfulness Meditation Teacher and experienced software engineer, Marlon uses this intersection of knowledge to offer mindfulness sessions that balance traditional practices with a contemporary, tech-informed approach.
+
+Marlon's consulting and teaching services extend to guide individuals and organizations in applying AI to a range of domains. His work with Sati-AI, an AI-driven meditation assistant, reflects his ability to apply AI and deep learning to the field of mindfulness, demonstrating the potential of technology in enhancing meditation practices. Marlon also leverages his software engineering background to develop digital solutions for embodied presence practices in online environments. While his focus is broad, spanning from digital therapeutics to synthetic cognition and creativity, Marlon maintains a grounded, pragmatic approach to his work, guiding clients and students through the complexities of combining traditional practices with cutting-edge AI technology.
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
 [Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/10772020/se_ai_gen_mbs_2_27_23.1.pdf)
