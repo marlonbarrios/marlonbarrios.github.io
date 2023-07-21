@@ -34,11 +34,16 @@ The image with the circles  is augmented with a layer video as texture on a 3D p
 
 ## Porfolio Summary
 
-Marlon Barrios Solano combines a diverse range of skills in software engineering, generative AI, deep learning and mindfulness,  applying these to his work in digital therapeutics, education, and creative practices. As a certified Vipassana/Mindfulness Meditation Teacher and experienced software engineer, Marlon uses this intersection of knowledge to offer mindfulness sessions that balance traditional practices with a contemporary, tech-informed approach.
 
-Marlon's consulting and teaching services extend to guide individuals and organizations in applying AI to a range of domains. His work with Sati-AI, an AI-driven meditation assistant, reflects his ability to apply AI and deep learning to the field of mindfulness, demonstrating the potential of technology in enhancing meditation practices. Marlon also leverages his software engineering background to develop digital solutions for embodied presence practices in online environments. While his focus is broad, spanning from digital therapeutics to synthetic cognition and creativity, Marlon maintains a grounded, pragmatic approach to his work, guiding clients and students through the complexities of combining traditional practices with cutting-edge AI technology.
+Marlon Barrios Solano is an international interdisciplinary artist and reseracher who combining software engineering, generative AI, dance improvisation, and mindfulness. He creates works  intersecting web art, interactive installations, multimedia performance,  education and digital therapeutics. 
+
+Marlon’s consulting, software development and teaching  extend to guide individuals and organizations in applying AI to a range of domains. 
+His work with Sati-AI, an AI-driven Buddhist meditation coach, reflects his ability to apply AI and deep learning to the field of mindfulness, demonstrating the potential of Generative AI technology  for the transmission of embodied knowledge. 
+
+While his focus is broad, spanning from digital therapeutics to synthetic cognition and creativity, Marlon maintains a grounded, pragmatic approach to his work, guiding clients and students through the complexities of combining traditional practices with cutting-edge AI technology.  Marlon is researcher in residence at Lake Studios Berlin and Generative AI Researcher for Wisdom Labs in San Francisco, USA. 
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
+
 [Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/10772020/se_ai_gen_mbs_2_27_23.1.pdf)
 
 ## SKILLS
