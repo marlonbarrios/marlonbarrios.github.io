@@ -6,7 +6,7 @@
 # Marlon Barrios Solano
 [My Writing @medium](https://medium.com/@marlon_21867/)
 
-## Art + Technology + Embodiment + Cognition | Generative AI | Web3 | WebDev| Mindfulness
+## Art + Technology + Embodiment + Cognition | Generative AI | Web3 | WebDev | Mindfulness
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
@@ -72,10 +72,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 
 ## GENERATIVE AI 
-
-Tools:
-OpenAI API: GPT-3.5, GPT-4
-Replicate
 
 
 <img width="1360" alt="Screen Shot 2023-02-04 at 11 40 47 AM" src="https://user-images.githubusercontent.com/90220317/216783019-64d239eb-5fee-4f58-bd13-7d2ef70cb962.png">
