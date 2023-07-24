@@ -1,29 +1,10 @@
-# HIGHLIGHTS
-<img width="225" alt="Screen Shot 2023-03-23 at 10 15 41 AM" src="https://user-images.githubusercontent.com/90220317/227325994-09fcd15d-8cac-4ca4-b778-b75dd650f01d.png">
+<img width="1360" alt="Screen Shot 2023-02-04 at 11 40 47 AM" src="https://user-images.githubusercontent.com/90220317/216783019-64d239eb-5fee-4f58-bd13-7d2ef70cb962.png">
 
-## My adventures in GenerativeAI
-
-[Projects and writing in Medium](https://medium.com/@marlon_21867)
-
-## Speculative Clocks: Visualizing Time Forms
-
-<img width="963" alt="Screen Shot 2023-02-04 at 11 52 29 AM" src="https://user-images.githubusercontent.com/90220317/216781904-08fda428-e6f5-40ed-9ac3-37cdbacd947c.png">
-
-[PROJECTS](https://www.are.na/marlon-barrios-solano/speculative-clocks-visualizing-time-forms)
-
-## Cool AR!!
-
-![309266480_10162104606275968_4401896488384023777_n](https://user-images.githubusercontent.com/90220317/199080378-d2029010-c410-4c63-8855-b43fb39afc0a.jpeg)
-
-[Image from 8 Circles (Song Visualizer)](https://marlonbarrios.github.io/8circles/)
-
-The image with the circles  is augmented with a layer video as texture on a 3D plane. Load this link in your smart phone scanning the QR code then scan the image. You will see a plane with a video and sound floating above the image.
-
-<img width="176" alt="Screen Shot 2022-11-12 at 9 56 13 PM" src="https://user-images.githubusercontent.com/90220317/201503556-5c1705e1-e2d6-4bda-845c-f25cb5e73254.png">
 
 [Writing @medium](https://medium.com/@marlon_21867/)
 
 # Marlon Barrios Solano
+[My Writing @medium](https://medium.com/@marlon_21867/)
 
 ## Art + Technology + Embodiment + Cognition | Generative AI | Web3 | WebDev| Synthetic Creative Networked Mindful
 
@@ -84,10 +65,17 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
+
+
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 
 ## GENERATIVE AI 
+
+Tools:
+OpenAI API: GPT-3.5, GPT-4
+Replicate
+
 
 <img width="1360" alt="Screen Shot 2023-02-04 at 11 40 47 AM" src="https://user-images.githubusercontent.com/90220317/216783019-64d239eb-5fee-4f58-bd13-7d2ef70cb962.png">
 
