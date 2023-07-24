@@ -1,5 +1,5 @@
-<img width="1360" alt="Screen Shot 2023-02-04 at 11 40 47 AM" src="https://user-images.githubusercontent.com/90220317/216783019-64d239eb-5fee-4f58-bd13-7d2ef70cb962.png">
 
+<img width="721" alt="Screen Shot 2023-07-24 at 2 39 38 PM" src="https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/0505e47e-e990-4b22-ad9c-23b03a2b577a">
 
 [Writing @medium](https://medium.com/@marlon_21867/)
 
