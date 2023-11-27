@@ -1,20 +1,18 @@
 
 <img width="721" alt="Screen Shot 2023-07-24 at 2 39 38 PM" src="https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/0505e47e-e990-4b22-ad9c-23b03a2b577a">
 
-[Writing @medium](https://medium.com/@marlon_21867/)
-
 # Marlon Barrios Solano
-[My Writing @medium](https://medium.com/@marlon_21867/)
 
-## Art + Technology + Embodiment + Cognition | Generative AI | Web3 | WebDev | Mindfulness
+## Art + Dance + Technology + Creative Coding + Generative AI + ML  + Web3 + Mindfulness
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
+[![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
-## Porfolio Summary
-
+## Short Bio
 
 Marlon Barrios Solano is an international interdisciplinary artist and researcher working at the intersection of software engineering, generative AI, creative coding, dance improvisation, and mindfulness. His work is expressed through creative web apps, interactive and participatory installations, multimedia performances, education, and digital therapeutics.
 
@@ -73,10 +71,22 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 ## GENERATIVE AI 
 
-
 <img width="1360" alt="Screen Shot 2023-02-04 at 11 40 47 AM" src="https://user-images.githubusercontent.com/90220317/216783019-64d239eb-5fee-4f58-bd13-7d2ef70cb962.png">
 
+## Recent works and writing
+
+[BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
+
+[Entangled with Fabulation Engines (Croatia) ](https://radiona.org/diary/entangled-with-fabulation-engines)
+
+[Derivative Utopias: Playing with our Collective Artifice (Croatia) ](https://radiona.org/diary/autosave-7f747c46407d59744b876bf04876ae1e)
+
+[My Writing and pieces @medium](https://medium.com/@marlon_21867/)
+
+
 [PROJECTS](https://marlonbarrios.github.io/generative_ai/)
+
+
 
 
 ## CREATIVE CODING | GENERATIVE ART AND DESIGN
@@ -101,8 +111,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
 
-![31c98a5e05fee9aa7d9898ef4a1e14558ead6840](https://user-images.githubusercontent.com/90220317/170337857-32e586d6-89d8-47c4-84bb-8be3bcaafb8d.png)
-
 [MotionDAO](http://motiondao.art/ 'MotionDAO')
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
@@ -110,10 +118,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 ## FULL STACK DEVELOPMENT
-
-[See projects delails](https://marlonbarrios.github.io/full-stack-development/)
-
-<img width="1516" alt="Screen Shot 2022-05-25 at 10 53 08 AM" src="https://user-images.githubusercontent.com/90220317/170292444-0584f207-c259-4524-a7c2-abfff5f197d3.png">
 
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
 
@@ -130,7 +134,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 [LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
 
 <img width="1408" alt="github" src="https://user-images.githubusercontent.com/90220317/170297745-6f318c44-81b1-4e42-8954-faad6ce730f9.png">
-
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
