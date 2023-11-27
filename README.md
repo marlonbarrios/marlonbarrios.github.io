@@ -71,9 +71,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 ## GENERATIVE AI 
 
-<img width="1360" alt="Screen Shot 2023-02-04 at 11 40 47 AM" src="https://user-images.githubusercontent.com/90220317/216783019-64d239eb-5fee-4f58-bd13-7d2ef70cb962.png">
-
-## Recent works and writing
+## Recent works on Gnenerative AI and writing
 
 [BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
 
@@ -85,8 +83,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 
 [PROJECTS](https://marlonbarrios.github.io/generative_ai/)
-
-
 
 
 ## CREATIVE CODING | GENERATIVE ART AND DESIGN
@@ -123,9 +119,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 ## MOBILE DEVELOPMENT IN REACT NATIVE
 
-[[PROJECT](https://marlonbarrios.github.io/crypto-tracker-rn/)
-
-<img width="1440" alt="Screen Shot 2022-05-27 at 4 09 14 PM" src="https://user-images.githubusercontent.com/90220317/170784517-06d1ff36-2b7e-474a-9875-ba363dd549ac.png">
+[PROJECT](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
@@ -137,7 +131,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-## RESEARCH, TEACHING and WRITING
+## PERFORMANCE RESEARCH, TEACHING and WRITING
 
 ### UnstableLandscape | Generativity and the Embodiments of Complexity
 
@@ -145,7 +139,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [More information](https://marlonbarrios.github.io/research_teaching/)
 
-## Minfulness + Somatics + yoga
+## Minfulness + Somatics 
 
 [Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
 
