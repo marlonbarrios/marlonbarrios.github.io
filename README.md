@@ -71,7 +71,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 ## GENERATIVE AI 
 
-## Recent works on Gnenerative AI and writing
+## Recent works on Generative AI and writing
 
 [BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
 
@@ -80,6 +80,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 [Derivative Utopias: Playing with our Collective Artifice (Croatia) ](https://radiona.org/diary/autosave-7f747c46407d59744b876bf04876ae1e)
 
 [My Writing and pieces @medium](https://medium.com/@marlon_21867/)
+
 
 
 [PROJECTS](https://marlonbarrios.github.io/generative_ai/)
