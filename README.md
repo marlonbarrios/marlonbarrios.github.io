@@ -14,11 +14,11 @@
 
 ## Short Bio
 
-Marlon Barrios Solano is an international interdisciplinary artist and researcher working at the intersection of software engineering, generative AI, creative coding, dance improvisation, and mindfulness. His work is expressed through creative web apps, interactive and participatory installations, multimedia performances, education, and digital therapeutics.
+Marlon Barrios Solano is an international interdisciplinary artist and researcher working at the intersection of cognitive science, generative AI, creative coding, dance improvisation, software engineering and mindfulness. His work is expressed through creative web apps, online publications, social networks, interactive and participatory installations, multimedia performances, education, and digital therapeutics.
 
-Marlon's consulting, software development, and teaching extend from concept to deployment of AI-powered apps and guide individuals and organizations in applying AI across a range of domains.
+Marlon's consulting, software development,and teaching extend from concept to deployment of AI-powered apps and guide individuals and organizations in applying AI and other emergent technologies  across a range of domains.
 
-His work with Sati-AI, an AI-driven Buddhist meditation coach, reflects his ability to apply AI/deep learning to the field of mindfulness, demonstrating the potential of Generative AI technology for the transmission of embodied knowledge.
+His work with the Sati-AI Project reflects his ability to apply AI/deep learning to the field of mindfulness and early buddhism, demonstrating the potential of Generative AI technology for the transmission of embodied knowledge.
 
 While his focus is broad, spanning from digital therapeutics to synthetic cognition and creativity, Marlon maintains a grounded, pragmatic approach to his work, guiding clients and students through the complexities of combining traditional practices with cutting-edge AI technology. Marlon is a researcher in residence at Lake Studios Berlin and a Generative AI Researcher for Wisdom Labs in San Francisco, USA.
 
