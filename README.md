@@ -1,5 +1,7 @@
 
-<img width="721" alt="Screen Shot 2023-07-24 at 2 39 38 PM" src="https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/0505e47e-e990-4b22-ad9c-23b03a2b577a">
+![rule30](https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/bd9101db-0444-420e-957a-a40b9d0e7394)
+
+
 
 # Marlon Barrios Solano
 
@@ -65,13 +67,189 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
 
-
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
+## PROJECTS, EXPERIMENTS AND WORKING SPACES
 
-## GENERATIVE AI 
+[YOUTUBE PLAYLIST OF GENERATIVE AT VIDEOS](https://youtu.be/DEKHTye67NI?si=kwe8xnGVKw2DW6-K)
 
-## Recent works on Generative AI and writing
+[Dance-tech.net](https://dance-tech.net/)
+
+[Sati-AI](https://dance-tech.net/)
+
+[Entropic Haiku](https://entropic-haiku.vercel.app/)
+
+[Alan-AI](https://alan-ai-one.vercel.app/)
+
+[Patient X](https://patientx-83md.vercel.app/)
+
+[Patient X02](https://patientx-marlonbarrios.vercel.app/)
+
+[ZiggySlide](​​https://zigglyslide-app.vercel.app/)
+
+[EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
+
+[Sati-ai Llama](https://llama70parameters-marlonbarrios.vercel.app/)
+
+[Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
+
+[Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
+
+[Wolfram Red](https://marlonbarrios.github.io/wolfram_one_dim/)
+
+[Wolframatic](https://marlonbarrios.github.io/wolframatic/)
+
+[Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
+
+[Simple Fractal Tree](https://marlonbarrios.github.io/fractal-tree/)
+
+[Time Form 01](https://marlonbarrios.github.io/time_form_01/)
+
+[Time Form 02](https://marlonbarrios.github.io/time_form_02/)
+
+[Time Form 03](https://marlonbarrios.github.io/time_form_03/)
+
+[Time Form 04](https://marlonbarrios.github.io/time_form_04/)
+
+[Sun Dial 01](https://marlonbarrios.github.io/time_form_05/)
+
+[Sun Dial 01](https://marlonbarrios.github.io/time_form_06/)
+
+[Time Engine](https://marlonbarrios.github.io/time_engine/)
+
+[Geometries Accumulations](https://marlonbarrios.github.io/three_loops/)
+
+[Connected Pathfinders](https://marlonbarrios.github.io/connected_pathfinders/)
+
+[Gravitas Epistolas](https://marlonbarrios.github.io/gravitas_epistola/)
+
+[Melting Traces](https://marlonbarrios.github.io/animated_lines_sound/)
+
+[I Have Waves](https://marlonbarrios.github.io/noise_waves_gray/)
+
+[Folding Grids](https://marlonbarrios.github.io/two_folding_grids/)
+
+[Noise Grids](https://marlonbarrios.github.io/movedbynoise/)
+
+[Discipative 01](https://marlonbarrios.github.io/dissipative01/)
+
+[Crescent Circle](https://marlonbarrios.github.io/crescent_circle/)
+
+[Chromatic Crescent](https://marlonbarrios.github.io/chromatic_crescent/)
+
+[Throwing Lines Forever](https://marlonbarrios.github.io/throwing_lines_forever/)
+
+[Alignments](https://marlonbarrios.github.io/animated_grid_lines/)
+
+[Captive Network](https://marlonbarrios.github.io/captivenetwork/)
+
+[Nodes](https://marlonbarrios.github.io/network/)
+
+[Captive Diffusion](https://marlonbarrios.github.io/diffussion-limeted_aggregation/)
+
+[Connected Circles](https://marlonbarrios.github.io/packing_connected-_circles/)
+
+[Field of Flows](https://marlonbarrios.github.io/flow_field_02/)
+
+[Field of Cells](https://marlonbarrios.github.io/voronoi_field01/)
+
+[Dynamic Enso](https://marlonbarrios.github.io/black_ink_enso/)
+
+[Breathing Circle](https://marlonbarrios.github.io/breathing_circle/)
+
+[Concentric Segmented Circles](https://marlonbarrios.github.io/rotating_concentric_semicircles/)
+
+[Time Fibonacci](https://marlonbarrios.github.io/fibonacci_zoomout/)
+
+[Cosmic Phyllotaxis](https://marlonbarrios.github.io/animated_phylotaxis/)
+
+[100 Squares Spinning](https://marlonbarrios.github.io/spirograh100squares/)
+
+[Hexagons and Waves](https://marlonbarrios.github.io/dynamichexagons/)
+
+[It Looks like Changes from the Center](https://marlonbarrios.github.io/concentric_waves/)
+
+[Portal 01](https://marlonbarrios.github.io/portal01/)
+
+[Contemplative digital objects](https://marlonbarrios.github.io/contemplatovedigitalobjects/)
+
+[Vanilla Java Script Projects](https://marlonbarrios.github.io/jsvanilla-projects/)
+
+[Fluir Sin Parar Collection](https://marlonbarrios.github.io/fluirsinparar/)
+
+[MotionDAO Logo 01](https://marlonbarrios.github.io/motiondao-generative-logo-2/)
+
+[Logo 01](https://marlonbarrios.github.io/motiondao_generative_logo/)
+
+[Flocks](https://marlonbarrios.github.io/flocks/)
+
+[One More Mass Shooting](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
+
+[Altered States](https://marlonbarrios.github.io/altered_states/)
+
+[Alien Flag](https://marlonbarrios.github.io/alien_flag01/)
+
+[7 tubes](https://marlonbarrios.github.io/organic-tube-noc1/)
+
+[Solar Flares 01](https://marlonbarrios.github.io/solarflare01/)
+
+[Solar Flare 02](https://marlonbarrios.github.io/solarflare02/)
+
+[Hues](https://marlonbarrios.github.io/concentrichues/)
+
+[8 Circles](https://marlonbarrios.github.io/8circles/)
+
+[Dynamic Typography](https://marlonbarrios.github.io/generative_font/)
+
+[Canonical](https://marlonbarrios.github.io/canonical01/)
+
+[Slitscan Horizontal}\](https://marlonbarrios.github.io/slitscan/)
+
+[Slit Scan Vertical](https://marlonbarrios.github.io/vertical-scan/)
+
+[3D in the Browser](https://marlonbarrios.github.io/webggandthreejs/)
+
+[Molnar 20 Squares](https://marlonbarrios.github.io/20squares/)
+
+[Molnar Simplex](https://marlonbarrios.github.io/molnar_simplex/)
+
+[Molnar Crcles](https://marlonbarrios.github.io/molnar_circles/)
+
+[Molnar Wallpaper](https://marlonbarrios.github.io/wallpaper/)
+
+[Munari's Circle Square Tiangle](https://marlonbarrios.github.io/circlesquaretriangle/)
+
+[Munari's Primitoves Blend](https://marlonbarrios.github.io/primitives_blend/)
+
+[Ellsworth Kelly's Generator](https://marlonbarrios.github.io/gazepresentmoment/)
+
+[Bauhaus Logo](https://marlonbarrios.github.io/bauhauslogo/)
+
+[Vasareli 01](https://marlonbarrios.github.io/popgridstudy01/)
+
+[Vasareli 02](https://marlonbarrios.github.io/popyingyang/)
+
+[Vasareli 03](https://marlonbarrios.github.io/absence01/)
+
+[Generative Tools for Meta-creation 01](https://marlonbarrios.github.io/dancing_dots/)
+
+[[Generative Tools for Meta-creation 01](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
+
+[Hand tracking](https://marlonbarrios.github.io/cv-p5-hand-tracking/)
+
+[Smile Detection](https://marlonbarrios.github.io/cv-face-detection-p5/)
+
+[Nose tracking](https://marlonbarrios.github.io/nosetrackingsimplesound/)
+
+[Face tracking AR](https://marlonbarrios.github.io/diadelosmuertos/)
+
+[Camile 6 | Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
+
+[ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
+
+[Text to Image SD-XL](https://huggingface.co/spaces/marlonbarrios/SD-XL_text-to_image)
+
+[Real-time XD Turbo](https://huggingface.co/spaces/marlonbarrios/Real-Time-SD-Turbo)
 
 [BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
 
@@ -81,38 +259,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [My Writing and pieces @medium](https://medium.com/@marlon_21867/)
 
-
-
-[PROJECTS](https://marlonbarrios.github.io/generative_ai/)
-
-
-## CREATIVE CODING | GENERATIVE ART AND DESIGN
-
-[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/)
-
-<img width="968" alt="Screen Shot 2023-02-04 at 11 52 39 AM" src="https://user-images.githubusercontent.com/90220317/216780388-bfe883e6-72a0-4169-a3df-1e4d2a3d24f1.png">
-
-[PROJECTS](https://marlonbarrios.github.io/p5.js-creativecoding/ 'CODE REPOSITORY')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-## XR/AR + MACHINE LEARNING 
-
-![Screen Shot 2022-06-28 at 5 45 40 PM](https://user-images.githubusercontent.com/90220317/176320611-6a3948ee-4c74-4bba-8e73-dab5aa21522b.png)
-
-[Projects](https://marlonbarrios.github.io/comp_viz_ml5/ 'C Projects')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
-## WEB3/WEB 2.0 ONLINE COMMUNITIES DEVELOPMENT
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
-
-[MotionDAO](http://motiondao.art/ 'MotionDAO')
-
-[Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev/ 'CODE REPOSITORY')
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 ## FULL STACK DEVELOPMENT
 
@@ -124,13 +270,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-## VANILLA JAVASCRIPT PROJECTS
-
-[LIVE and CODE REPOSITORY](https://marlonbarrios.github.io/jsvanilla-projects/ 'CODE REPOSITORY')
-
-<img width="1408" alt="github" src="https://user-images.githubusercontent.com/90220317/170297745-6f318c44-81b1-4e42-8954-faad6ce730f9.png">
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 ## PERFORMANCE RESEARCH, TEACHING and WRITING
 
