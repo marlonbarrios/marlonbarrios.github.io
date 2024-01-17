@@ -257,7 +257,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [My Writing and pieces @medium](https://medium.com/@marlon_21867/)
 
-[Ziggy Slide](​​https://zigglyslide-app.vercel.app)
+[Ziggy Slide](​​https://marlonbarrios.github.io/breathing_circle/)
 
 
 ## FULL STACK DEVELOPMENT
