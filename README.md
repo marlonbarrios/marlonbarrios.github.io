@@ -87,8 +87,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
 
-[ZiggySlide](​​https://zigglyslide-app.vercel.app/)
-
 [Sati-ai Llama](https://llama70parameters-marlonbarrios.vercel.app/)
 
 [Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
@@ -258,6 +256,8 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 [Derivative Utopias: Playing with our Collective Artifice (Croatia) ](https://radiona.org/diary/autosave-7f747c46407d59744b876bf04876ae1e)
 
 [My Writing and pieces @medium](https://medium.com/@marlon_21867/)
+
+[Ziggy Slide](​​https://zigglyslide-app.vercel.app)
 
 
 ## FULL STACK DEVELOPMENT
