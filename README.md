@@ -257,9 +257,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [My Writing and pieces @medium](https://medium.com/@marlon_21867/)
 
-[My Writing and pieces @medium](​​https://marlonbarrios.github.io/breathing_circle/)
-
-
 ## FULL STACK DEVELOPMENT
 
 [See projects delails](https://marlonbarrios.github.io/full-stack-development/)
@@ -269,7 +266,6 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 [PROJECT](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
-
 
 ## PERFORMANCE RESEARCH, TEACHING and WRITING
 
