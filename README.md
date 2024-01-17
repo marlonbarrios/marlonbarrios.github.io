@@ -203,7 +203,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Canonical](https://marlonbarrios.github.io/canonical01/)
 
-[Slitscan Horizontal}\](https://marlonbarrios.github.io/slitscan/)
+[Slitscan Horizontal}(https://marlonbarrios.github.io/slitscan/)
 
 [Slit Scan Vertical](https://marlonbarrios.github.io/vertical-scan/)
 
@@ -233,7 +233,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Generative Tools for Meta-creation 01](https://marlonbarrios.github.io/dancing_dots/)
 
-[[Generative Tools for Meta-creation 01](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
+[Generative Tools for Meta-creation 01](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
 
 [Hand tracking](https://marlonbarrios.github.io/cv-p5-hand-tracking/)
 
@@ -243,7 +243,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Face tracking AR](https://marlonbarrios.github.io/diadelosmuertos/)
 
-[Camile 6 | Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
+[Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
 
 [ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
 
