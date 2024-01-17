@@ -71,11 +71,11 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 ## PROJECTS, EXPERIMENTS AND WORKING SPACES
 
-[YOUTUBE PLAYLIST OF GENERATIVE AT VIDEOS](https://youtu.be/DEKHTye67NI?si=kwe8xnGVKw2DW6-K)
+[YOUTUBE PLAYLIST OF GENERATIVE AI VIDEOS](https://youtu.be/DEKHTye67NI?si=kwe8xnGVKw2DW6-K)
 
 [Dance-tech.net](https://dance-tech.net/)
 
-[Sati-AI](https://dance-tech.net/)
+[Sati-AI](https://www.sati-ai.app/)
 
 [Entropic Haiku](https://entropic-haiku.vercel.app/)
 
