@@ -22,7 +22,7 @@ Marlon's consulting, software development,and teaching extend from concept to de
 
 His work with the Sati-AI Project reflects his ability to apply AI/deep learning to the field of mindfulness and early buddhism, demonstrating the potential of Generative AI technology for the transmission of embodied knowledge.
 
-While his focus is broad, spanning from digital therapeutics to synthetic cognition and creativity, Marlon maintains a grounded, pragmatic approach to his work, guiding clients and students through the complexities of combining traditional practices with cutting-edge AI technology. Marlon is a researcher in residence at Lake Studios Berlin and a Generative AI Researcher for Wisdom Labs in San Francisco, USA.
+While his focus is broad, spanning from digital therapeutics to synthetic cognition and creativity, Marlon maintains a grounded, pragmatic approach to his work, guiding clients and students through the complexities of combining traditional practices with cutting-edge AI technology. Marlon is a researcher in residence at Lake Studios Berlin.
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
 
@@ -71,7 +71,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 ## PROJECTS, EXPERIMENTS AND WORKING SPACES
 
-[YOUTUBE PLAYLIST OF GENERATIVE AI VIDEOS](https://youtu.be/DEKHTye67NI?si=kwe8xnGVKw2DW6-K)
+[YOUTUBE PLAYLIST OF GENERATIVE AI VIDEOS](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
 
 [Dance-tech.net](https://dance-tech.net/)
 
@@ -85,9 +85,9 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Patient X02](https://patientx-marlonbarrios.vercel.app/)
 
-[ZiggySlide](​​https://zigglyslide-app.vercel.app/)
-
 [EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
+
+[ZiggySlide](​​https://zigglyslide-app.vercel.app/)
 
 [Sati-ai Llama](https://llama70parameters-marlonbarrios.vercel.app/)
 
