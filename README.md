@@ -203,7 +203,7 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Canonical](https://marlonbarrios.github.io/canonical01/)
 
-[Slitscan Horizontal}(https://marlonbarrios.github.io/slitscan/)
+[Slitscan Horizontal](https://marlonbarrios.github.io/slitscan/)
 
 [Slit Scan Vertical](https://marlonbarrios.github.io/vertical-scan/)
 
