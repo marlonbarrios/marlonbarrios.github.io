@@ -93,6 +93,8 @@ While his focus is broad, spanning from digital therapeutics to synthetic cognit
 
 [Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
 
+[Ziggy Slide](https://zigglyslide-app.vercel.app/)
+
 [Wolfram Red](https://marlonbarrios.github.io/wolfram_one_dim/)
 
 [Wolframatic](https://marlonbarrios.github.io/wolframatic/)
