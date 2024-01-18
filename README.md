@@ -16,13 +16,13 @@
 
 ## Short Bio
 
-Marlon Barrios Solano is a Venezuelan-American epistemic artist, creative technologist, researcher, and educator based in Berlin, recognized for his pioneering work in blending the realms of awareness practices, cognitive science, technology, and art. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory, emergence, generative improvisational movement, real-time technologies, creative coding, queerness, computation, and deep learning.
+Marlon Barrios Solano is a Venezuelan-American epistemic artist, creative technologist, researcher, and educator based in Berlin, recognized for his pioneering work in blending the realms of dance and technology, awareness practices, cognitive science, and art. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory, emergence, generative improvisational movement, real-time technologies, creative coding, queerness, computation, and deep learning.
 
 Marlon creates generative systems with bodies, bits and words, allowing for the emergence of complex patterns and behaviors from simple rules. This process reflects his interest in how knowledge and understanding can evolve from the interactions within these systems.
 
 Incorporating deep learning into his work, Marlon pushes the boundaries of how artificial intelligence can be used not just as a tool, but as a medium for exploring and expressing complex ideas. His projects often serve as a platform for questioning and redefining the nature of cognition, creativity, and the interplay between human and artificial intelligence.
 
-Marlon's contributions include the creation of interactive web applications, installations, and experiences that invite audience engagement and reflection. Marlon is a researcher in residence at Lake Studios Berlin.
+Marlon's contributions include the creation of interactive web applications, installations, and experiences that invite audience engagement and reflection. Marlon is a researcher and meditation teacher in residence at Lake Studios Berlin.
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
 
