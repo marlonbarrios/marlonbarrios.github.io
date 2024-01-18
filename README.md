@@ -1,11 +1,11 @@
 
 ![rule30](https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/bd9101db-0444-420e-957a-a40b9d0e7394)
 
-
+[Still rom the generative design app Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
 
 # Marlon Barrios Solano
 
-## Art + Dance + Technology + Creative Coding + Generative AI + ML  + Web3 + Mindfulness
+## Creative Coding for the Web + Generative AI + Web3 + Complex Systems + Mindfulness
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
@@ -16,13 +16,13 @@
 
 ## Short Bio
 
-Marlon Barrios Solano is a Venezuelan-American epistemic artist, creative technologist, researcher, and educator based in Berlin, recognized for his pioneering work in blending the realms of dance and technology, awareness practices, cognitive science, and art. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory, emergence, generative improvisational movement, real-time technologies, creative coding, queerness, computation, and deep learning.
+Marlon Barrios Solano is a Venezuelan-American epistemic artist, creative technologist, researcher, and educator based in Berlin, blending the realms of dance inprovisation, computation, awareness practices, cognitive science, generative AI and art. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory and  emergence, generative improvisational movement, real-time technologies, creative coding, queerness, computation, and deep learning. Hos work explores the aesthetics of change.
 
-Marlon creates generative systems with bodies, bits and words, allowing for the emergence of complex patterns and behaviors from simple rules. This process reflects his interest in how knowledge and understanding can evolve from the interactions within these systems.
+Marlon creates generative systems with bodies, bits, code  and words, allowing for the emergence of complex patterns and behaviors from simple rules or.and massive AI models. This process reflects his interest in how knowledge and understanding can evolve and performs from the interactions within these systems interfaces with cognitive entities.
 
-Incorporating deep learning into his work, Marlon pushes the boundaries of how artificial intelligence can be used not just as a tool, but as a medium for exploring and expressing complex ideas. His projects often serve as a platform for questioning and redefining the nature of cognition, creativity, and the interplay between human and artificial intelligence.
+Incorporating deep learning into his work, Marlon uses genertaiuve AI  as  medium for exploring and expressing complex ideas and pay with ots dynamics. His projects often serve as a platform for questioning and redefining the nature of cognition, creativity, and the interplay between te human and ore than human.
 
-Marlon's contributions include the creation of interactive web applications, installations, and experiences that invite audience engagement and reflection. Marlon is a researcher and meditation teacher in residence at Lake Studios Berlin.
+Marlon's contributions include the creation of interactive web applications, installations, and experiences that invite audience engagement  and entanglement with cognitve systems. Marlon is a researcher and meditation teacher in residence at Lake Studios Berlin, Germany and teaches and consults internationaly.
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
 
@@ -66,14 +66,15 @@ Marlon's contributions include the creation of interactive web applications, ins
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
 
-
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 ## PROJECTS, EXPERIMENTS AND WORKING SPACES
 
 [YOUTUBE PLAYLIST OF GENERATIVE AI VIDEOS](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
 
-[Dance-tech.net](https://dance-tech.net/)
+[Dance-tech.net, a social networking site](https://dance-tech.net/)
+
+## Creative Coding and Generative AI
 
 [Sati-AI](https://www.sati-ai.app/)
 
@@ -91,9 +92,7 @@ Marlon's contributions include the creation of interactive web applications, ins
 
 [Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
 
-[Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
-
-[Ziggy Slide](https://zigglyslide-app.vercel.app/)
+#3 Cellular Automata
 
 [Wolfram Red](https://marlonbarrios.github.io/wolfram_one_dim/)
 
@@ -101,7 +100,7 @@ Marlon's contributions include the creation of interactive web applications, ins
 
 [Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
 
-[Simple Fractal Tree](https://marlonbarrios.github.io/fractal-tree/)
+## Creative Cdding and Clocks
 
 [Time Form 01](https://marlonbarrios.github.io/time_form_01/)
 
@@ -119,6 +118,10 @@ Marlon's contributions include the creation of interactive web applications, ins
 
 [Geometries Accumulations](https://marlonbarrios.github.io/three_loops/)
 
+## Complexity and Emergence
+
+[Simple Fractal Tree](https://marlonbarrios.github.io/fractal-tree/)
+
 [Connected Pathfinders](https://marlonbarrios.github.io/connected_pathfinders/)
 
 [Gravitas Epistolas](https://marlonbarrios.github.io/gravitas_epistola/)
@@ -132,10 +135,6 @@ Marlon's contributions include the creation of interactive web applications, ins
 [Noise Grids](https://marlonbarrios.github.io/movedbynoise/)
 
 [Discipative 01](https://marlonbarrios.github.io/dissipative01/)
-
-[Crescent Circle](https://marlonbarrios.github.io/crescent_circle/)
-
-[Chromatic Crescent](https://marlonbarrios.github.io/chromatic_crescent/)
 
 [Throwing Lines Forever](https://marlonbarrios.github.io/throwing_lines_forever/)
 
@@ -171,10 +170,6 @@ Marlon's contributions include the creation of interactive web applications, ins
 
 [Portal 01](https://marlonbarrios.github.io/portal01/)
 
-[Contemplative digital objects](https://marlonbarrios.github.io/contemplatovedigitalobjects/)
-
-[Vanilla Java Script Projects](https://marlonbarrios.github.io/jsvanilla-projects/)
-
 [Fluir Sin Parar Collection](https://marlonbarrios.github.io/fluirsinparar/)
 
 [MotionDAO Logo 01](https://marlonbarrios.github.io/motiondao-generative-logo-2/)
@@ -182,32 +177,6 @@ Marlon's contributions include the creation of interactive web applications, ins
 [Logo 01](https://marlonbarrios.github.io/motiondao_generative_logo/)
 
 [Flocks](https://marlonbarrios.github.io/flocks/)
-
-[One More Mass Shooting](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
-
-[Altered States](https://marlonbarrios.github.io/altered_states/)
-
-[Alien Flag](https://marlonbarrios.github.io/alien_flag01/)
-
-[7 tubes](https://marlonbarrios.github.io/organic-tube-noc1/)
-
-[Solar Flares 01](https://marlonbarrios.github.io/solarflare01/)
-
-[Solar Flare 02](https://marlonbarrios.github.io/solarflare02/)
-
-[Hues](https://marlonbarrios.github.io/concentrichues/)
-
-[8 Circles](https://marlonbarrios.github.io/8circles/)
-
-[Dynamic Typography](https://marlonbarrios.github.io/generative_font/)
-
-[Canonical](https://marlonbarrios.github.io/canonical01/)
-
-[Slitscan Horizontal](https://marlonbarrios.github.io/slitscan/)
-
-[Slit Scan Vertical](https://marlonbarrios.github.io/vertical-scan/)
-
-[3D in the Browser](https://marlonbarrios.github.io/webggandthreejs/)
 
 [Molnar 20 Squares](https://marlonbarrios.github.io/20squares/)
 
@@ -235,6 +204,46 @@ Marlon's contributions include the creation of interactive web applications, ins
 
 [Generative Tools for Meta-creation 01](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
 
+[Contemplative digital objects](https://marlonbarrios.github.io/contemplatovedigitalobjects/)
+
+## Sculpting Illusions
+
+[Crescent Circle](https://marlonbarrios.github.io/crescent_circle/)
+
+[Chromatic Crescent](https://marlonbarrios.github.io/chromatic_crescent/)
+
+[Vanilla Java Script Projects](https://marlonbarrios.github.io/jsvanilla-projects/)
+
+[One More Mass Shooting](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
+
+[Altered States](https://marlonbarrios.github.io/altered_states/)
+
+[Alien Flag](https://marlonbarrios.github.io/alien_flag01/)
+
+[7 tubes](https://marlonbarrios.github.io/organic-tube-noc1/)
+
+## Sound Visualizers
+
+[Solar Flares 01](https://marlonbarrios.github.io/solarflare01/)
+
+[Solar Flare 02](https://marlonbarrios.github.io/solarflare02/)
+
+[Hues](https://marlonbarrios.github.io/concentrichues/)
+
+[8 Circles](https://marlonbarrios.github.io/8circles/)
+
+[Dynamic Typography](https://marlonbarrios.github.io/generative_font/)
+
+## With Webcam Input
+
+[Canonical](https://marlonbarrios.github.io/canonical01/)
+
+[Slitscan Horizontal](https://marlonbarrios.github.io/slitscan/)
+
+[Slit Scan Vertical](https://marlonbarrios.github.io/vertical-scan/)
+
+[3D in the Browser](https://marlonbarrios.github.io/webggandthreejs/)
+
 [Hand tracking](https://marlonbarrios.github.io/cv-p5-hand-tracking/)
 
 [Smile Detection](https://marlonbarrios.github.io/cv-face-detection-p5/)
@@ -243,9 +252,15 @@ Marlon's contributions include the creation of interactive web applications, ins
 
 [Face tracking AR](https://marlonbarrios.github.io/diadelosmuertos/)
 
-[Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
+## The AI Model is the Message
+
+[Ziggy Slide](https://zigglyslide-app.vercel.app/)
 
 [ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
+
+[Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
+
+[Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
 
 [Text to Image SD-XL](https://huggingface.co/spaces/marlonbarrios/SD-XL_text-to_image)
 
@@ -282,7 +297,6 @@ Marlon's contributions include the creation of interactive web applications, ins
 [Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
 
 ![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
-
 
 [More Information about Marlon Barrios Solano](https://www.dance-tech.net/profile/network_producer 'more information')
 
