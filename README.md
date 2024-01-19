@@ -82,21 +82,27 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Video Dances with AI](https://youtube.com/playlist?list=PLC2ijZ2U-avjgGk9S2efWLIpwpgLd1r3o&si=u-INsGe27-dCxkqT)
 
-[Geneneral](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
-
 [On Faciality](ttps://www.youtube.com/playlist?list=PLC2ijZ2U-avgO8eN__SX3fN1HwhC4pJzZ)
 
 [Sudden Accelerarions](https://youtube.com/playlist?list=PLC2ijZ2U-avgp2JQjVu7syh6TXyYTU9Rg&si=ru5hHelrRTyBPh0s)
 
 [Ornaments Video Constructions](https://youtube.com/playlist?list=PLC2ijZ2U-aviBWCj-hlWhqEQokZQ3xaOs&si=KLHDU-9zoTwpktXQ)
 
+[Synthetic Monologues](https://youtube.com/playlist?list=PLC2ijZ2U-avggJ7nniYkIuzKCXsFg406C&si=_fnREX40Rau_jJu_)
+
+[General](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
+
+## Social Network
+
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
 ## Creative Coding + Generative AI
 
-[Sati-AI](https://www.sati-ai.app/)
-
 [Entropic Haiku](https://entropic-haiku.vercel.app/)
+
+## Experimental Chatbots
+
+[Sati-AI](https://www.sati-ai.app/)
 
 [Alan-AI](https://alan-ai-one.vercel.app/)
 
@@ -104,11 +110,38 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Patient X02](https://patientx-marlonbarrios.vercel.app/)
 
-[EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
-
 [Sati-ai Llama](https://llama70parameters-marlonbarrios.vercel.app/)
 
 [Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
+
+## The AI Model is the Message (Generative AI Experiments)
+
+[Infinite Bauhaus](https://infinite-bauhaus.netlify.app/)
+
+[Infinite Rothko](https://infinite-rothko.netlify.app/)
+
+[Ziggy Slide](https://zigglyslide-app.vercel.app/)
+
+[ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
+
+[Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
+
+[Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
+
+[EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
+
+[Text to Image SD-XL](https://huggingface.co/spaces/marlonbarrios/SD-XL_text-to_image)
+
+[Real-time XD Turbo](https://huggingface.co/spaces/marlonbarrios/Real-Time-SD-Turbo)
+
+[BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
+
+[Entangled with Fabulation Engines (Croatia) Dreprecated app!! ](https://radiona.org/diary/entangled-with-fabulation-engines)
+
+[Derivative Utopias: Playing with our Collective Artifice (Croatia) ](https://radiona.org/diary/autosave-7f747c46407d59744b876bf04876ae1e)
+
+[My Writing and pieces @medium](https://medium.com/@marlon_21867/)
+
 
 ## Cellular Automata
 
@@ -271,28 +304,6 @@ He exhibits, performs,  teaches and consults internationaly.
 [Nose tracking](https://marlonbarrios.github.io/nosetrackingsimplesound/)
 
 [Face tracking AR](https://marlonbarrios.github.io/diadelosmuertos/)
-
-## The AI Model is the Message
-
-[Ziggy Slide](https://zigglyslide-app.vercel.app/)
-
-[ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
-
-[Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
-
-[Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
-
-[Text to Image SD-XL](https://huggingface.co/spaces/marlonbarrios/SD-XL_text-to_image)
-
-[Real-time XD Turbo](https://huggingface.co/spaces/marlonbarrios/Real-Time-SD-Turbo)
-
-[BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
-
-[Entangled with Fabulation Engines (Croatia) ](https://radiona.org/diary/entangled-with-fabulation-engines)
-
-[Derivative Utopias: Playing with our Collective Artifice (Croatia) ](https://radiona.org/diary/autosave-7f747c46407d59744b876bf04876ae1e)
-
-[My Writing and pieces @medium](https://medium.com/@marlon_21867/)
 
 ## FULL STACK DEVELOPMENT
 
