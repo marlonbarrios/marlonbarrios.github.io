@@ -5,7 +5,7 @@
 
 # Marlon Barrios Solano
 
-## Creative Coding for the Web + Generative AI + Web3 + Complex Systems + Mindfulness
+## Dance Improvisation + Creative Coding + Generative AI + Web3 + Complex Systems + Mindfulness
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
@@ -16,7 +16,7 @@
 
 ## Short Bio
 
-Marlon Barrios Solano is a Venezuelan-American epistemic artist, creative technologist, researcher, and educator based in Berlin, blending the realms of dance inprovisation, computation, awareness practices, cognitive science, generative AI and art. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory and  emergence, generative improvisational movement, creative coding, queerness, computation, and deep learning. His work explores the aesthetics of change.
+Marlon Barrios Solano is a Venezuelan-American epistemic artist, creative technologist, researcher, and educator based in Berlin, blending the realms of dance inprovisation, software engineering, awareness practices, cognitive science, generative AI and digital arts. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory and  emergence, generative improvisational movement, creative coding, queerness, computation, and deep learning. His work explores the aesthetics of change.
 
 Marlon creates generative systems with synthetic video and images, bodies, bits, code and text, allowing for the emergence of complex patterns and behaviors from simple rules or/and massive AI models. This process reflects his interest in how knowledge and understanding can evolve and performs from the interactions within these systems interfaced and recursivelly entangled with cognitive entities.
 
@@ -24,7 +24,9 @@ Since last year, he inscorporates deep learning into his work, Marlon uses gener
 
 Marlon's work manifests in the the creation of interactive web applications, installations/performances, and experiences that invite audience engagement and entanglement with cognitve systems.
 
-Marlon is a researcher and meditation teacher in residence at Lake Studios Berlin, Germany and teaches and consults internationaly.
+Marlon is the creator of [dance-tech.net](https://www.dance-tech.net and is a researcher/meditation teacher in residence at Lake Studios Berlin, Germany. 
+
+He exhibits, performs,  teaches and consults internationaly.
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
 
@@ -76,7 +78,7 @@ Marlon is a researcher and meditation teacher in residence at Lake Studios Berli
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
-## Creative Coding and Generative AI
+## Creative Coding + Generative AI
 
 [Sati-AI](https://www.sati-ai.app/)
 
@@ -94,7 +96,7 @@ Marlon is a researcher and meditation teacher in residence at Lake Studios Berli
 
 [Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
 
-#3 Cellular Automata
+## Cellular Automata
 
 [Wolfram Red](https://marlonbarrios.github.io/wolfram_one_dim/)
 
@@ -102,7 +104,7 @@ Marlon is a researcher and meditation teacher in residence at Lake Studios Berli
 
 [Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
 
-## Creative Cdding and Clocks
+## Creative Cdding + Clocks
 
 [Time Form 01](https://marlonbarrios.github.io/time_form_01/)
 
@@ -120,9 +122,7 @@ Marlon is a researcher and meditation teacher in residence at Lake Studios Berli
 
 [Geometries Accumulations](https://marlonbarrios.github.io/three_loops/)
 
-## Complexity and Emergence
-
-[Simple Fractal Tree](https://marlonbarrios.github.io/fractal-tree/)
+## Creative Coding + Complexity + Emergence
 
 [Connected Pathfinders](https://marlonbarrios.github.io/connected_pathfinders/)
 
@@ -161,6 +161,8 @@ Marlon is a researcher and meditation teacher in residence at Lake Studios Berli
 [Concentric Segmented Circles](https://marlonbarrios.github.io/rotating_concentric_semicircles/)
 
 [Time Fibonacci](https://marlonbarrios.github.io/fibonacci_zoomout/)
+
+[Simple Fractal Tree](https://marlonbarrios.github.io/fractal-tree/)
 
 [Cosmic Phyllotaxis](https://marlonbarrios.github.io/animated_phylotaxis/)
 
@@ -216,6 +218,8 @@ Marlon is a researcher and meditation teacher in residence at Lake Studios Berli
 
 [Vanilla Java Script Projects](https://marlonbarrios.github.io/jsvanilla-projects/)
 
+## Affects
+
 [One More Mass Shooting](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
 
 [Altered States](https://marlonbarrios.github.io/altered_states/)
@@ -236,7 +240,7 @@ Marlon is a researcher and meditation teacher in residence at Lake Studios Berli
 
 [Dynamic Typography](https://marlonbarrios.github.io/generative_font/)
 
-## With Webcam Input
+## With Webcam Input 
 
 [Canonical](https://marlonbarrios.github.io/canonical01/)
 
