@@ -32,7 +32,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/10772020/se_ai_gen_mbs_2_27_23.1.pdf)
 
-## SKILLS
+## SOFTWARE SKILLS
 
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
 ![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
@@ -86,7 +86,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [On Faciality](ttps://www.youtube.com/playlist?list=PLC2ijZ2U-avgO8eN__SX3fN1HwhC4pJzZ)
 
-[[Sudden Accelerarions](https://youtube.com/playlist?list=PLC2ijZ2U-avgp2JQjVu7syh6TXyYTU9Rg&si=ru5hHelrRTyBPh0s)
+[Sudden Accelerarions](https://youtube.com/playlist?list=PLC2ijZ2U-avgp2JQjVu7syh6TXyYTU9Rg&si=ru5hHelrRTyBPh0s)
 
 [Ornaments Video Constructions](https://youtube.com/playlist?list=PLC2ijZ2U-aviBWCj-hlWhqEQokZQ3xaOs&si=KLHDU-9zoTwpktXQ)
 
