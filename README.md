@@ -24,7 +24,7 @@ Since last year, he inscorporates deep learning into his work, Marlon uses gener
 
 Marlon's work manifests in the the creation of interactive web applications, installations/performances, and experiences that invite audience engagement and entanglement with cognitve systems.
 
-Marlon is the creator of [dance-tech.net](https://www.dance-tech.net and is a researcher/meditation teacher in residence at Lake Studios Berlin, Germany. 
+Marlon is the creator of [dance-tech.net](https://www.dance-tech.net) and is a researcher/meditation teacher in residence at Lake Studios Berlin, Germany. 
 
 He exhibits, performs,  teaches and consults internationaly.
 
