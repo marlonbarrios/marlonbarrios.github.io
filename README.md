@@ -72,9 +72,17 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-## PROJECTS, EXPERIMENTS AND WORKING SPACES
+# PROJECTS, EXPERIMENTS AND WORKING SPACES
 
-[YOUTUBE PLAYLIST OF GENERATIVE AI VIDEOS](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
+## Video Playlists
+
+[Latent Spaces: Morphs, Migrations and Digressions](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
+
+[Proteans](https://youtube.com/playlist?list=PLC2ijZ2U-avgaSxiCO-ZA8wuiLFVsN4ez&si=0sDQoIR7siveRVrW)
+
+[Video Dances with AI](https://youtube.com/playlist?list=PLC2ijZ2U-avjgGk9S2efWLIpwpgLd1r3o&si=u-INsGe27-dCxkqT)
+
+[Geneneral](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
