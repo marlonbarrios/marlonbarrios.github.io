@@ -74,7 +74,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 # PROJECTS, EXPERIMENTS AND WORKING SPACES
 
-## Video Playlists
+## Video Works Playlists
 
 [Latent Spaces: Morphs, Migrations and Digressions](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
 
@@ -83,6 +83,12 @@ He exhibits, performs,  teaches and consults internationaly.
 [Video Dances with AI](https://youtube.com/playlist?list=PLC2ijZ2U-avjgGk9S2efWLIpwpgLd1r3o&si=u-INsGe27-dCxkqT)
 
 [Geneneral](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
+
+[On Faciality](ttps://www.youtube.com/playlist?list=PLC2ijZ2U-avgO8eN__SX3fN1HwhC4pJzZ)
+
+[[Sudden Accelerarions](https://youtube.com/playlist?list=PLC2ijZ2U-avgp2JQjVu7syh6TXyYTU9Rg&si=ru5hHelrRTyBPh0s)
+
+[Ornaments Video Constructions](https://youtube.com/playlist?list=PLC2ijZ2U-aviBWCj-hlWhqEQokZQ3xaOs&si=KLHDU-9zoTwpktXQ)
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
