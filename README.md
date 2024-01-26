@@ -16,7 +16,7 @@
 
 ## Short Bio
 
-Marlon Barrios Solano is a Venezuelan-American epistemic artist, creative technologist, researcher, and educator based in Berlin, blending the realms of dance inprovisation, software engineering, awareness practices, cognitive science, generative AI and digital arts. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory and  emergence, generative improvisational movement, creative coding, queerness, computation, and deep learning. His work explores the aesthetics of change.
+Marlon Barrios Solano is a Venezuelan-American interdsciplinary artist, creative technologist, researcher, and educator based in Berlin, blending the realms of dance inprovisation, software engineering, awareness practices, cognitive science, generative AI and digital arts. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory and  emergence, generative improvisational movement, creative coding, queerness, computation, and deep learning. His work explores the aesthetics of change.
 
 Marlon creates generative systems with synthetic video and images, bodies, bits, code and text, allowing for the emergence of complex patterns and behaviors from simple rules or/and massive AI models. This process reflects his interest in how knowledge and understanding can evolve and performs from the interactions within these systems interfaced and recursivelly entangled with cognitive entities.
 
