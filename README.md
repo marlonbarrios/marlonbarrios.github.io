@@ -24,7 +24,7 @@ Since last year, he inscorporates deep learning into his work, Marlon uses gener
 
 Marlon's work manifests in the the creation of interactive web applications, installations/performances, and experiences that invite audience engagement and entanglement with cognitve systems.
 
-Marlon is the creator of [dance-tech.net](https://www.dance-tech.net) and is a researcher/meditation teacher in residence at Lake Studios Berlin, Germany. 
+Marlon is the creator of [dance-tech.net](https://www.dance-tech.net) and is artist and researcher/meditation teacher in residence at Lake Studios Berlin, Germany. 
 
 He exhibits, performs,  teaches and consults internationaly.
 
@@ -74,7 +74,11 @@ He exhibits, performs,  teaches and consults internationaly.
 
 # PROJECTS, EXPERIMENTS AND WORKING SPACES
 
-## Video Works Playlists
+## Performance + Installations + AI
+
+[Meta-fictions: Meta-fictions: Entangled with Odd Kins](Meta-fictions: Entangled with Odd Kins)
+
+## Playlist of Video Works 
 
 [Latent Spaces: Morphs, Migrations and Digressions](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
 
@@ -92,7 +96,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [General](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
 
-## Social Network
+## Social Networking
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
