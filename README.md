@@ -126,17 +126,19 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Ziggy Slide](https://zigglyslide-app.vercel.app/)
 
+## Trained Models
+
+[Opne Source in Huggingface](https://huggingface.co/marlonbarrios)
+
 [ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
 
 [Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
 
 [Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
 
+## Apps and Writings
+
 [EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
-
-[Text to Image SD-XL](https://huggingface.co/spaces/marlonbarrios/SD-XL_text-to_image)
-
-[Real-time XD Turbo](https://huggingface.co/spaces/marlonbarrios/Real-Time-SD-Turbo)
 
 [BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
 
