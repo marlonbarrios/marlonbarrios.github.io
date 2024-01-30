@@ -16,13 +16,13 @@
 
 ## Short Bio
 
-Marlon Barrios Solano is a Venezuelan-American interdsciplinary artist, creative technologist, researcher, and educator based in Berlin, blending the realms of dance inprovisation, software engineering, awareness practices, cognitive science, generative AI and digital arts. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory and  emergence, generative improvisational movement, creative coding, queerness, computation, and deep learning. His work explores the aesthetics of change.
+Marlon Barrios Solano is a Venezuelan-American interdisciplinary artist, creative technologist, researcher, and educator based in Berlin, blending the realms of dance improvisation, software engineering, awareness practices, cognitive science and generative AI. His approach to art involves a deep exploration and understanding of knowledge systems, particularly how they intersect with embodied cognition, complexity theory and emergence, generative improvisational movement, creative coding, queerness, computation, and deep learning. His work explores the aesthetics of change.
 
-Marlon creates generative systems with synthetic video and images, bodies, bits, code and text, allowing for the emergence of complex patterns and behaviors from simple rules or/and massive AI models. This process reflects his interest in how knowledge and understanding can evolve and performs from the interactions within these systems interfaced and recursivelly entangled with cognitive entities.
+Marlon creates generative systems with synthetic video and images, bodies, bits, code and text, allowing for the emergence of complex patterns and behaviors from simple rules or/and massive AI models. This process reflects his interest in how knowledge and understanding can evolve and perform from the interactions within these systems interfaced and recursively entangled with cognitive entities.
 
-Since last year, he inscorporates deep learning into his work, Marlon uses genertaiuve AI as medium for exploring and expressing complex ideas and play with their dynamics. His projects often serve as a platform for questioning the nature of cognition, creativity, and the interplay between te human and more than human.
+Since last year, he has incorporated deep learning into his work, Marlon uses generative AI as a medium for exploring and expressing complex ideas and playing with their dynamics. His projects often serve as a platform for questioning the nature of cognition, creativity, and the interplay between the human and more than human.
 
-Marlon's work manifests in the the creation of interactive web applications, installations/performances, and experiences that invite audience engagement and entanglement with cognitve systems.
+Marlon’s work manifests in the creation of interactive web applications, installations/performances, and experiences that invite audience engagement and entanglement with cognitive systems.
 
 Marlon is the creator of [dance-tech.net](https://www.dance-tech.net) and is artist and researcher/meditation teacher in residence at Lake Studios Berlin, Germany. 
 
