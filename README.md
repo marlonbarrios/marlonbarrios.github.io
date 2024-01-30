@@ -76,7 +76,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 ## Performance + Installations + AI
 
-[Meta-fictions: Meta-fictions: Entangled with Odd Kins](Meta-fictions: Entangled with Odd Kins)
+[Meta-fictions: Meta-fictions Entangled with Odd Kins](https://medium.com/@marlon_21867/meta-fictions-performing-process-with-odd-kins-796322de1f48)
 
 ## Playlist of Video Works 
 
