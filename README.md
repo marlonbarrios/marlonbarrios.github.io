@@ -78,7 +78,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Meta-fictions: Meta-fictions Entangled with Odd Kins](https://medium.com/@marlon_21867/meta-fictions-performing-process-with-odd-kins-796322de1f48)
 
-## Playlist of Video Works 
+## Playlist of Video Works (AI)
 
 [Latent Spaces: Morphs, Migrations and Digressions](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
 
@@ -149,7 +149,7 @@ He exhibits, performs,  teaches and consults internationaly.
 [My Writing and pieces @medium](https://medium.com/@marlon_21867/)
 
 
-## Cellular Automata
+## Creative Coding + Cellular Automata
 
 [Wolfram Red](https://marlonbarrios.github.io/wolfram_one_dim/)
 
@@ -174,6 +174,10 @@ He exhibits, performs,  teaches and consults internationaly.
 [Time Engine](https://marlonbarrios.github.io/time_engine/)
 
 [Geometries Accumulations](https://marlonbarrios.github.io/three_loops/)
+
+## Creative Coding + Image
+
+[Accumulated Perspectives](https://marlonbarrios.github.io/accumulated-perspectives/)
 
 ## Creative Coding + Complexity + Emergence
 
