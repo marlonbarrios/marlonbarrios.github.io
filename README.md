@@ -86,7 +86,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Video Dances with AI](https://youtube.com/playlist?list=PLC2ijZ2U-avjgGk9S2efWLIpwpgLd1r3o&si=u-INsGe27-dCxkqT)
 
-[On Faciality](ttps://www.youtube.com/playlist?list=PLC2ijZ2U-avgO8eN__SX3fN1HwhC4pJzZ)
+[On Faciality](https://www.youtube.com/playlist?list=PLC2ijZ2U-avgO8eN__SX3fN1HwhC4pJzZ)
 
 [Sudden Accelerarions](https://youtube.com/playlist?list=PLC2ijZ2U-avgp2JQjVu7syh6TXyYTU9Rg&si=ru5hHelrRTyBPh0s)
 
@@ -157,7 +157,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
 
-## Creative Cdding + Clocks
+## Creative Coding + Clocks
 
 [Time Form 01](https://marlonbarrios.github.io/time_form_01/)
 
@@ -175,7 +175,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Geometries Accumulations](https://marlonbarrios.github.io/three_loops/)
 
-## Creative Coding + Image
+## Creative Coding + Image Processing
 
 [Accumulated Perspectives](https://marlonbarrios.github.io/accumulated-perspectives/)
 
