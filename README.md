@@ -179,6 +179,8 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Accumulated Perspectives](https://marlonbarrios.github.io/accumulated-perspectives/)
 
+[Space Sequencer](https://marlonbarrios.github.io/space-sequencer/)
+
 ## Creative Coding + Complexity + Emergence
 
 [Connected Pathfinders](https://marlonbarrios.github.io/connected_pathfinders/)
@@ -297,7 +299,9 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Dynamic Typography](https://marlonbarrios.github.io/generative_font/)
 
-## With Webcam Input 
+## With Webcam Input + Body and Face tracking with Machine Learning
+
+[Body Tracking + Stick Figure](https://marlonbarrios.github.io/body-tracking-pose/)
 
 [Canonical](https://marlonbarrios.github.io/canonical01/)
 
