@@ -1,7 +1,8 @@
 
-![rule30](https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/bd9101db-0444-420e-957a-a40b9d0e7394)
+![Screenshot 2024-02-05 at 5 10 57 PM](https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/66bf2b32-1081-43fd-a795-006a069c32fe)
 
-[Still from the generative design app Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
+
+[Still from body tracking app developed in p5.js using mediapipe](https://marlonbarrios.github.io/body-tracking-pose/)
 
 # Marlon Barrios Solano
 
@@ -128,7 +129,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 ## Trained Models
 
-[Opne Source in Huggingface](https://huggingface.co/marlonbarrios)
+[Open Source in Huggingface](https://huggingface.co/marlonbarrios)
 
 [ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
 
