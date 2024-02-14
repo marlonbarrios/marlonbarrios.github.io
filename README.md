@@ -75,6 +75,18 @@ He exhibits, performs,  teaches and consults internationaly.
 
 # PROJECTS, EXPERIMENTS AND WORKING SPACES
 
+## With Webcam Input + Body + Face tracking with Machine Learning
+
+[Body Tracking + Stick Figure](https://marlonbarrios.github.io/body-tracking-pose/)
+
+[the body of the text](https://github.com/marlonbarrios/the_body_of_the_text)
+
+[Extraordinary Alien](https://github.com/marlonbarrios/stringy)
+
+## Creative Coding + Generative AI
+
+[Entropic Haiku](https://entropic-haiku.vercel.app/)
+
 ## Performance + Installations + AI
 
 [Meta-fictions: Meta-fictions Entangled with Odd Kins](https://medium.com/@marlon_21867/meta-fictions-performing-process-with-odd-kins-796322de1f48)
@@ -100,10 +112,6 @@ He exhibits, performs,  teaches and consults internationaly.
 ## Social Networking
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
-
-## Creative Coding + Generative AI
-
-[Entropic Haiku](https://entropic-haiku.vercel.app/)
 
 ## Experimental Chatbots
 
