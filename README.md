@@ -72,7 +72,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-# [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations)](https://github.com/marlonbarrios/selection-of-works/blob/mondrian/README.md)
+# [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations/apps)](https://github.com/marlonbarrios/selection-of-works/blob/mondrian/README.md)
 
 ## Creative Coding + Generative AI
 
