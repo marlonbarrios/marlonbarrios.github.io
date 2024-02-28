@@ -31,7 +31,6 @@ He exhibits, performs,  teaches and consults internationaly.
 
 ## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
 
-[Download my CV](https://github.com/marlonbarrios/marlonbarrios.github.io/files/10772020/se_ai_gen_mbs_2_27_23.1.pdf)
 
 ## SOFTWARE SKILLS
 
@@ -73,15 +72,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-# PROJECTS, EXPERIMENTS AND WORKING SPACES
-
-## With Webcam Input + Body + Face tracking with Machine Learning
-
-[Body Tracking + Stick Figure](https://marlonbarrios.github.io/body-tracking-pose/)
-
-[the body of the text](https://github.com/marlonbarrios/the_body_of_the_text)
-
-[Extraordinary Alien](https://github.com/marlonbarrios/stringy)
+# [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations)](https://github.com/marlonbarrios/selection-of-works/blob/mondrian/README.md)
 
 ## Creative Coding + Generative AI
 
