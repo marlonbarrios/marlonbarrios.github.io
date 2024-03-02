@@ -71,15 +71,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-# [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations/apps)](https://github.com/marlonbarrios/selection-of-works/blob/mondrian/README.md)
-
-## Creative Coding + Generative AI
-
-[Entropic Haiku](https://entropic-haiku.vercel.app/)
-
-## Performance + Installations + AI
-
-[Meta-fictions: Meta-fictions Entangled with Odd Kins](https://medium.com/@marlon_21867/meta-fictions-performing-process-with-odd-kins-796322de1f48)
+# [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations/AI/apps)](https://github.com/marlonbarrios/selection-of-works/blob/mondrian/README.md)
 
 ## Playlist of Video Works (AI)
 
@@ -109,7 +101,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [MotionDAO](https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910)
 
-[@JuyceBox](https://juicebox.money/v2/p/635)
+[@JuiceBox](https://juicebox.money/v2/p/635)
 
 ## Experimental Chatbots
 
