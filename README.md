@@ -1,6 +1,5 @@
 
-![Screenshot 2024-02-05 at 5 10 57 PM](https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/66bf2b32-1081-43fd-a795-006a069c32fe)
-
+![Screenshot 2024-02-26 at 4 24 36 PM](https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/a756f193-d040-46e6-8479-1b75e6df7f4c)
 
 [Still from body tracking app developed in p5.js using mediapipe](https://marlonbarrios.github.io/body-tracking-pose/)
 
