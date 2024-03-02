@@ -104,6 +104,14 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
+## WEB3
+
+[SymVal](https://checker.gitcoin.co/public/project/show/symval)
+
+[MotionDAO](https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910)
+
+[@JuyceBox](https://juicebox.money/v2/p/635)
+
 ## Experimental Chatbots
 
 [Sati-AI](https://www.sati-ai.app/)
