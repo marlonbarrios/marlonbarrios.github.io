@@ -3,8 +3,6 @@
 
 [Still from body tracking app developed in p5.js using mediapipe](https://marlonbarrios.github.io/body-tracking-pose/)
 
-# Marlon Barrios Solano
-
 ## Dance Improvisation + Creative Coding + Generative AI + Web3 + Complex Systems + Mindfulness
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
