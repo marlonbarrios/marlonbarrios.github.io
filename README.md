@@ -115,7 +115,7 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
 
-## The AI Model is the Message (Generative AI Experiments)
+## The AI Model is the Message (Generative AI Experiments training models and chaining)
 
 [Infinite Bauhaus](https://infinite-bauhaus.netlify.app/)
 
@@ -123,17 +123,15 @@ He exhibits, performs,  teaches and consults internationaly.
 
 [Ziggy Slide](https://zigglyslide-app.vercel.app/)
 
-## Trained Models
+[ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
 
 [Open Source in Huggingface](https://huggingface.co/marlonbarrios)
-
-[ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
 
 [Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
 
 [Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
 
-## Apps and Writings
+## More egenaryive Ai experiments
 
 [EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
 
