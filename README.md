@@ -1,10 +1,9 @@
 
-
-
-
 <img src="https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/a756f193-d040-46e6-8479-1b75e6df7f4c" width="700">
 
 [Still from body tracking app developed in p5.js using mediapipe](https://marlonbarrios.github.io/body-tracking-pose/)
+
+## Chat with [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef)
 
 ## Dance Improvisation + Creative Coding + Generative AI + Web3 + Complex Systems + Mindfulness
 
