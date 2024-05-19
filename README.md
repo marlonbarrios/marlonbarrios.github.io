@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
-## Bio+ How like a Network
+## Bio + How like a Network (Updated May 2024)
 
 I am a Venezuelan-American creative technologist and researcher with a background in software engineering, improvisational dance, and embodied awareness. Based between Berlin and Gainesville, I am starting a new position as Maker-in-Residence at the University of Florida on August 15th, 2024. I am currently an artist-in-residence with the Rewilding Cultures program at Radiona in Zagreb, Croatia, and at Lake Studios Berlin, where I am a founding member. My work has been selected for the 'Black Box competition: No Middle Ground' at the Mikser Festival 2024 in Belgrade, Serbia.
 
@@ -31,8 +31,8 @@ Since 2002, I have worked with digital and networked systems, performing with an
 I am a member of the Aline Club in France, a Kernel International Fellow with Block 5, and a member of the consulting group Gen AI in the UK. In the fall of 2024, I will collaborate with the Centro de Cultura Digital in Mexico. I am also a founding member of the Metaficciones Collective, collaborating with peers from Mexico, Spain, and France to investigate themes of longing, dislocation, decolonial practices, belonging, and speculative stories of migration and possible futures. Our work utilizes machine learning, robotics, autonomous systems, and bottom-up architectures to explore these themes.
 
 For more insights into my work and philosophy, visit my portfolio and explore my contributions on Medium.
-## [Longish Bio](https://marlonbarrios.github.io/extended_bio/)
 
+I publish very ofetn in Instagram and try to keep my repositorties upadted.
 
 ## SOFTWARE SKILLS
 
