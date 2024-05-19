@@ -7,13 +7,6 @@
 
 ## Dance Improvisation + Creative Coding + Generative AI + Web3 + Complex Systems + Mindfulness
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
-[![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
-
 ## Bio + How like a Network (Updated May 2024)
 
 I am a Venezuelan-American creative technologist and researcher with a background in software engineering, improvisational dance, and embodied awareness. Based between Berlin and Gainesville, I am starting a new position as Maker-in-Residence at the University of Florida on August 15th, 2024. I am currently an artist-in-residence with the Rewilding Cultures program at Radiona in Zagreb, Croatia, and at Lake Studios Berlin, where I am a founding member. My work has been selected for the 'Black Box competition: No Middle Ground' at the Mikser Festival 2024 in Belgrade, Serbia.
@@ -28,11 +21,18 @@ In 2007, I launched the dance-tech project, developing and maintaining a series 
 
 Since 2002, I have worked with digital and networked systems, performing with and developing interactive multimedia systems for dance performance and installations. I was a research associate at the Inter-University of Dance/University of The Arts (UDK/HZT) in Berlin, Germany, from 2013 to 2016, a 2017 Hombroich Fellow in Germany, and an artist/researcher in residence at ICK Amsterdam in 2013-14 and at the Gilles Jobin Company in Geneva, Switzerland, from 2009-2012. I graduated from the General Assembly Software Engineering Online Immersive Program in December 2021 and currently freelance as a creative web developer and art and technology educator and lecturer.
 
-I am a member of the Aline Club in France, a Kernel International Fellow with Block 5, and a member of the consulting group Gen AI in the UK. In the fall of 2024, I will collaborate with the Centro de Cultura Digital in Mexico. I am also a founding member of the Metaficciones Collective, collaborating with peers from Mexico, Spain, and France to investigate themes of longing, dislocation, decolonial practices, belonging, and speculative stories of migration and possible futures. Our work utilizes machine learning, robotics, autonomous systems, and bottom-up architectures to explore these themes.
+I am a member of the Alien Club in France, a Kernel International Fellow with Block 5, and a member of the consulting group GenAI in the UK. In the fall of 2024, I will collaborate with the Centro de Cultura Digital in Mexico. I am also a founding member of the Metaficciones Collective, collaborating with peers from Mexico, Spain, and France to investigate themes of longing, dislocation, decolonial practices, belonging, and speculative stories of migration and possible futures. Our work utilizes machine learning, robotics, autonomous systems, and bottom-up architectures to explore these themes.
 
 For more insights into my work and philosophy, visit my portfolio and explore my contributions on Medium.
 
-I publish very ofetn in Instagram and try to keep my repositorties upadted.
+I publish very often in Instagram and try to keep my repositorties upadted.
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
+[![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
 ## SOFTWARE SKILLS
 
