@@ -5,15 +5,15 @@
 
 ## Chat with [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef)
 
-## Dance Improvisation + Creative Coding + Generative AI + Web3 + Complex Systems + Mindfulness
+## Dance Improvisation + Creative Coding + Generative Art + Gnerative AI + Computational Creativity and Cognition + Complex Systems + Awareness Practices
 
 ## Bio + How like a Network (Updated May 2024)
 
 I am a Venezuelan-American creative technologist and researcher with a background in software engineering, improvisational dance, and embodied awareness. Based between Berlin, Germany, and Gainesville, USA, I am starting a new position as Maker-in-Residence at the University of Florida on August 15th, 2024. I am currently an artist-in-residence with the Rewilding Cultures program at Radiona in Zagreb, Croatia, and at Lake Studios Berlin, Germany, where I am a founding member. My AI visual art work has recently been selected for the 'Black Box competition: No Middle Ground' at the Mikser Festival 2024 in Belgrade, Serbia.
 
-My current focus is on the intersection of AI and the arts. I lead AI+ART+LAB, an online lab and studio for exploring deep learning, creativity, and cognition. This platform uses open-source models and decentralized AI principles to advance creative technologies, concentrating on the intersections of artificial intelligence, art, and cognitive science. My projects involve self-organizing entities or nodes that are metabolic and metaphorical, used as an unstable landscape for the performance of knowledge and epistemic injections. These conceptual and performative entities release open-source code, live apps, performance instructions, videos, and stories, which are published on Git platforms.
+My current focus is on the intersection of artificial intelligence, generative art, computational creativity and cognition. My projects involve self-organizing entities or nodes that are metabolic and metaphorical, used as an unstable landscape for the performance of knowledge and epistemic injections. These conceptual and performative entities release open-source code, live apps, performance instructions, videos, and stories, which are published on Git platforms.
 
-I have over 20 years of experience with digital and networked systems and have been a web3 developer since 2020. I performed in dance productions and installations with interactive multimedia systems from 2003 to 2010 and was a research associate at the Inter-University of Dance/University of The Arts in Berlin, Germany, from 2013 to 2016. I have published video interviews and essays on the intersection of dance, arts, and technology, and have pioneered XR projects for knowledge transmission. I have consulted, taught, and developed international projects in various countries and collaborated with choreographers and musicians in NYC, USA. As a meditation teacher and movement instructor at Kernel, a web3 educational community, I integrate mindfulness practices into my work. I hold an MFA in Dance and Technology from The Ohio State University and completed The General Assembly Software Engineering Immersive Program. I am also certified in Vipassana/Mindfulness Meditation, Embodyoga, and the Somatic Experiencing Certification Program (1st year).
+I have over 20 years of experience with digital, interactive  and networked systems and have been a web developer since 2020. I performed in dance productions and installations with interactive multimedia systems. I have published video interviews and essays on the intersection of dance, arts, and technology, and have pioneered XR projects for knowledge transmission. 
 
 In 2007, I launched the dance-tech project, developing and maintaining a series of online and hybrid collaborative platforms for interdisciplinary explorers of movement performance, innovators, and emergent performance practices. I have produced 400 video interviews as one of the first international video bloggers dedicated to the intersection of dance, arts, and digital technology, published several essays, and created pioneering XR projects for knowledge transmission within dance/art festivals.
 
@@ -23,11 +23,11 @@ As a contemporary dancer and improviser, I have collaborated with renowned chore
 
 I am a member of the Alien Club in France, a Kernel International Fellow with Block 5, and a member of the consulting group GenAI in the UK.  I am also a founding member of the Metaficciones Collective, collaborating with peers from Mexico, Spain, and France to investigate postdramatic theater and other procedural strategies for realtime composition. Metaficiones explores longing, belonging, queerness,  dislocation, decolonial practices, and speculative stories of migration and possible emancipated yet alien futures. Our work utilizes speculative narratives,  machine learning, robotics, autonomous systems, and bottom-up architectures to explore these themes. In Novemeber 2024, Metaficciones will be in residency at the  Centro de Cultura Digital in Mexico.
 
-For more insights into my work and philosophy, explore this  portfolio and my contributions on Medium. I publish very often on Instagram and try to keep my repositories updated. I am also the technical director of AI+ART+LAB for the Nomade Lab, exploring the impact and diffusion of AI in African artists and the impact of generative AI in the global South.
+I am also the technical director of AI+ART+LAB for the Nomade Lab, exploring the impact and diffusion of AI in African artists and the impact of generative AI in the global South.
 
-For more insights into my work and philosophy, visit my portfolio and explore my contributions on Medium.
+I hold an MFA in Dance and Technology from The Ohio State University and completed The General Assembly Software Engineering Immersive Program. I am also certified in Vipassana/Mindfulness Meditation, Embodyoga, and the Somatic Experiencing Certification Program (1st year).
 
-I publish very often in Instagram and try to keep my repositorties upadted.
+ I publish very often on Medium,  Instagram and GitHub. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
