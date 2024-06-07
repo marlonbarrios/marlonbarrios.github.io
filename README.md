@@ -74,7 +74,7 @@ Marlon holds an MFA in Dance and Technology from The Ohio State University, USA 
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
-# [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations/AI/apps)](https://github.com/marlonbarrios/selection-of-works/blob/mondrian/README.md)
+# [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations/AI/apps)](https://marlonbarrios.github.io/selection-of-works/)
 
 ## Playlist of Video Works (AI)
 
