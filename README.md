@@ -5,13 +5,11 @@
 
 ## Generative AI + Computational Creativity and Cognition + Dance Improvisation + Creative Coding + Generative Art + Complex Systems + Awareness Practices
 
-## Bio + How like a Network (Updated May 2024)
+## Bio + How like a Network (Updated October 2024)
 
-Marlon Barrios Solano is a Venezuelan-American  interdisciplinary artist, creative technologist and researcher with a background in dance, software engineering and cognitive science working with generative AI, machine learning, creative coding and performance. Based between Berlin, Germany, and Gainesville, USA, he is starting a new position as Maker-in-Residence foccused on AI, Art and Diasporas at the University of Florida on August 15th, 2024. He is currently an artist-in-residence with the Rewilding Cultures program at Radiona in Zagreb, Croatia, and at Lake Studios Berlin, Germany, where he is a founding member. 
+Marlon Barrios Solano is a Venezuelan-American  interdisciplinary artist, creative technologist and researcher with a background in dance, software engineering and cognitive science working with generative AI, machine learning, creative coding and interactive performance. Since August 2024, he is the Maker-in-Residence focused at CAME Center for Arts, Migration and Entrepteneurship fdocused on AI, Art and Diasporas at the University of Florida.  He is currently an artist-in-residence with the Rewilding Cultures program at Radiona in Zagreb, Croatia, and at Lake Studios Berlin, Germany, where he is a founding member. 
 
 Marlon’s work investigates computational creativity and synthetic cognition designing hybrid complex systems where language and self-organizing processes  generate the aesthetic experience. His artistic practice includes  machine learning for embodied digital interaction, generative AI, movement and voice, creative coding and app development, generative writing, bottom-up robotics, dance improvisation and vipassana meditation.  His works  are deployed as dynamic browser based art, open source code, improvisational scores, sound environments, AI chatbots and video that he organizes as installations, workshops, participatory performances and lectures. All the work is published and distributed with an open source license.
-
-Marlon is also a founding member of the Meta Ficciones Collective, collaborating with peers from Mexico, Spain, and France to investigate postdramatic theater and other procedural strategies for real time composition and generative AI. Metaficciones explores longing, belonging, queerness, dislocation, decolonial practices for the global south and speculative stories of migration and possible emancipated yet alien futures.
 
 In 2007, Marlon launched dance-tech.net, a social network for interdisciplinary explorers of movement performance, innovators, and emergent performance practices. He has produced more than 200 video interviews as one of the first international video bloggers dedicated to the intersection of dance, arts, and digital technology, published several essays, and created pioneering XR projects for knowledge transmission within dance/art festivals. In 2011 movimiento.org was created in Spanish and Portuguese and supported by the South American Network of Dance. These networks have received support from Motionbank and the Forsythe Company (Germany), Panorama Festival (Brazil), Transmediaakademy (Germany), Lake Studios Berlin, among many others.
 
@@ -21,7 +19,7 @@ Marlon has written essays for the books Dance In the Head/Tanz im Kopf and Trans
 
 As a contemporary dancer and improviser in New York (1994-2001), Marlon has collaborated with  choreographers such as Lynn Shapiro, Merian Soto, Dean Moss, Bill Young, and Susan Marshall, and musicians such as Philip Glass, John Zorn, and Erik Friedlander. He has participated in numerous festivals and taught both nationally and internationally. He studied and practiced improvisation with Nancy Stark Smith, Jennifer Monson, Bebe Miller, KJ Holmes, and David Zambrano. In Venezuela (1981-1994), he apprenticed with DanzaLuz, DanzaHoy, and danced professionally with Aktion Colectiva and Rajatabla Danza. He co-founded Danza Contemporánea de Maracaibo with Yasmin Villavicencio in 1986.
 
-Marlon holds an MFA in Dance and Technology from The Ohio State University, USA (2004) and completed the General Assembly Software Engineering Immersive Program 2021. He is also certified in Vipassana/Mindfulness Meditation by Spirit Rock Meditation Center, Embodyoga, and the Somatic Experiencing Certification Program (1st year).
+Marlon holds an MFA in Dance and Technology from The Ohio State University, USA (2004) and completed the General Assembly Software Engineering Immersive Program 2021. He is also certified in Vipassana/Mindfulness Meditation by Spirit Rock Meditation Center, a 200 Hours Embodyoga Teacher has studied one year of the  Somatic Experiencing Certification Program.
 
 [https://linktr.ee/marlonbarriososolano](https://linktr.ee/marlonbarriososolano)
 
@@ -96,13 +94,6 @@ Marlon holds an MFA in Dance and Technology from The Ohio State University, USA 
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
-## WEB3
-
-[SymVal](https://checker.gitcoin.co/public/project/show/symval)
-
-[MotionDAO](https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910)
-
-[@JuiceBox](https://juicebox.money/v2/p/635)
 
 ## Experimental Chatbots
 
@@ -316,6 +307,15 @@ Marlon holds an MFA in Dance and Technology from The Ohio State University, USA 
 [Nose tracking](https://marlonbarrios.github.io/nosetrackingsimplesound/)
 
 [Face tracking AR](https://marlonbarrios.github.io/diadelosmuertos/)
+
+## WEB3
+
+[SymVal](https://checker.gitcoin.co/public/project/show/symval)
+
+[MotionDAO](https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910)
+
+[@JuiceBox](https://juicebox.money/v2/p/635)
+
 
 ## FULL STACK DEVELOPMENT
 
