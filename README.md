@@ -19,7 +19,7 @@ Marlon has written essays for the books Dance In the Head/Tanz im Kopf and Trans
 
 As a contemporary dancer and improviser in New York (1994-2001), Marlon has collaborated with  choreographers such as Lynn Shapiro, Merian Soto, Dean Moss, Bill Young, and Susan Marshall, and musicians such as Philip Glass, John Zorn, and Erik Friedlander. He has participated in numerous festivals and taught both nationally and internationally. He studied and practiced improvisation with Nancy Stark Smith, Jennifer Monson, Bebe Miller, KJ Holmes, and David Zambrano. In Venezuela (1981-1994), he apprenticed with DanzaLuz, DanzaHoy, and danced professionally with Aktion Colectiva and Rajatabla Danza. He co-founded Danza Contemporánea de Maracaibo with Yasmin Villavicencio in 1986.
 
-Marlon holds an MFA in Dance and Technology from The Ohio State University, USA (2004) and completed the General Assembly Software Engineering Immersive Program 2021. He is also certified in Vipassana/Mindfulness Meditation by Spirit Rock Meditation Center, a 200 Hours Embodyoga Teacher has studied one year of the  Somatic Experiencing Certification Program.
+Marlon holds an MFA in Dance and Technology from The Ohio State University, USA (2004) and completed the General Assembly Software Engineering Immersive Program 2021. He is also certified in Vipassana/Mindfulness Meditation by Spirit Rock Meditation Center, a certified 200 Hours Embodyoga Teacher and has studied one year of the  Somatic Experiencing Certification Program.
 
 [https://linktr.ee/marlonbarriososolano](https://linktr.ee/marlonbarriososolano)
 
