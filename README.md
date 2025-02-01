@@ -1,11 +1,10 @@
+# Marlon Barrios Solano
 
 <img src="https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/a756f193-d040-46e6-8479-1b75e6df7f4c" width="700">
 
 ## Chat with [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef)
 
 ## Generative AI + Computational Creativity and Cognition + Dance Improvisation + Creative Coding + Generative Art + Complex Systems + Awareness Practices
-
-# Marlon Barrios Solano
 
 ## Bio + How like a Network (Updated October 2024)
 
