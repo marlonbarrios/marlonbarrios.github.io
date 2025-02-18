@@ -93,14 +93,23 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 
 [General](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
 
+## Web Art
+
+[Bioelectric MetaMorphic Techno Fugue](https://marlonbarrios.github.io/bioelectricmorphicfields/)
+
+
+[Hypermorphic Intelligance](https://marlonbarrios.github.io/hypermorphiveintelligence/)
+
+
+[Proteans | There is always someone for you in the future...](https://proteus-umber.vercel.app/)
+
+
 ## Social Networking
 
 [Dance-tech.net, a social networking site](https://dance-tech.net/)
 
 
 ## Experimental Chatbots
-
-[Sati-AI](https://www.sati-ai.app/)
 
 [Alan-AI](https://alan-ai-one.vercel.app/)
 
