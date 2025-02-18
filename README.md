@@ -75,6 +75,8 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 
 # [SELECTED PROJECTS, EXPERIMENTS AND WORKING SPACES (Performance/installations/AI/apps)](https://marlonbarrios.github.io/selection-of-works/)
 
+## [Duets in Latent Space (Performance-lecture)](https://marlonbarrios.github.io/duets-in-latent-space/)
+
 ## Playlist of Video Works (AI)
 
 [Latent Spaces: Morphs, Migrations and Digressions](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
@@ -93,20 +95,17 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 
 [General](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
 
-## Web Art
-
-[Bioelectric MetaMorphic Techno Fugue](https://marlonbarrios.github.io/bioelectricmorphicfields/)
-
-
-[Hypermorphic Intelligance](https://marlonbarrios.github.io/hypermorphiveintelligence/)
-
+## WEB WORKS
 
 [Proteans | There is always someone for you in the future...](https://proteus-umber.vercel.app/)
 
+[Bioelectric MetaMorphic Techno Fugue](https://marlonbarrios.github.io/bioelectricmorphicfields/)
 
-## Social Networking
+[HYPERMORPHIC INTELLIGENCE](https://marlonbarrios.github.io/hypermorphiveintelligence/)
 
-[Dance-tech.net, a social networking site](https://dance-tech.net/)
+[SPACE OF POSSIBLE BODIES](https://marlonbarrios.github.io/spaceofpossiblebodies/)
+
+[MONDRIANAUTS](https://marlonbarrios.github.io/mondrianauts/)
 
 
 ## Experimental Chatbots
@@ -137,7 +136,7 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 
 [Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
 
-## More egenaryive Ai experiments
+## More genartive Ai experiments
 
 [EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
 
@@ -148,6 +147,11 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 [Derivative Utopias: Playing with our Collective Artifice (Croatia) ](https://radiona.org/diary/autosave-7f747c46407d59744b876bf04876ae1e)
 
 [My Writing and pieces @medium](https://medium.com/@marlon_21867/)
+
+
+## Social Networking
+
+[Dance-tech.net, a social networking site](https://dance-tech.net/)
 
 
 ## Creative Coding + Cellular Automata
