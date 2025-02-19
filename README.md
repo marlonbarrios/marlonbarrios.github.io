@@ -97,7 +97,7 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 
 ## WEB WORKS
 
-[Proteans | There is always someone for you in the future...](https://proteus-umber.vercel.app/)
+[Proteans: There is always someone for you in the future...](https://proteus-umber.vercel.app/)
 
 [Bioelectric MetaMorphic Techno Fugue](https://marlonbarrios.github.io/bioelectricmorphicfields/)
 
