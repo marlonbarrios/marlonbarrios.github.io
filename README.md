@@ -1,4 +1,4 @@
-<img src="ttps://github.com/user-attachments/assets/5b805341-f225-4710-abbb-931a50b0ef79" width="700">
+<img src="https://github.com/user-attachments/assets/5b805341-f225-4710-abbb-931a50b0ef79" width="700">
 
 # Marlon Barrios Solano
 
