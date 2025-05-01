@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/b99769e3-3ebf-4463-88fb-d8e005431c79" width="700">
 
-## Generative AI + Computational Creativity and Cognition + Real Time Composition + Creative Coding + Generative Art + Complex Systems + Awareness Practices
+## Art + Computational Creativity and Cognition + Real Time Composition + Creative Coding + Machine Learning + Generative AI + Complex Systems + Awareness Practices
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
@@ -33,9 +33,6 @@ Explore an interactive map of my practice:
 [Launch the visualization](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
 [https://linktr.ee/marlonbarriososolano](https://linktr.ee/marlonbarriososolano)
-
-
-[Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 # Recent Projects
 
