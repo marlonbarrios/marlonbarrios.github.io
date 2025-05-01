@@ -21,6 +21,17 @@ As a contemporary dancer and improviser in New York (1994–2001), I collaborate
 
 I hold an **MFA in Dance and Technology** from **The Ohio State University** (2004) and completed the **General Assembly Software Engineering Immersive Program** in 2021. I’m also certified in **Vipassana/Mindfulness Meditation** by **Spirit Rock Meditation Center**, a certified **200-hour Embodyoga teacher**, and have completed one year of the **Somatic Experiencing Certification Program**.
 
+### Interactive Visualization of My Work
+
+Explore an interactive map of my practice:
+
+- **Press** `c` to toggle circles  
+- **Press** `l` to toggle connecting lines  
+- **Press** `t` to toggle labels/text  
+- **Use** the slider to adjust the velocity of movement  
+
+[Launch the visualization](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
+
 [https://linktr.ee/marlonbarriososolano](https://linktr.ee/marlonbarriososolano)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
