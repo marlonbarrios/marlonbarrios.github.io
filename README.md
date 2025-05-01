@@ -2,7 +2,10 @@
 
 ## Generative AI + Computational Creativity and Cognition + Real Time Composition + Creative Coding + Generative Art + Complex Systems + Awareness Practices
 
-## How like a Network 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
+[![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
 I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. I’m also currently an **artist-in-residence** with the **Rewilding Cultures program at Radiona** in Zagreb, Croatia, and at **Lake Studios Berlin**, Germany, where I’m a founding member.
 
@@ -31,10 +34,6 @@ Explore an interactive map of my practice:
 
 [https://linktr.ee/marlonbarriososolano](https://linktr.ee/marlonbarriososolano)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
-[![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
