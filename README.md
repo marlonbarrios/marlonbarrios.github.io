@@ -30,6 +30,7 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
+
 [Back to Top](https://marlonbarrios.github.io/#marlon-barrios-solano 'Back to Top')
 
 # Recent Projects
