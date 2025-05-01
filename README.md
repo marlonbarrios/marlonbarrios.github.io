@@ -3,9 +3,7 @@
 
 # Marlon Barrios Solano
 
-## Chat with [Marlon-AI](https://hf.co/chat/assistant/662aa5f576d6b68076d674ef)
-
-## Generative AI + Computational Creativity and Cognition + Dance Improvisation + Creative Coding + Generative Art + Complex Systems + Awareness Practices
+## Generative AI + Computational Creativity and Cognition + Real Time Composition + Creative Coding + Generative Art + Complex Systems + Awareness Practices
 
 ## Bio + How like a Network 
 
