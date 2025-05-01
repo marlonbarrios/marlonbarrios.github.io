@@ -2,7 +2,7 @@
 
 ## Generative AI + Computational Creativity and Cognition + Real Time Composition + Creative Coding + Generative Art + Complex Systems + Awareness Practices
 
-## Bio + How like a Network 
+## How like a Network 
 
 I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. I’m also currently an **artist-in-residence** with the **Rewilding Cultures program at Radiona** in Zagreb, Croatia, and at **Lake Studios Berlin**, Germany, where I’m a founding member.
 
