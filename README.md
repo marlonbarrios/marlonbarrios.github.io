@@ -64,19 +64,6 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 
 [General](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
 
-## WEB WORKS
-
-[Proteans: There is always someone for you in the future...](https://proteus-umber.vercel.app/)
-
-[Bioelectric MetaMorphic Techno Fugue](https://marlonbarrios.github.io/bioelectricmorphicfields/)
-
-[HYPERMORPHIC INTELLIGENCE](https://marlonbarrios.github.io/hypermorphiveintelligence/)
-
-[SPACE OF POSSIBLE BODIES](https://marlonbarrios.github.io/spaceofpossiblebodies/)
-
-[MONDRIANAUTS](https://marlonbarrios.github.io/mondrianauts/)
-
-
 ## Experimental Chatbots
 
 [Alan-AI](https://alan-ai-one.vercel.app/)
@@ -89,33 +76,11 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** (20
 
 [Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
 
-## The AI Model is the Message (Generative AI Experiments training models and chaining)
+## Writing
 
-[Infinite Bauhaus](https://infinite-bauhaus.netlify.app/)
+[Recent Essays@Github](https://marlonbarrios.github.io/essays/)
 
-[Infinite Rothko](https://infinite-rothko.netlify.app/)
-
-[Ziggy Slide](https://zigglyslide-app.vercel.app/)
-
-[ZiggySlide Trained Model](https://replicate.com/marlonbarrios/sdxl-ziggislide)
-
-[Open Source in Huggingface](https://huggingface.co/marlonbarrios)
-
-[Simple Image Generator in replicate](https://texttoimagereplicate.vercel.app/)
-
-[Camile 6 Trained Model](https://replicate.com/marlonbarrios/sdxl-camille6)
-
-## More genartive Ai experiments
-
-[EndlessZoom](https://endless-zoom-main-9oj6tvy4a-marlonbarrios.vercel.app/)
-
-[BodyDigital 3: Dancing within Artificial Thoughts (Germany)](https://lakestudiosberlin.com/event/body-digital-no-3/)
-
-[Entangled with Fabulation Engines (Croatia) Dreprecated app!! ](https://radiona.org/diary/entangled-with-fabulation-engines)
-
-[Derivative Utopias: Playing with our Collective Artifice (Croatia) ](https://radiona.org/diary/autosave-7f747c46407d59744b876bf04876ae1e)
-
-[My Writing and pieces @medium](https://medium.com/@marlon_21867/)
+[@medium](https://medium.com/@marlon_21867/)
 
 ## Social Networking
 
