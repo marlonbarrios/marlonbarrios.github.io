@@ -1,8 +1,5 @@
 <img src="https://github.com/user-attachments/assets/b99769e3-3ebf-4463-88fb-d8e005431c79" width="700">
 
-
-# Marlon Barrios Solano
-
 ## Generative AI + Computational Creativity and Cognition + Real Time Composition + Creative Coding + Generative Art + Complex Systems + Awareness Practices
 
 ## Bio + How like a Network 
