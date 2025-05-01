@@ -1,6 +1,4 @@
-
-
-<img src="https://github.com/marlonbarrios/marlonbarrios.github.io/assets/90220317/a756f193-d040-46e6-8479-1b75e6df7f4c" width="700">
+<img src="ttps://github.com/user-attachments/assets/5b805341-f225-4710-abbb-931a50b0ef79" width="700">
 
 # Marlon Barrios Solano
 
