@@ -40,7 +40,7 @@ Explore an interactive map of my practice:
 
 ## Pangea in Latent Space (Exhibition to be open at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) )
 
-## Recent Interviews, press abd my writings
+## Recent Interviews, press and writings
 
 [Recent Essays@Github](https://marlonbarrios.github.io/essays/)
 
@@ -63,7 +63,6 @@ Explore an interactive map of my practice:
 [Meet Sati-AI, a Non-Human Mindfulness Meditation Teacher](https://www.lionsroar.com/ai-meditation-teacher/)
 
 [@medium](https://medium.com/@marlon_21867/)
-
 
 
 ## Playlist of Video Works (AI)
@@ -103,21 +102,11 @@ Explore an interactive map of my practice:
 
 ## [CREATIVE CODING](https://marlonbarrios.github.io/creativecoding/)
 
-## WEB3
-
-[SymVal](https://checker.gitcoin.co/public/project/show/symval)
-
-[MotionDAO](https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910)
-
-[@JuiceBox](https://juicebox.money/v2/p/635)
-
+## [MotionDAO]((https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910))
 
 ## [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/full-stack-development/
 
-## MOBILE DEVELOPMENT IN REACT NATIVE
-
-[PROJECT](https://marlonbarrios.github.io/crypto-tracker-rn/)
-
+## [Crypto Tracker](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
 ## PERFORMANCE RESEARCH, TEACHING and WRITING
 
