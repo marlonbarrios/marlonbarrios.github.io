@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/370108b6-b1b2-421f-b163-c2a19c78fb16" width="900">
+
+<img src="https://github.com/user-attachments/assets/6445ec9c-a1ad-412d-8539-3b0ad4084046" width="900">
 
 ## Interdisciplinary Arts + Creative Coding + Machine Learning + Generative AI + Awareness Practices 
 
@@ -29,12 +30,12 @@ Explore an interactive map of my practice:
 - **Press** `l` to toggle connecting lines  
 - **Press** `t` to toggle labels/text  
 - **Use** the slider to adjust the velocity of movement
-  
-<img width="953" alt="Screenshot 2025-05-04 at 4 17 48 PM" src="https://github.com/user-attachments/assets/6445ec9c-a1ad-412d-8539-3b0ad4084046" />
 
 [Launch the visualization](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
 [https://linktr.ee/marlonbarriososolano](https://linktr.ee/marlonbarriososolano)
+
+<img src="https://github.com/user-attachments/assets/370108b6-b1b2-421f-b163-c2a19c78fb16" width="900">
 
 # Recent Projects
 
