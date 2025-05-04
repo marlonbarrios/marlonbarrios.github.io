@@ -28,7 +28,9 @@ Explore an interactive map of my practice:
 - **Press** `c` to toggle circles  
 - **Press** `l` to toggle connecting lines  
 - **Press** `t` to toggle labels/text  
-- **Use** the slider to adjust the velocity of movement  
+- **Use** the slider to adjust the velocity of movement
+  
+<img width="953" alt="Screenshot 2025-05-04 at 4 17 48 PM" src="https://github.com/user-attachments/assets/6445ec9c-a1ad-412d-8539-3b0ad4084046" />
 
 [Launch the visualization](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
