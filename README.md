@@ -45,6 +45,9 @@ Explore an interactive map of my practice:
 
 ## [Born in Latent Space (Performance-lecture | Touring )](https://marlonbarrios.github.io/born_in_latent_space/)
 
+<img width="932" alt="Screenshot 2025-04-30 at 9 00 31 PM" src="https://github.com/user-attachments/assets/3e8ef8f2-93dd-45aa-9ed4-7355f4f0d1d6" />
+
+
 ## Pangea in Latent Space (Exhibition to be open at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) )
 
 ## Recent Interviews, press and writings
@@ -73,6 +76,8 @@ Explore an interactive map of my practice:
 
 
 ## Playlist of Video Works (AI)
+
+<img width="931" alt="Screenshot 2025-04-30 at 9 08 14 PM" src="https://github.com/user-attachments/assets/5a413cd5-33bf-4739-8dca-70f17d9fee47" />
 
 [Latent Spaces: Morphs, Migrations and Digressions](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
 
@@ -130,5 +135,8 @@ Explore an interactive map of my practice:
 ![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
 
 [More Information about Marlon Barrios Solano](https://www.dance-tech.net/profile/network_producer 'more information')
+
+<img width="930" alt="Screenshot 2025-04-30 at 9 05 39 PM" src="https://github.com/user-attachments/assets/e4af4311-abdb-4992-8158-39640e627fdc" />
+
 
 
