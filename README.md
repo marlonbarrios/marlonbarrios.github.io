@@ -8,7 +8,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
-I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. I’m also currently an **artist-in-residence** with the **Rewilding Cultures program at Radiona** in Zagreb, Croatia, and at **Lake Studios Berlin**, Germany, where I’m a founding member.
+I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. At University of Florida I teach [Algorithmic Creativity and AI, Art and Society courses for the AI and Art Certificate Program.](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/ART_UCT10/)
+
+I’m a researcher in residency at **Lake Studios Berlin**, Germany, where I’m a founding member. I am one of the recipient of the [Beyond Gravity/Decolonizing the Digital Residency 2025 at Theater Im Depot (Dortmund, Germany)](https://theaterimdepot.de/en)
 
 My work investigates **computational creativity** and **synthetic cognition**, designing hybrid complex systems where language and self-organizing processes generate aesthetic experiences. My artistic practice includes machine learning for embodied digital interaction, generative AI, movement and voice, creative coding and app development, generative writing, bottom-up robotics, dance improvisation, and Vipassana meditation. I deploy my work as dynamic browser-based art, open-source code, improvisational scores, sound environments, AI chatbots, and video. I organize these into installations, workshops, participatory performances, and lectures, all published and distributed under open-source licenses.
 
@@ -21,6 +23,8 @@ I’ve written essays for the books *Dance In the Head/Tanz im Kopf* and *Transm
 As a contemporary dancer and improviser in New York (1994–2001), I collaborated with choreographers such as Lynn Shapiro, Merian Soto, Dean Moss, Bill Young, and Susan Marshall, and musicians like Philip Glass, John Zorn, and Erik Friedlander. I’ve participated in numerous festivals and taught both nationally and internationally. I studied and practiced improvisation with Nancy Stark Smith, Jennifer Monson, Bebe Miller, KJ Holmes, and David Zambrano. In Venezuela (1981–1994), I apprenticed with DanzaLuz and DanzaHoy and danced professionally with Aktion Colectiva and Rajatabla Danza. I also co-founded **Danza Contemporánea de Maracaibo** with Yasmin Villavicencio in 1986.
 
 I hold an **MFA in Dance and Technology** from **The Ohio State University** (2004) and completed the **General Assembly Software Engineering Immersive Program** in 2021. I’m also certified in **Vipassana/Mindfulness Meditation** by **Spirit Rock Meditation Center**, a certified **200-hour Embodyoga teacher**, and have completed one year of the **Somatic Experiencing Certification Program**.
+
+### 
 
 ### Interactive Visualization of My Work
 
