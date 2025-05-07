@@ -116,7 +116,7 @@ Explore an interactive map of my practice:
 
 ## [MotionDAO]((https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910))
 
-## [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/full-stack-development/
+## [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/full-stack-development/)
 
 ## [Crypto Tracker](https://marlonbarrios.github.io/crypto-tracker-rn/)
 
