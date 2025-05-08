@@ -48,7 +48,7 @@ Explore an interactive map of my practice:
 <img width="932" alt="Screenshot 2025-04-30 at 9 00 31 PM" src="https://github.com/user-attachments/assets/3e8ef8f2-93dd-45aa-9ed4-7355f4f0d1d6" />
 
 
-## Pangea in Latent Space (Exhibition to be open at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) )
+## [Pangea in Latent Space[(https://marlonbarrios.github.io/pangea_in_latent_space/) (Exhibition to be open at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) )
 
 ## Recent Interviews, press and writings
 
