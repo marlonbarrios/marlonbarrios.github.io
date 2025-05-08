@@ -1,5 +1,6 @@
 
 <img src="https://github.com/user-attachments/assets/633e1f52-c879-4b29-8b44-78d2ad33396c" width="900">
+![Screenshot 2025-05-08 at 5 46 12 PM](https://github.com/user-attachments/assets/c1601ce0-6c6a-4bb4-940a-f7341d1d1ac1)
 
 ## Interdisciplinary Arts + Creative Coding + Machine Learning + Generative AI + Awareness Practices 
 
