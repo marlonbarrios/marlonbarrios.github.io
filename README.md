@@ -1,6 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/633e1f52-c879-4b29-8b44-78d2ad33396c" width="900">
-![Screenshot 2025-05-08 at 5 46 12 PM](https://github.com/user-attachments/assets/c1601ce0-6c6a-4bb4-940a-f7341d1d1ac1)
+<img src="https://github.com/user-attachments/assets/c1601ce0-6c6a-4bb4-940a-f7341d1d1ac1" width="900">
 
 ## Interdisciplinary Arts + Creative Coding + Machine Learning + Generative AI + Awareness Practices 
 
@@ -25,7 +24,7 @@ As a contemporary dancer and improviser in New York (1994–2001), I collaborate
 
 I hold an **MFA in Dance and Technology** from **The Ohio State University** (2004) and completed the **General Assembly Software Engineering Immersive Program** in 2021. I’m also certified in **Vipassana/Mindfulness Meditation** by **Spirit Rock Meditation Center**, a certified **200-hour Embodyoga teacher**, and have completed one year of the **Somatic Experiencing Certification Program**.
 
-### 
+<img src="https://github.com/user-attachments/assets/633e1f52-c879-4b29-8b44-78d2ad33396c" width="900">
 
 ### Interactive Visualization of My Work
 
