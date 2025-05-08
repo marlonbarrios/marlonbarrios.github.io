@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/c1601ce0-6c6a-4bb4-940a-f7341d1d1ac1" width="1200">
+<img src="https://github.com/user-attachments/assets/dcbe875d-4227-41b9-a7a7-f28d2c44b477" width="1200">
 
 ## Interdisciplinary Arts + Creative Coding + Machine Learning + Generative AI + Awareness Practices 
 
