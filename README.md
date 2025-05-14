@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/dcbe875d-4227-41b9-a7a7-f28d2c44b477" width="1200">
 
 ## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI 
-## AI, Plurisversality, global South, Queer-Tech and Ethics
+## AI, global South, Queer-Tech and Ethics
 ## AI, Art, Cognition and Creativity
 ## Cybernetics, Digital Utopianism and Counterculture
 
