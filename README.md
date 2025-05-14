@@ -2,9 +2,10 @@
 <img src="https://github.com/user-attachments/assets/dcbe875d-4227-41b9-a7a7-f28d2c44b477" width="1200">
 
 ## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI 
-## AI, global South, Queer-Tech and Ethics
+## AI, Global South, Queer-Tech and Ethics
 ## AI, Art, Cognition and Creativity
 ## Cybernetics, Digital Utopianism and Counterculture
+## Critical Somatics and Contemplatove Practices
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
