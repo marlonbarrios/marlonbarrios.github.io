@@ -61,7 +61,7 @@ Explore an interactive map of my practice:
 
 ## [Pangea in Latent Space](https://marlonbarrios.github.io/pangea_in_latent_space/) (Exhibition to be open at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) )
 
-## [Cogninve Exhuberance: AI, Art, Creativity and Cognition](https://marlonbarrios.github.io/ai_art_creativity_cognition/)
+## [Cognitive Exhuberance: AI, Art, Creativity and Cognition](https://marlonbarrios.github.io/ai_art_creativity_cognition/)
 
 ## Recent Interviews, press and writings
 
