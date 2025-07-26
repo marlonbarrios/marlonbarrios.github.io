@@ -14,12 +14,12 @@ I’m also a researcher-in-residency at **Lake Studios Berlin**, Germany, where 
 
 My work unfolds across six interconnected areas:
 
-## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI  
-## AI, Global South, Queer-Tech and Ethics  
-## AI, Art, Cognition and Creativity  
-## Cybernetics, Digital Utopianism and Counterculture  
-## Critical Somatics and Contemplative Practices  
-## Social Networks and Communities of Care  
+### Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI  
+### AI, Art, Cognition and Creativity  
+### AI, Global South, Queer-Tech and Ethics  
+### Cybernetics, Digital Utopianism and Counterculture  
+### Critical Somatics and Contemplative Practices  
+### Social Networks and Communities of Care  
 
 Through these intersecting frameworks, I explore queer longing, techno-intimacy, cybernetic feedback loops, migration, displacement, and diasporic memory. I investigate **computational creativity** and **synthetic cognition** by designing hybrid systems where language and self-organizing processes become aesthetic agents. My work incorporates generative AI, creative coding, generative writing, voice and movement interaction, bottom-up robotics, and contemplative practices such as Vipassana meditation.
 
