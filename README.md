@@ -2,40 +2,54 @@
 <img src="https://github.com/user-attachments/assets/dcbe875d-4227-41b9-a7a7-f28d2c44b477" width="1200">
 
 ## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI 
-## AI, Global South, Queer-Tech and Ethics
-## AI, Art, Cognition and Creativity
-## Cybernetics, Digital Utopianism and Counterculture
-## Critical Somatics and Contemplative Practices
-## Social Networks and Communities of Care
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
-I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. At University of Florida, I teach [Algorithmic Creativity and AI, Art and Society courses for the AI and Art Certificate Program.](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/ART_UCT10/)
+I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. I teach [Algorithmic Creativity and AI, Art and Society](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/ART_UCT10/) as part of the university’s AI and Art Certificate Program.
 
-I’m a researcher in residency at **Lake Studios Berlin**, Germany, where I’m a founding member. I am one of the recipient of the [Beyond Gravity/Decolonizing the Digital Residency 2025 at Theater Im Depot (Dortmund, Germany)](https://theaterimdepot.de/en)
+I’m also a researcher-in-residency at **Lake Studios Berlin**, Germany, where I’m a founding member. In 2025, I was awarded the [Beyond Gravity / Decolonizing the Digital Residency](https://theaterimdepot.de/en) at Theater im Depot in Dortmund, where I continue to explore the speculative intersections of technology, memory, and the Global South.
 
-My work traverses themes such as queer longing and techno-intimacy, cybernetics and time travel, migration, displacement, and diasporic memory, as well as AI ethics, recursion, and synthetic cognition. I investigate **computational creativity** and **synthetic cognition**, designing hybrid complex systems where language and self-organizing processes generate aesthetic experiences. My artistic practice includes machine learning for embodied digital interaction, generative AI, movement and voice, creative coding and app development, generative writing, bottom-up robotics, dance improvisation, and Vipassana meditation. I deploy my work as dynamic browser-based art, open-source code, improvisational scores, sound environments, AI chatbots, and video. I organize these into installations, workshops, participatory performances, and lectures, all published and distributed under open-source licenses.
+My work unfolds across six interconnected areas:
 
-In my work at the intersection of art and AI, speculative theory becomes both a compass and a choreography. I use it to design counter-narratives that push back against the dominant ideologies of Silicon Valley—narratives obsessed with rational optimization, disembodied intelligence, and data extraction. Through projects like Pangea in Latent Space, I explore AI  as a poetic and epistemic terrain where diasporic knowledge, embodied memory, and resistance can emerge.
+## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI  
+## AI, Global South, Queer-Tech and Ethics  
+## AI, Art, Cognition and Creativity  
+## Cybernetics, Digital Utopianism and Counterculture  
+## Critical Somatics and Contemplative Practices  
+## Social Networks and Communities of Care  
 
-I’m particularly drawn to nonhuman cognition and machine imagination—not as metaphors, but as sites of radical curiosity. In performances like Born in Latent Space, I engage AI models as collaborators with their own temporalities and logics. These systems don’t just generate content; they glitch, hallucinate, dream anf fail. I treat those outputs as speculative beings—fragments of synthetic memory that open portals rather than close interpretations.
+Through these intersecting frameworks, I explore queer longing, techno-intimacy, cybernetic feedback loops, migration, displacement, and diasporic memory. I investigate **computational creativity** and **synthetic cognition** by designing hybrid systems where language and self-organizing processes become aesthetic agents. My work incorporates generative AI, creative coding, generative writing, voice and movement interaction, bottom-up robotics, and contemplative practices such as Vipassana meditation.
 
-I also use AI to create what I call epistemic fictions—not as tools, but as provocations. The outputs of generative systems become scripts for performance, philosophical prompts, or distorted mirrors. I engage these fictions to stretch what knowledge can feel like, especially when entangled with embodiment, migration, and improvisation.
+I create dynamic browser-based artworks, improvisational scores, sound environments, AI chatbots, and generative video systems—organizing them into installations, participatory performances, lectures, and workshops. All are published and distributed under open-source licenses as acts of epistemic sharing and community care.
 
-Ultimately, my work is about rehearsing possible worlds. Worlds where identity is unstable, queer, and translocal. Where archives speak back. Where cognition is shared across human and nonhuman agents. Where the Global South doesn’t ask for permission to imagine otherwise. I use speculative theory and AI not to predict the future, but to liberate it.
+At the intersection of art and AI, I engage **speculative theory** as both compass and choreography. I use it to build counter-narratives that challenge Silicon Valley’s extractivist logic and disembodied optimization fantasies. In the ongoing long term project *Born in Latent Space*, machine learning and generative AI become a poetic and epistemic terrain for re-imagining cultural memory, resistance, and planetary futurities. 
 
-In 2007, I launched **[dance-tech.net](https://www.dance-tech.net/)**, a social network for interdisciplinary explorers of movement performance, innovators, and emergent performance practices. I’ve produced over 200 video interviews as one of the first international video bloggers dedicated to the intersection of dance, arts, and digital technology. I’ve also published several essays and created pioneering XR projects for knowledge transmission within dance and art festivals. In 2011, I created **[movimiento.org](https://www.movimiento.org/)** in Spanish and Portuguese, supported by the **South American Network of Dance**. These networks have received support from **Motion Bank** and **The Forsythe Company** (Germany), **Panorama Festival** (Brazil), **Transmediaakademy** (Germany), **Lake Studios Berlin**, and many others.
+## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
-From 2013 to 2016, I was a **research associate** at the **Inter-University of Dance/University of the Arts (UDK/HZT)** in Berlin, Germany. I was also a **2017 Hombroich Fellow** in Germany, an **artist/researcher in residence** at **ICK Amsterdam** (2013–2014), and at the **Gilles Jobin Company** in Geneva, Switzerland (2009–2012).  I have facilitated interdiciplinary collaborative creative contexts such as Choreograpfic Coding Lab CCL developed by MotionBank, Digital Bodies at Lake Studios Berlin and Geneva Sessions in Switzerland.
+I am particularly drawn to nonhuman cognition and machine imagination—not as metaphors, but as living speculative zones. In my ongoing project *Born in Latent Space*, a five-year exploration into synthetic memory, machine dreaming, and recursive performance, I engage AI models as collaborators with their own strange logics and temporalities. These systems hallucinate, fail, glitch, and speculate. I treat their outputs not as finished artifacts but as **speculative beings**—provisional fragments that generate more questions than answers.
 
-I’ve written essays for the books *Dance In the Head/Tanz im Kopf* and *Transmission in Motion: The Technologizing of Dance*, edited by Johannes Birringer and Maaike Bleeker, respectively. Some of my interviews have also been transcribed and published by *Contact Quarterly*.
+## Performing Knowing: Games as Knowledge Dramaturgies
 
-As a contemporary dancer and improviser in New York (1994–2001), I collaborated with choreographers such as Lynn Shapiro, Merian Soto, Dean Moss, Bill Young, and Susan Marshall, and musicians like Philip Glass, John Zorn, and Erik Friedlander. I’ve participated in numerous festivals and taught both nationally and internationally. I studied and practiced improvisation with Nancy Stark Smith, Jennifer Monson, Bebe Miller, KJ Holmes, and David Zambrano. In Venezuela (1981–1994), I apprenticed with DanzaLuz and DanzaHoy and danced professionally with Aktion Colectiva and Rajatabla Danza. I also co-founded **Danza Contemporánea de Maracaibo** with Yasmin Villavicencio in 1986.
+I increasingly use performance-lectures and **games and game-like structures** as dramaturgies of knowledge—sites where cognition becomes participatory, unstable, and playful. These game systems function as speculative engines for improvisation, shared learning, and embodied cognition. The performances, apps, and installations I design become rehearsal spaces for possible worlds.  All are published and distributed under **Open Source** and **Creative Commons licenses** as acts of epistemic sharing and community care.
 
-I hold an **MFA in Dance and Technology** from **The Ohio State University** (2004) and completed the **General Assembly Software Engineering Immersive Program** in 2021. I’m also certified in **Vipassana/Mindfulness Meditation** by **Spirit Rock Meditation Center**, a certified **200-hour Embodyoga teacher**, and have completed one year of the **Somatic Experiencing Certification Program**.
+I create **epistemic fictions**—AI-generated scripts, poetic scores, and distorted prompts that serve not as tools but as provocations. These challenge dominant notions of intelligence and open up space for improvisation, fabulation, ambiguity, and embodied interpretation.
+
+Ultimately, my work rehearses futures where identity is queer and translocal, archives speak back, cognition is distributed, and the Global South doesn’t ask for permission to imagine otherwise. I use speculative AI not to predict the future, but to **liberate it**, **emancipate it**.
+
+In 2007, I launched **[dance-tech.net](https://www.dance-tech.net/)**, a social network for interdisciplinary explorers of performance and emergent practices. I’ve produced over 200 video interviews as one of the first international video bloggers dedicated to dance and digital technology. In 2011, I co-founded **[movimiento.org](https://www.movimiento.org/)** in Spanish and Portuguese, supported by the **South American Network of Dance**. These platforms have been supported by **Motion Bank**, **The Forsythe Company**, **Panorama Festival**, **Transmediaakademie**, **Lake Studios Berlin**, and others.
+
+From 2013 to 2016, I served as a **research associate** at the **Inter-University of Dance/University of the Arts (UDK/HZT)** in Berlin. I was a **2017 Hombroich Fellow**, and an artist/researcher in residence at **ICK Amsterdam** (2013–2014) and the **Gilles Jobin Company** in Geneva (2009–2012). I’ve facilitated several interdisciplinary initiatives including the **Choreographic Coding Lab (CCL)** with Motion Bank, **Digital Bodies** at Lake Studios Berlin, and **Geneva Sessions** in Switzerland.
+
+My essays have appeared in *Dance In the Head / Tanz im Kopf* and *Transmission in Motion: The Technologizing of Dance*, edited by Johannes Birringer and Maaike Bleeker. Some of my interviews have been published in *Contact Quarterly*.
+
+As a dancer and improviser in New York (1994–2001), I collaborated with choreographers such as Lynn Shapiro, Merian Soto, Dean Moss, Bill Young, and Susan Marshall, and performed with musicians including Philip Glass, John Zorn, and Erik Friedlander. In Venezuela (1981–1994), I apprenticed with DanzaLuz and DanzaHoy, danced with Aktion Colectiva and Rajatabla Danza, and co-founded **Danza Contemporánea de Maracaibo** with Yasmin Villavicencio in 1986.
+
+I hold an **MFA in Dance and Technology** from **The Ohio State University** and completed the **Software Engineering Immersive** at General Assembly in 2021. I’m also certified in **Vipassana/Mindfulness Meditation** by **Spirit Rock Meditation Center**, a **200-hour Embodyoga® teacher**, and have completed one year of the **Somatic Experiencing Certification Program**.
+
+My current focus is on creating open, transdisciplinary infrastructures for research, performance, and critical imagination—where art, code, cognition, and care are always entangled.
 
 <img src="https://github.com/user-attachments/assets/633e1f52-c879-4b29-8b44-78d2ad33396c" width="900">
 
@@ -56,7 +70,7 @@ Explore an interactive map of my practice:
 
 # Main Projects
 
-## [Born in Latent Space (Performance-lecture | Touring )](https://marlonbarrios.github.io/born_in_latent_space/)
+
 
 <img width="932" alt="Screenshot 2025-04-30 at 9 00 31 PM" src="https://github.com/user-attachments/assets/3e8ef8f2-93dd-45aa-9ed4-7355f4f0d1d6" />
 
