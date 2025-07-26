@@ -33,11 +33,11 @@ I am particularly drawn to nonhuman cognition and machine imagination—not as m
 
 ## Performing Knowing: Games as Knowledge Dramaturgies
 
-I increasingly use performance-lectures and **games and game-like structures** as dramaturgies of knowledge—sites where cognition becomes participatory, unstable, and playful. These game systems function as speculative engines for improvisation, shared learning, and embodied cognition. The performances, apps, and installations I design become rehearsal spaces for possible worlds.  All are published and distributed under **Open Source** and **Creative Commons licenses** as acts of epistemic sharing and community care.
+I increasingly use performance-lectures and **games and game-like structures** as dramaturgies of knowledge—sites where cognition becomes participatory, unstable, and playful. These game systems function as speculative engines for improvisation, shared learning, and embodied cognition. The performances, apps, and installations I design become rehearsal spaces for possible worlds.  
 
 I create **epistemic fictions**—AI-generated scripts, poetic scores, and distorted prompts that serve not as tools but as provocations. These challenge dominant notions of intelligence and open up space for improvisation, fabulation, ambiguity, and embodied interpretation.
 
-Ultimately, my work rehearses futures where identity is queer and translocal, archives speak back, cognition is distributed, and the Global South doesn’t ask for permission to imagine otherwise. I use speculative AI not to predict the future, but to **liberate it**, **emancipate it**.
+Ultimately, my work rehearses futures where identity is queer and translocal, archives speak back, cognition is distributed, and the Global South doesn’t ask for permission to imagine otherwise. I use speculative AI not to predict the future, but to **liberate it**, to **emancipate it**.
 
 In 2007, I launched **[dance-tech.net](https://www.dance-tech.net/)**, a social network for interdisciplinary explorers of performance and emergent practices. I’ve produced over 200 video interviews as one of the first international video bloggers dedicated to dance and digital technology. In 2011, I co-founded **[movimiento.org](https://www.movimiento.org/)** in Spanish and Portuguese, supported by the **South American Network of Dance**. These platforms have been supported by **Motion Bank**, **The Forsythe Company**, **Panorama Festival**, **Transmediaakademie**, **Lake Studios Berlin**, and others.
 
@@ -76,8 +76,6 @@ Explore an interactive map of my practice:
 
 ## [Pangea in Latent Space](https://marlonbarrios.github.io/pangea_in_latent_space/) (Exhibition to be open at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) [Project Visualization](https://marlonbarrios.github.io/pangea_in_latent-space/)
 
-## [Cognitive Exhuberance: AI, Art, Creativity and Cognition](https://marlonbarrios.github.io/ai_art_creativity_cognition/)
-
 ## Recent Interviews, press and writings
 
 [2nd International Choreographic Coding Lab by Motion Bank, A+E Lab, UK](https://vimeo.com/1085820827)
@@ -104,8 +102,7 @@ Explore an interactive map of my practice:
 
 [@medium](https://medium.com/@marlon_21867/)
 
-
-## Playlist of Video Works (AI)
+## Playlists of Video Works (AI)
 
 <img width="931" alt="Screenshot 2025-04-30 at 9 08 14 PM" src="https://github.com/user-attachments/assets/5a413cd5-33bf-4739-8dca-70f17d9fee47" />
 
