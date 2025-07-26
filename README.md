@@ -70,7 +70,7 @@ Explore an interactive map of my practice:
 
 # Main Projects
 
-
+## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img width="932" alt="Screenshot 2025-04-30 at 9 00 31 PM" src="https://github.com/user-attachments/assets/3e8ef8f2-93dd-45aa-9ed4-7355f4f0d1d6" />
 
@@ -79,6 +79,8 @@ Explore an interactive map of my practice:
 ## [Cognitive Exhuberance: AI, Art, Creativity and Cognition](https://marlonbarrios.github.io/ai_art_creativity_cognition/)
 
 ## Recent Interviews, press and writings
+
+[2nd International Choreographic Coding Lab by Motion Bank, A+E Lab, UK](https://vimeo.com/1085820827)
 
 [Recent Essays@Github](https://marlonbarrios.github.io/essays/)
 
