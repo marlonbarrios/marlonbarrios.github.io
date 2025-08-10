@@ -16,7 +16,7 @@ Since August 2024, he has served as Maker-in-Residence at the Center for Arts, M
 
 His current long-term projects, Born in Latent Space  and Pangea in latent Space (2024-2029), uses AI systems as poetic collaborators in the creation of speculative documents, immersive installations, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
 
-Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness (Spirit Rock Mweditation cehter) and Embodyoga® teacher.
+Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness (Spirit Rock Meditation Center/USA) and Embodyoga® teacher.
 
 ## Long Bio:
 
