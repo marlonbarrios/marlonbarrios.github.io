@@ -8,6 +8,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
+## Short Bio
+
+Marlon Barrios Solano ( Venezuela-USA) is an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and decolonial thought. With a background in dance, software engineering, and cognitive science, his work explores the entanglements of technology, memory, migration, and queer-tech ethics through experimental systems of performance, interaction, and machine learning.
+
+Since August 2024, he has served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where he teaches in the university’s AI & Art Certificate Program. He is also a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, he was awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater Im Depot in Dortmund, Germany.
+
+His current long-term projects, Born in Latent Space  and pangea in latent Space (2024-2029), uses AI systems as poetic collaborators in the creation of speculative archives, immersive installations, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
+
+Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness and Embodyoga® teacher.
+
+## Long Bio:
+
 I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. I teach [Algorithmic Creativity and AI, Art and Society](https://catalog.ufl.edu/UGRD/colleges-schools/UGART/ART_UCT10/) as part of the university’s AI and Art Certificate Program.
 
 I’m also a researcher-in-residency at **Lake Studios Berlin**, Germany, where I’m a founding member. In 2025, I was awarded the [Beyond Gravity / Decolonizing the Digital Residency](https://theaterimdepot.de/en) at Theater im Depot in Dortmund, where I continue to explore the speculative intersections of technology, memory, and the Global South.
