@@ -14,9 +14,9 @@ Marlon Barrios Solano ( Venezuela-USA) is an interdisciplinary artist, creative 
 
 Since August 2024, he has served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where he teaches in the university’s AI & Art Certificate Program. He is also a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, he was awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater Im Depot in Dortmund, Germany.
 
-His current long-term projects, Born in Latent Space  and pangea in latent Space (2024-2029), uses AI systems as poetic collaborators in the creation of speculative archives, immersive installations, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
+His current long-term projects, Born in Latent Space  and Pangea in latent Space (2024-2029), uses AI systems as poetic collaborators in the creation of speculative documents, immersive installations, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
 
-Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness and Embodyoga® teacher.
+Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness (Spirit Rock Mweditation cehter) and Embodyoga® teacher.
 
 ## Long Bio:
 
