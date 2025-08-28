@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/2da2ce8d-e971-4c2f-8e05-35303359c8ff" width="1200">
+<img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="1200">
 
 ## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI 
 
