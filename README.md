@@ -14,7 +14,7 @@ Marlon Barrios Solano ( Venezuela-USA) is an interdisciplinary artist, creative 
 
 Since August 2024, he has served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where he teaches in the university’s AI & Art Certificate Program. He is also a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, he and his collaborator Maria Luisa Anngulo weere awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater Im Depot in Dortmund, Germany.
 
-His current long-term projects, Born in Latent Space  and Pangea in latent Space (2024-2029), uses AI systems as poetic collaborators in the creation of speculative documents, immersive installations, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
+His current long-term projects, Born in Latent Space  and Pangea in latent Space (2024-2029), use AI systems as poetic collaborators in the creation of speculative documents, immersive installations, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
 
 Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness (Spirit Rock Meditation Center/USA) and Embodyoga® teacher.
 
@@ -38,6 +38,16 @@ Through these intersecting frameworks, I explore queer longing, techno-intimacy,
 I create dynamic browser-based artworks, improvisational scores, sound environments, AI chatbots, and generative video systems—organizing them into installations, participatory performances, lectures, and workshops. All are published and distributed under open-source licenses as acts of epistemic sharing and community care.
 
 At the intersection of art and AI, I engage **speculative theory** as both compass and choreography. I use it to build counter-narratives that challenge Silicon Valley’s extractivist logic and disembodied optimization fantasies. In the ongoing long term project *Born in Latent Space*, machine learning and generative AI become a poetic and epistemic terrain for re-imagining cultural memory, resistance, and planetary futurities. 
+
+## Upcoming with Marlon Barrios Solano
+
+- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025** – [uniarts.se](https://www.uniarts.se/)
+
+- **Pangea in Latent Space / The Tectonics of Otherness – Decolonizing the Digital** @ Beyond Gravity Festival, Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf) [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
+
+- **Adventures in Latent Space: Minding the Gaps** – Workshop in London – **More info soon**
+
+- **Connexion Festival** @ Cotonou, Benin – **December 1 – 5 2025**
 
 ## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
