@@ -44,15 +44,7 @@ I create dynamic browser-based artworks, improvisational scores, sound environme
 
 At the intersection of art and AI, I engage **speculative theory** as both compass and choreography. I use it to build counter-narratives that challenge Silicon Valley’s extractivist logic and disembodied optimization fantasies. In the ongoing long term project *Born in Latent Space*, machine learning and generative AI become a poetic and epistemic terrain for re-imagining cultural memory, resistance, and planetary futurities. 
 
-## Upcoming with Marlon Barrios Solano
 
-- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025** – [uniarts.se](https://www.uniarts.se/)
-
-- **Pangea in Latent Space / The Tectonics of Otherness – Decolonizing the Digital** @ Beyond Gravity Festival, Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf) [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
-
-- **Adventures in Latent Space: Minding the Gaps** – Workshop in London – **More info soon**
-
-- **Connexion Festival** @ Cotonou, Benin – **December 1 – 5 2025**
 
 ## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
@@ -101,7 +93,7 @@ Explore an interactive map of my practice:
 
 <img width="932" alt="Screenshot 2025-04-30 at 9 00 31 PM" src="https://github.com/user-attachments/assets/3e8ef8f2-93dd-45aa-9ed4-7355f4f0d1d6" />
 
-## [Pangea in Latent Space](https://marlonbarrios.github.io/pangea_in_latent_space/) (Exhibition to be open at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) [Project Visualization](https://marlonbarrios.github.io/pangea_in_latent-space/)
+## [Ther Tectonics of Otherness](https://marlonbarrios.github.io/pangea_in_latent_space/) (Recent Exhibition at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) [Project Visualization](https://marlonbarrios.github.io/pangea_in_latent-space/)
 
 ## Recent Interviews, press and writings
 
