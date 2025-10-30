@@ -71,7 +71,8 @@ Explore an interactive map of my practice:
 
 ## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
-<img width="932" alt="Screenshot 2025-04-30 at 9 00 31 PM" src="https://github.com/user-attachments/assets/3e8ef8f2-93dd-45aa-9ed4-7355f4f0d1d6" />
+<img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />
+
 
 ## [UnstableLandscape: Performing Within Cognitive Assemblies](https://marlonbarrios.github.io/unstablelandscape/) 
 
