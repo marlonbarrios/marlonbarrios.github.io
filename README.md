@@ -75,6 +75,8 @@ Explore an interactive map of my practice:
 
 ## [UnstableLandscape: Performing Within Cognitive Assemblies](https://marlonbarrios.github.io/unstablelandscape/) 
 
+![PXL_20251004_201726349](https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd)
+
 ## Recent Interviews, press and writings
 
 [2nd International Choreographic Coding Lab by Motion Bank, A+E Lab, UK](https://vimeo.com/1085820827)
