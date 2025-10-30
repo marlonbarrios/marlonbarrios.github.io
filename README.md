@@ -10,11 +10,11 @@
 
 ## Short Bio
 
-Marlon Barrios Solano ( Venezuela-USA) is an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and decolonial thought. With a background in dance, software engineering, and cognitive science, his work explores the entanglements of technology, memory, migration, and queer-tech ethics through experimental systems of performance, interaction, and machine learning.
+Marlon Barrios Solano ( Venezuela-USA) is an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and critical cogition. With a background in dance, software engineering, and cognitive science, his work explores the entanglements of technology, memory, migrations, and queer-tech ethics through experimental systems of performance, computation and spatial design.
 
-Since August 2024, he has served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where he teaches in the university’s AI & Art Certificate Program. He is also a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, he and his collaborator Maria Luisa Anngulo weere awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater Im Depot in Dortmund, Germany.
+Since August 2024, he has served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where he teaches in the university’s AI & Art Certificate Program. He is also a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, he was awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater Im Depot in Dortmund, Germany.
 
-His current long-term projects, Born in Latent Space  and Pangea in latent Space (2024-2029), use AI systems as poetic collaborators in the creation of speculative documents, immersive installations, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
+His current long-term projects, Born in Latent Space  and UnstableLandscape, use AI systems as poetic collaborators in the creation of speculative documents, immersive installations, raves, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
 
 Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness (Spirit Rock Meditation Center/USA) and Embodyoga® teacher.
 
@@ -24,35 +24,15 @@ I am a Venezuelan-American interdisciplinary artist, creative technologist, and 
 
 I’m also a researcher-in-residency at **Lake Studios Berlin**, Germany, where I’m a founding member. In 2025, I was awarded the [Beyond Gravity / Decolonizing the Digital Residency](https://theaterimdepot.de/en) at Theater im Depot in Dortmund, where I continue to explore the speculative intersections of technology, memory, and the Global South.
 
-My work unfolds across six interconnected areas:
-
- Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI  
- 
- AI, Art, Cognition and Creativity  
- 
- AI, Global South, Queer-Tech and Ethics  
- 
- Cybernetics, Digital Utopianism and Counterculture  
- 
- Critical Somatics and Contemplative Practices  
- 
- Social Networks and Communities of Care  
-
-Through these intersecting frameworks, I explore queer longing, techno-intimacy, cybernetic feedback loops, migration, displacement, and diasporic memory. I investigate **computational creativity** and **synthetic cognition** by designing hybrid systems where language and self-organizing processes become aesthetic agents. My work incorporates generative AI, creative coding, generative writing, voice and movement interaction, bottom-up robotics, and contemplative practices such as Vipassana meditation.
+My work unfolds across interconnected areas: interdisciplinary Performance + creative coding + machine learning + generative AI  Through these intersecting frameworks, I explore queer longing, techno-intimacy, cybernetic feedback loops, migration, displacement, and diasporic memory. I investigate **computational creativity** and **synthetic cognition** by designing hybrid systems (cognitive assembles) where language and self-organizing processes become aesthetic vectors and agents. My work incorporates generative AI, creative coding, generative writing, voice and movement interaction, bottom-up robotics, and contemplative practices such as Vipassana meditation.
 
 I create dynamic browser-based artworks, improvisational scores, sound environments, AI chatbots, and generative video systems—organizing them into installations, participatory performances, lectures, and workshops. All are published and distributed under open-source licenses as acts of epistemic sharing and community care.
 
 At the intersection of art and AI, I engage **speculative theory** as both compass and choreography. I use it to build counter-narratives that challenge Silicon Valley’s extractivist logic and disembodied optimization fantasies. In the ongoing long term project *Born in Latent Space*, machine learning and generative AI become a poetic and epistemic terrain for re-imagining cultural memory, resistance, and planetary futurities. 
 
-
-
-## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
-
 I am particularly drawn to nonhuman cognition and machine imagination—not as metaphors, but as living speculative zones. In my ongoing project *Born in Latent Space*, a five-year exploration into synthetic memory, machine dreaming, and recursive performance, I engage AI models as collaborators with their own strange logics and temporalities. These systems hallucinate, fail, glitch, and speculate. I treat their outputs not as finished artifacts but as **speculative beings**—provisional fragments that generate more questions than answers.
 
-## Performing Knowing: Games as Knowledge Dramaturgies
-
-I increasingly use performance-lectures and **games and game-like structures** as dramaturgies of knowledge—sites where cognition becomes participatory, unstable, and playful. These game systems function as speculative engines for improvisation, shared learning, and embodied cognition. The performances, apps, and installations I design become rehearsal spaces for possible worlds.  
+Performing Knowing: Games as Knowledge Dramaturgies. I increasingly use performance-lectures and **games and game-like structures** as dramaturgies of knowledge—sites where cognition becomes participatory, unstable, and playful. These game systems function as speculative engines for improvisation, shared learning, and embodied cognition. The performances, apps, and installations I design become rehearsal spaces for possible worlds.  
 
 I create **epistemic fictions**—AI-generated scripts, poetic scores, and distorted prompts that serve not as tools but as provocations. These challenge dominant notions of intelligence and open up space for improvisation, fabulation, ambiguity, and embodied interpretation.
 
@@ -93,7 +73,7 @@ Explore an interactive map of my practice:
 
 <img width="932" alt="Screenshot 2025-04-30 at 9 00 31 PM" src="https://github.com/user-attachments/assets/3e8ef8f2-93dd-45aa-9ed4-7355f4f0d1d6" />
 
-## [Ther Tectonics of Otherness](https://marlonbarrios.github.io/pangea_in_latent_space/) (Recent Exhibition at - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com) [Project Visualization](https://marlonbarrios.github.io/pangea_in_latent-space/)
+## [UnstableLandscape: Performing Within Cognitive Assemblies](https://marlonbarrios.github.io/unstablelandscape/) 
 
 ## Recent Interviews, press and writings
 
