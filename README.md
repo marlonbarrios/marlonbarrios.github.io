@@ -79,6 +79,12 @@ Explore an interactive map of my practice:
 
 ## Recent Interviews, press and writings
 
+[HE_BBWCXR_Publikation_Catalog](https://github.com/user-attachments/files/23246963/HE_BBWCXR_Publikation_Web.pdf)
+
+<img width="851" height="598" alt="Screenshot 2025-10-30 at 7 24 51 PM" src="https://github.com/user-attachments/assets/aaf5235c-dc69-435d-bb63-79904517bf2c" />
+
+[BBWCXR Black Box White Cube XR Catalog](https://vimeo.com/1085820827)
+
 [2nd International Choreographic Coding Lab by Motion Bank, A+E Lab, UK](https://vimeo.com/1085820827)
 
 [Recent Essays@Github](https://marlonbarrios.github.io/essays/)
