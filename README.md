@@ -52,21 +52,6 @@ My current focus is on creating open, transdisciplinary infrastructures for rese
 
 <img src="https://github.com/user-attachments/assets/633e1f52-c879-4b29-8b44-78d2ad33396c" width="900">
 
-### Interactive Visualization of My Work
-
-Explore an interactive map of my practice:
-
-- **Press** `c` to toggle circles  
-- **Press** `l` to toggle connecting lines  
-- **Press** `t` to toggle labels/text  
-- **Use** the slider to adjust the velocity of movement
-
-[Launch the visualization](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
-
-[https://linktr.ee/marlonbarriososolano](https://linktr.ee/marlonbarriososolano)
-
-<img src="https://github.com/user-attachments/assets/370108b6-b1b2-421f-b163-c2a19c78fb16" width="900">
-
 # Main Projects
 
 ## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
