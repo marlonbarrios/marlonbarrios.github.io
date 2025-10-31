@@ -97,58 +97,6 @@ My current focus is on creating open, transdisciplinary infrastructures for rese
 
 [@medium](https://medium.com/@marlon_21867/)
 
-## Playlists of Video Works (AI)
-
-<img width="931" alt="Screenshot 2025-04-30 at 9 08 14 PM" src="https://github.com/user-attachments/assets/5a413cd5-33bf-4739-8dca-70f17d9fee47" />
-
-[Latent Spaces: Morphs, Migrations and Digressions](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
-
-[Proteans](https://youtube.com/playlist?list=PLC2ijZ2U-avgaSxiCO-ZA8wuiLFVsN4ez&si=0sDQoIR7siveRVrW)
-
-[Video Dances with AI](https://youtube.com/playlist?list=PLC2ijZ2U-avjgGk9S2efWLIpwpgLd1r3o&si=u-INsGe27-dCxkqT)
-
-[On Faciality](https://www.youtube.com/playlist?list=PLC2ijZ2U-avgO8eN__SX3fN1HwhC4pJzZ)
-
-[Sudden Accelerarions](https://youtube.com/playlist?list=PLC2ijZ2U-avgp2JQjVu7syh6TXyYTU9Rg&si=ru5hHelrRTyBPh0s)
-
-[Ornaments Video Constructions](https://youtube.com/playlist?list=PLC2ijZ2U-aviBWCj-hlWhqEQokZQ3xaOs&si=KLHDU-9zoTwpktXQ)
-
-[Synthetic Monologues](https://youtube.com/playlist?list=PLC2ijZ2U-avggJ7nniYkIuzKCXsFg406C&si=_fnREX40Rau_jJu_)
-
-[General](https://youtube.com/playlist?list=PLC2ijZ2U-aviCznlsrZqSTzc4ZykxSlph&si=Ia9jyZyLVmY4myrD)
-
-## Experimental Chatbots
-
-[Alan-AI](https://alan-ai-one.vercel.app/)
-
-[Patient X](https://patientx-83md.vercel.app/)
-
-[Patient X02](https://patientx-marlonbarrios.vercel.app/)
-
-[Sati-ai Llama](https://llama70parameters-marlonbarrios.vercel.app/)
-
-[Generic llama](https://llama70p-811vekp31-marlonbarrios.vercel.app/)
-
-
-## Social Networking
-
-[Dance-tech.net, a social networking site](https://dance-tech.net/)
-
-## [CREATIVE CODING](https://marlonbarrios.github.io/creativecoding/)
-
-## [MotionDAO]((https://gov.near.org/t/approved-motiondao-how-like-a-dao-december-2021/10910))
-
-## [FULL STACK DEVELOPMENT](https://marlonbarrios.github.io/full-stack-development/)
-
-## [Crypto Tracker](https://marlonbarrios.github.io/crypto-tracker-rn/)
-
-## PERFORMANCE RESEARCH, TEACHING and WRITING
-
-### UnstableLandscape | Generativity and the Embodiments of Complexity
-
-![Screen Shot 2022-02-25 at 8 18 34 PM](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
-
-[More information](https://marlonbarrios.github.io/research_teaching/)
 
 ## Minfulness + Somatics 
 
@@ -156,9 +104,6 @@ My current focus is on creating open, transdisciplinary infrastructures for rese
 
 ![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
 
-[More Information about Marlon Barrios Solano](https://www.dance-tech.net/profile/network_producer 'more information')
-
 <img width="930" alt="Screenshot 2025-04-30 at 9 05 39 PM" src="https://github.com/user-attachments/assets/e4af4311-abdb-4992-8158-39640e627fdc" />
-
 
 
