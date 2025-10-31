@@ -63,6 +63,10 @@ My current focus is on creating open, transdisciplinary infrastructures for rese
 
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd)
 
+## [In The Space of Possible Minds | Starting October 2025](https://marlonbarrios.github.io/possibleminds/)
+
+![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)
+
 ## Recent Interviews, press and writings
 
 [HE_BBWCXR_Publikation_Catalog](https://github.com/user-attachments/files/23246963/HE_BBWCXR_Publikation_Web.pdf)
