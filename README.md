@@ -50,14 +50,13 @@ I hold an **MFA in Dance and Technology** from **The Ohio State University** and
 
 My current focus is on creating open, transdisciplinary infrastructures for research, performance, and critical imagination—where art, code, cognition, and care are always entangled.
 
-<img src="https://github.com/user-attachments/assets/633e1f52-c879-4b29-8b44-78d2ad33396c" width="900">
+<img width="930" alt="Screenshot 2025-04-30 at 9 05 39 PM" src="https://github.com/user-attachments/assets/e4af4311-abdb-4992-8158-39640e627fdc" />
 
 # Main Projects
 
 ## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />
-
 
 ## [UnstableLandscape: Performing Within Cognitive Assemblies](https://marlonbarrios.github.io/unstablelandscape/) 
 
@@ -104,6 +103,6 @@ My current focus is on creating open, transdisciplinary infrastructures for rese
 
 ![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
 
-<img width="930" alt="Screenshot 2025-04-30 at 9 05 39 PM" src="https://github.com/user-attachments/assets/e4af4311-abdb-4992-8158-39640e627fdc" />
+
 
 
