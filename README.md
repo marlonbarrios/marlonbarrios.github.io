@@ -30,7 +30,7 @@ Get in touch
 
 # Research/Projects
 
-## [Born in Latent Space: Cybernetics, Arts and Meta-fictions)](https://marlonbarrios.github.io/born_in_latent_space/)
+## [Born in Latent Space: Cybernetics, Arts and Meta-fictions](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
