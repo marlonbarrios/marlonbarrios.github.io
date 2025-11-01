@@ -20,7 +20,7 @@ Marlon founded the pioneering platform dance-tech.net in 2007 and has produced o
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
-# Main Projects
+# Projects
 
 ## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
@@ -33,6 +33,8 @@ Marlon founded the pioneering platform dance-tech.net in 2007 and has produced o
 ## [In The Space of Possible Minds | Starting October 2025](https://marlonbarrios.github.io/possibleminds/)
 
 ![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
+
+## Actanst: apps and interfaces (in progress)
 
 ## Recent Interviews, press and writings
 
