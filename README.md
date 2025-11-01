@@ -34,7 +34,7 @@ Marlon founded the pioneering platform dance-tech.net in 2007 and has produced o
 
 ![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
-## Actanst: apps and interfaces (in progress)
+## Actants: apps and interfaces (in progress)
 
 ## Recent Interviews, press and writings
 
