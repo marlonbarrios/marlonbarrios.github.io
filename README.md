@@ -8,21 +8,42 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marlonbarriossolano)
 
-## Short Bio
 
-Marlon Barrios Solano ( Venezuela-USA) is an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and critical cogition. With a background in dance, software engineering, and cognitive science, his work explores the entanglements of technology, memory, migrations, and queer-tech ethics through experimental systems of performance, computation and spatial design.
+# Marlon Barrios Solano (short bio)
 
-Since August 2024, he has served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where he teaches in the university’s AI & Art Certificate Program. He is also a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, he was awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater Im Depot in Dortmund, Germany.
+**Marlon Barrios Solano (Venezuela–USA)** is an interdisciplinary artist, creative technologist, and researcher working at the intersection of **generative AI**, **performance**, **creative coding**, and **critical cognition**. With a background in **dance**, **software engineering**, and **cognitive science**, his work explores **cognitive systems and assemblages**, **cognitive media**, and **hybrid cognition as material**—investigating how perception, thought, and computation co-compose new forms of experience and understanding.
 
-His current long-term projects, Born in Latent Space  and UnstableLandscape, use AI systems as poetic collaborators in the creation of speculative documents, immersive installations, raves, and performance-lectures. His work merges algorithmic aesthetics with contemplative and somatic practices to create knowledge dramaturgies—interactive spaces where identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
+Since **August 2024**, he has served as **Maker-in-Residence** at the *Center for Arts, Migration, and Entrepreneurship (CAME)* at the **University of Florida**, where he also teaches in the university’s **AI & Art Certificate Program**. He is a founding member and researcher-in-residence at **Lake Studios Berlin**. In **2025**, he was awarded the **Beyond Gravity / Decolonizing the Digital Residency** at *Theater im Depot* in Dortmund, Germany.
 
-Marlon founded the pioneering platform dance-tech.net in 2007 and has produced over 200 interviews with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as Motion Bank, ICK Amsterdam, Gilles Jobin Company, and UDK/HZT Berlin. He holds an MFA in Dance and Technology (Ohio State University) and is a certified mindfulness (Spirit Rock Meditation Center/USA) and Embodyoga® teacher.
+His long-term projects, **Born in Latent Space** and **UnstableLandscape**, use **AI systems as poetic collaborators** in the creation of **speculative documents, immersive installations, raves, and performance-lectures**. Through **generative and procedural strategies**, his work merges **algorithmic aesthetics** with **contemplative and somatic practices** to develop **knowledge dramaturgies**—experimental frameworks where **identity, memory, and cognition** are remixed through **embodied, queer, and diasporic lenses**.
+
+Marlon founded the pioneering platform **[dance-tech.net](https://www.dance-tech.net)** in 2007 and has produced over **200 interviews** with artists working at the edge of performance and technology. His work has been presented internationally and supported by institutions such as **Motion Bank**, **ICK Amsterdam**, **Gilles Jobin Company**, and **UDK/HZT Berlin**. He holds an **MFA in Dance and Technology** from *Ohio State University* and is a certified **Mindfulness (Spirit Rock Meditation Center)** and **Embodyoga®** teacher.
+
+His artistic practice unfolds through **lecture performances**, **interactive environments**, **installations**, **single-channel video works**, **knowledge labs**, and **constellations of web applications**—recursive architectures where **cognition, code, and choreography** interact as evolving systems of inquiry.
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
+<!-- Paste this into a Markdown file that allows raw HTML (or into your site template) -->
+<span id="contact-link">Get in touch</span>
+<script>
+  (function(){
+    // build address client-side to avoid exposing the raw email in source
+    const user = "mbarriossolano";
+    const host = "ufl.edu";
+    const subject = encodeURIComponent("Hello Marlon");
+    const body = encodeURIComponent("Hi Marlon,\n\nI'd like to get in touch about...");
+    const mailto = `mailto:${user}@${host}?subject=${subject}&body=${body}`;
+    const el = document.getElementById("contact-link");
+    const a = document.createElement("a");
+    a.href = mailto;
+    a.textContent = "Get in touch";
+    el.parentNode.replaceChild(a, el);
+  })();
+</script>
+
 # Projects
 
-## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
+## [Born in Latent Space)](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
