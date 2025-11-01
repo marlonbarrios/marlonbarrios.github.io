@@ -71,7 +71,9 @@ Marlon founded the pioneering platform dance-tech.net in 2007 and has produced o
 
 [Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
 
-![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
+![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
+
+<img width="1274" height="838" alt="Screenshot 2025-10-31 at 8 55 56 PM" src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 
 
