@@ -46,7 +46,7 @@ Get in touch
 
 ## [AI as body-mind Care Technology](https://marlonbarrios.github.io/mindfulness/)
 
-![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
+![sati-AI](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 *Image created by Igor Stromeyer*
 
 ## Recent Interviews, press and writings
