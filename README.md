@@ -1,5 +1,6 @@
 # Marlon Barrios Solano
 <img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="1200">
+*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 ## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI 
 
@@ -24,14 +25,17 @@ Marlon founded the pioneering platform dance-tech.net in 2007 and has produced o
 ## [Born in Latent Space (Performance-lecture | Installations | Knowledge Lab)](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />
+*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 ## [UnstableLandscape: Performing Within Cognitive Assemblies](https://marlonbarrios.github.io/unstablelandscape/) 
 
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd)
+*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
 ## [In The Space of Possible Minds | Starting October 2025](https://marlonbarrios.github.io/possibleminds/)
 
 ![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)
+*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
 ## Recent Interviews, press and writings
 
@@ -69,6 +73,8 @@ Marlon founded the pioneering platform dance-tech.net in 2007 and has produced o
 [Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
 
 ![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
+*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
+
 
 
 
