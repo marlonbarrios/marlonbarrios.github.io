@@ -26,7 +26,7 @@ Marlon founded the pioneering platform dance-tech.net in 2007 and has produced o
 
 <img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
-## [UnstableLandscape: Performing Within Cognitive Assemblies](https://marlonbarrios.github.io/unstablelandscape/) 
+## [UnstableLandscape: Performing Within Cognitive Assemblages](https://marlonbarrios.github.io/unstablelandscape/) 
 
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd)*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
