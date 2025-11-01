@@ -47,7 +47,7 @@ Get in touch
 ## [AI as body-mind Care Technology](https://marlonbarrios.github.io/mindfulness/)
 
 ![sati-AI](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
-*Image created by Igor Stromeyer*
+*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
 ## Recent Interviews, press and writings
 
