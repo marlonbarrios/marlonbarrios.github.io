@@ -28,10 +28,9 @@ Get in touch
 </a>
 
 
+# Research/Projects
 
-# Projects
-
-## [Born in Latent Space)](https://marlonbarrios.github.io/born_in_latent_space/)
+## [Born in Latent Space: Cybernetics, Arts and Meta-fictions)](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
@@ -43,7 +42,11 @@ Get in touch
 
 ![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
-## Actants: apps and interfaces (in progress)
+## Actants: apps, interfaces and networked knowing (in progress)
+
+## [AI as body-mind Care Technology](https://marlonbarrios.github.io/mindfulness/)
+
+![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)*Image created by Igor Stromeyer*
 
 ## Recent Interviews, press and writings
 
@@ -76,11 +79,7 @@ Get in touch
 [@medium](https://medium.com/@marlon_21867/)
 
 
-## Minfulness + Somatics 
 
-[Mindfulness Meditation for Changemakers in a Burning World](https://marlonbarrios.github.io/mindfulness/)
-
-![burning buddha](https://user-images.githubusercontent.com/90220317/181602860-85ffeb5d-957f-4e15-ba1d-e1de9f804292.png)
 
 <img width="1274" height="838" alt="Screenshot 2025-10-31 at 8 55 56 PM" src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
