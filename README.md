@@ -1,11 +1,12 @@
 # Marlon Barrios Solano
 <img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
-## Interdisciplinary Performance + Creative Coding + Machine Learning + Generative AI 
+## ## Interdisciplinary Arts + AI + Creativity + Cognition
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marlonbarriossolano)
 
 ## Short Bio
 
