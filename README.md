@@ -13,7 +13,7 @@
 
 **Marlon Barrios Solano (Venezuela–USA)** is an interdisciplinary artist, creative technologist, and researcher working at the intersection of **generative AI**, **performance**, **creative coding**, and **critical cognition**. With a background in **dance**, **software engineering**, and **cognitive science**, his work explores **cognitive systems and assemblages**, **cognitive media**, and **hybrid cognition as material**—investigating how perception, thought, and computation co-compose new forms of experience and understanding.
 
-Since **August 2024**, he has served as **Maker-in-Residence** at the *Center for Arts, Migration, and Entrepreneurship (CAME)* at the **University of Florida**, where he also teaches in the university’s **AI & Art Certificate Program**. He is a founding member and researcher-in-residence at **Lake Studios Berlin**. In **2025**, he was awarded the **Beyond Gravity / Decolonizing the Digital Residency** at *Theater im Depot* in Dortmund, Germany.
+Since **August 2024**, he has served as [**Maker-in-Residence** at the *Center for Arts, Migration, and Entrepreneurship (CAME)* at the **University of Florida**](https://arts.ufl.edu/directory/profile/236771), where he also teaches in the university’s **AI & Art Certificate Program**. He is a founding member and researcher-in-residence at **Lake Studios Berlin**. In **2025**, he was awarded the **Beyond Gravity / Decolonizing the Digital Residency** at *Theater im Depot* in Dortmund, Germany.
 
 His long-term projects, **Born in Latent Space** and **UnstableLandscape**, use **AI systems as poetic collaborators** in the creation of **speculative documents, immersive installations, raves, and performance-lectures**. Through **generative and procedural strategies**, his work merges **algorithmic aesthetics** with **contemplative and somatic practices** to develop **knowledge dramaturgies**—experimental frameworks where **identity, memory, and cognition** are remixed through **embodied, queer, and diasporic lenses**.
 
@@ -23,23 +23,11 @@ His artistic practice unfolds through **lecture performances**, **interactive en
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
-<!-- Paste this into a Markdown file that allows raw HTML (or into your site template) -->
-<span id="contact-link">Get in touch</span>
-<script>
-  (function(){
-    // build address client-side to avoid exposing the raw email in source
-    const user = "mbarriossolano";
-    const host = "ufl.edu";
-    const subject = encodeURIComponent("Hello Marlon");
-    const body = encodeURIComponent("Hi Marlon,\n\nI'd like to get in touch about...");
-    const mailto = `mailto:${user}@${host}?subject=${subject}&body=${body}`;
-    const el = document.getElementById("contact-link");
-    const a = document.createElement("a");
-    a.href = mailto;
-    a.textContent = "Get in touch";
-    el.parentNode.replaceChild(a, el);
-  })();
-</script>
+<a href="mailto:mbarriossolano%40ufl.edu?subject=Hello%20Marlon&body=Hi%20Marlon%2C%0A%0AI%27d%20like%20to%20get%20in%20touch%20about...">
+Get in touch
+</a>
+
+
 
 # Projects
 
