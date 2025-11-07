@@ -27,14 +27,13 @@ His artistic practice unfolds through **lecture performances**, **interactive en
 Get in touch
 </a>
 
-
 # Research/Projects
 
-## [Born in Latent Space: Cybernetics, Arts and Meta-fictions](https://marlonbarrios.github.io/born_in_latent_space/)
+## [Born in Latent Space: Selves, Cybernetics and Meta-fictions/Performamve-lecture](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
-## [UnstableLandscape: Performing Within Cognitive Assemblages](https://marlonbarrios.github.io/unstablelandscape/) 
+## [UnstableLandscape: Entangled with Cognitive Assemblages](https://marlonbarrios.github.io/unstablelandscape/) 
 
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd)*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
@@ -42,12 +41,14 @@ Get in touch
 
 ![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
-## Actants: apps, interfaces and networked knowing (in progress)
-
 ## [AI as body-mind Care Technology](https://marlonbarrios.github.io/mindfulness/)
 
 ![sati-AI](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 *Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
+
+## Actants: apps, interfaces and networked knowing (in progress)
+
+## Techno as Liberation (in progress)
 
 ## Recent Interviews, press and writings
 
