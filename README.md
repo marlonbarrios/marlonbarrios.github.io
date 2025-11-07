@@ -38,7 +38,7 @@ Get in touch
 
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd)*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
-## [In The Space of Possible Minds | Starting October 2025](https://marlonbarrios.github.io/possibleminds/)
+## [OddKins: In The Space of Possible Minds](https://marlonbarrios.github.io/possibleminds/)
 
 ![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
