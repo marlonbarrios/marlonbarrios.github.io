@@ -46,7 +46,10 @@ Get in touch
 ![sati-AI](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 *Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
-## Actants: apps, interfaces and networked knowing (in progress)
+## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
+
+<img width="3092" height="2068" alt="Screenshot 2025-11-11 at 1 50 04 PM" src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" />
+
 
 ## Techno as Liberation (in progress)
 
