@@ -58,6 +58,8 @@ Get in touch
 
 ## Techno as Liberation (in progress)
 
+[For teaching](https://marlonbarrios.github.io/ai_resources/)
+
 ## Recent Interviews, press and writings
 
 [HE_BBWCXR_Publikation_Catalog](https://github.com/user-attachments/files/23246963/HE_BBWCXR_Publikation_Web.pdf)
