@@ -41,14 +41,19 @@ Get in touch
 
 ![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
+## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
+
+<img width="3092" height="2068" alt="Screenshot 2025-11-11 at 1 50 04 PM" src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" />
+*Screenshot of Canonical app with me performing with it*
+
 ## [AI as body-mind Care Technology](https://marlonbarrios.github.io/mindfulness/)
 
 ![sati-AI](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 *Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
-## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
 
-<img width="3092" height="2068" alt="Screenshot 2025-11-11 at 1 50 04 PM" src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" />
+
+
 
 
 ## Techno as Liberation (in progress)
