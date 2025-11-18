@@ -29,19 +29,17 @@ Get in touch
 
 # Research/Projects
 
-## [Born in Latent Space: migrating bodies, Cybernetics and Meta-fictions/Performance-lecture](https://marlonbarrios.github.io/born_in_latent_space/)
+## [Born in Latent Space: Migrating Bodies, Cybernetics and Meta-fictions/Performance-lecture](https://marlonbarrios.github.io/born_in_latent_space/)
 
 
 <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
 *Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
-
-
-## [UnstableLandscape: Entangled with Cognitive Assemblages](https://marlonbarrios.github.io/unstablelandscape/) 
+## [UnstableLandscape: Entangled with Cognitive Assemblages/Installations as Epistemic Spaces](https://marlonbarrios.github.io/unstablelandscape/) 
 
 <img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="1200">*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
-## [OddKins: In The Space of Possible Minds](https://marlonbarrios.github.io/possibleminds/)
+## [OddKins: In The Space of Possible Minds/Interactive/Generative Installation](https://marlonbarrios.github.io/possibleminds/)
 
 <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="1200">*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
@@ -53,9 +51,11 @@ Get in touch
 
 <img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
-## Techno as Liberation (in progress)
+## TechnoLiberations (in progress)
 
-[For teaching](https://marlonbarrios.github.io/ai_resources/)
+## Laboratory of Synthetic Meaning (in progress)
+
+[AI resources](https://marlonbarrios.github.io/ai_resources/)
 
 ## Recent Interviews, press and writings
 
