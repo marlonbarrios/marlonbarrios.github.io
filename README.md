@@ -31,30 +31,27 @@ Get in touch
 
 ## [Born in Latent Space: migrating bodies, Cybernetics and Meta-fictions/Performance-lecture](https://marlonbarrios.github.io/born_in_latent_space/)
 
-<img width="1009" height="664" alt="Screenshot 2025-10-30 at 7 50 03 PM" src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
+
+<img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
+*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
+
+
 
 ## [UnstableLandscape: Entangled with Cognitive Assemblages](https://marlonbarrios.github.io/unstablelandscape/) 
 
-![PXL_20251004_201726349](https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd)*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
+<img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="1200">*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
 ## [OddKins: In The Space of Possible Minds](https://marlonbarrios.github.io/possibleminds/)
 
-![PXL_20251029_201201167](https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf)*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
+<img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="1200">*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
 ## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
 
-<img width="3092" height="2068" alt="Screenshot 2025-11-11 at 1 50 04 PM" src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" />
-*Screenshot of Canonical app with me performing with it*
+<img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="1200">*Screenshot of Canonical app with me performing with it*
 
 ## [AI as body-mind Care Technology](https://marlonbarrios.github.io/mindfulness/)
 
-![sati-AI](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
-*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
 ## Techno as Liberation (in progress)
 
@@ -64,7 +61,7 @@ Get in touch
 
 [HE_BBWCXR_Publikation_Catalog](https://github.com/user-attachments/files/23246963/HE_BBWCXR_Publikation_Web.pdf)
 
-<img width="851" height="598" alt="Screenshot 2025-10-30 at 7 24 51 PM" src="https://github.com/user-attachments/assets/aaf5235c-dc69-435d-bb63-79904517bf2c" />
+<img src="https://github.com/user-attachments/assets/aaf5235c-dc69-435d-bb63-79904517bf2c" width="1200">
 
 [2nd International Choreographic Coding Lab by Motion Bank, A+E Lab, UK](https://vimeo.com/1085820827)
 
