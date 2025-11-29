@@ -43,6 +43,10 @@ Get in touch
 
 <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="1200">*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
+## [Laboratory of Synthetic Meaning](https://marlonbarrios.github.io/lab_synthetic_meaning/)
+
+<img src="https://github.com/user-attachments/assets/420c1d23-d165-4482-b912-7ece88a079f0" width="1200">
+
 ## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
 
 <img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="1200">*Screenshot of Canonical app with me performing with it*
@@ -53,7 +57,7 @@ Get in touch
 
 ## TechnoLiberations (in progress)
 
-## Laboratory of Synthetic Meaning (in progress)
+
 
 [AI resources](https://marlonbarrios.github.io/ai_resources/)
 
