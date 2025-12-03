@@ -29,17 +29,18 @@ Get in touch
 
 # Research/Projects
 
-## [Born in Latent Space: Migrating Bodies, Cybernetics and Meta-fictions/Performance-lecture](https://marlonbarrios.github.io/born_in_latent_space/)
+All research projects can be deployed as performance-lectures, installation/epistemic space and workshops/labs:
 
+## [Born in Latent Space: Migrating Bodies, Cybernetics and Meta-fictions/Performance-lecture](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
 *Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
-## [UnstableLandscape: Entangled with Cognitive Assemblages/Installations as Epistemic Spaces](https://marlonbarrios.github.io/unstablelandscape/) 
+## [The Tectonics of Otherness](https://marlonbarrios.github.io/pangea_in_latent_space-_tectonics_of-_otherness/) 
 
 <img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="1200">*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
-## [OddKins: In The Space of Possible Minds/Interactive/Generative Installation](https://marlonbarrios.github.io/possibleminds/)
+## [OddKins: In The Space of Possible Minds](https://marlonbarrios.github.io/possibleminds/)
 
 <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="1200">*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
@@ -47,17 +48,17 @@ Get in touch
 
 <img src="https://github.com/user-attachments/assets/420c1d23-d165-4482-b912-7ece88a079f0" width="1200">
 
-## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
-
-<img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="1200">*Screenshot of Canonical app with me performing with it*
-
-## [AI as body-mind Care Technology](https://marlonbarrios.github.io/mindfulness/)
+## [The Upheavals of Emptiness](https://marlonbarrios.github.io/mindfulness/)
 
 <img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
-## TechnoLiberations (in progress)
+## Technarchy (coming soon)
 
+## UnstableLandscape (Coming Soon)
 
+## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
+
+<img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="1200">*Screenshot of Canonical app with me performing with it*
 
 [AI resources](https://marlonbarrios.github.io/ai_resources/)
 
