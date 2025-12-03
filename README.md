@@ -31,7 +31,7 @@ Get in touch
 
 All research projects can be deployed as performance-lectures, installation/epistemic space and workshops/labs:
 
-## [Born in Latent Space: Migrating Bodies, Cybernetics and Meta-fictions/Performance-lecture](https://marlonbarrios.github.io/born_in_latent_space/)
+## [Born in Latent Space: Time is a Love Story](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
 *Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
