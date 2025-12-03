@@ -96,10 +96,7 @@ All research projects can be deployed as performance-lectures, installation/epis
 [@medium](https://medium.com/@marlon_21867/)
 
 
-
-
-<img width="1274" height="838" alt="Screenshot 2025-10-31 at 8 55 56 PM" src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" />*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
-
+<img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 
 
