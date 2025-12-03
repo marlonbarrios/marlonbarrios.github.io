@@ -46,15 +46,19 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 ## [Laboratory of Synthetic Meaning](https://marlonbarrios.github.io/lab_synthetic_meaning/)
 
-<img src="https://github.com/user-attachments/assets/420c1d23-d165-4482-b912-7ece88a079f0" width="1200">
+<img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
 
 ## [The Upheavals of Emptiness](https://marlonbarrios.github.io/mindfulness/)
 
 <img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
+## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
+
+![PXL_20251002_201724179](https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c)
+
+
 ## Technarchy (coming soon)
 
-## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
 
 ## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
 
