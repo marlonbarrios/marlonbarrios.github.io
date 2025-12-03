@@ -46,19 +46,18 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 ## [Laboratory of Synthetic Meaning](https://marlonbarrios.github.io/lab_synthetic_meaning/)
 
+<img width="2250" height="1924" alt="semantic-tensegrities-1764005552995" src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" />
+
+## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
 <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
+
+
+## Technarchy (December 2025-Ongoing) 
+
 
 ## [The Upheavals of Emptiness](https://marlonbarrios.github.io/mindfulness/)
 
 <img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
-
-## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
-
-![PXL_20251002_201724179](https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c)
-
-
-## Technarchy (coming soon)
-
 
 ## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
 
@@ -68,13 +67,13 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 ## Recent Interviews, press and writings
 
+[Recent Essays@Github](https://marlonbarrios.github.io/essays/)
+
 [HE_BBWCXR_Publikation_Catalog](https://github.com/user-attachments/files/23246963/HE_BBWCXR_Publikation_Web.pdf)
 
 <img src="https://github.com/user-attachments/assets/aaf5235c-dc69-435d-bb63-79904517bf2c" width="1200">
 
 [2nd International Choreographic Coding Lab by Motion Bank, A+E Lab, UK](https://vimeo.com/1085820827)
-
-[Recent Essays@Github](https://marlonbarrios.github.io/essays/)
 
 [Interview by Naoto Hieda@Choreographic Coding Lab in Chatham, UK, March 27th 2025](https://youtu.be/NXpqgBJfPuU?si=DtWIBX0iXsNOvxHh)
 
