@@ -36,7 +36,7 @@ All research projects can be deployed as performance-lectures, installation/epis
 <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
 *Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
-## [The Tectonics of Otherness](https://marlonbarrios.github.io/pangea_in_latent_space-_tectonics_of-_otherness/) 
+## [The Tectonics of Otherness](https://marlonbarrios.github.io/tectonics_of-_otherness/) 
 
 <img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="1200">*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
@@ -54,7 +54,7 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 ## Technarchy (coming soon)
 
-## UnstableLandscape (Coming Soon)
+## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
 
 ## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
 
