@@ -46,7 +46,7 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 ## [Laboratory of Synthetic Meaning](https://marlonbarrios.github.io/lab_synthetic_meaning/)
 
-<img width="2250" height="1924" alt="semantic-tensegrities-1764005552995" src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" />
+<img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="1200">
 
 ## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
 <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
