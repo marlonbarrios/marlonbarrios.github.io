@@ -54,8 +54,9 @@ All research projects can be deployed as performance-lectures, installation/epis
 <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
 
 
-## Technarchy (December 2025-Ongoing) 
+## [Technarchy and Love (October 2025-Ongoing)](https://marlonbarrios.github.io/technarchy/)
 
+<img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="1200">
 
 ## [The Upheavals of Emptiness](https://marlonbarrios.github.io/mindfulness/)
 
