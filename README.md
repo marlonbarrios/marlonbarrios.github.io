@@ -53,6 +53,9 @@ All research projects can be deployed as performance-lectures, installation/epis
 ## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
 <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
 
+[Time Instances: Epistemic Gestures of Becoming](https://marlonbarrios.github.io/time_instances/)
+
+<img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="1200">
 
 ## [Technarchy and Love (October 2025-Ongoing)](https://marlonbarrios.github.io/technarchy/)
 
