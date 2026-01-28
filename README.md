@@ -73,7 +73,7 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 ## Recent Interviews, press and writings
 
-[Recent Essays@Github](https://marlonbarrios.github.io/essays/)
+[Recent writings @Github](https://marlonbarrios.github.io/writings/)
 
 [HE_BBWCXR_Publikation_Catalog](https://github.com/user-attachments/files/23246963/HE_BBWCXR_Publikation_Web.pdf)
 
