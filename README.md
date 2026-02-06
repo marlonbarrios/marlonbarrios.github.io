@@ -11,7 +11,7 @@
 
 # Marlon Barrios Solano (short bio)
 
-**Marlon Barrios Solano (Venezuela–USA)** is an interdisciplinary artist, creative technologist, and researcher working at the intersection of **generative AI**, **performance**, **creative coding**, and **critical cognition**. With a hybtid background in **dance**, **software engineering**, and **cognitive science**, his work explores **cognitive systems and assemblages**, **cognitive media**, and **hybrid cognition as material**—investigating how perception, thought, and computation co-compose new forms of experience and understanding.
+**Marlon Barrios Solano (Venezuela–USA)** is an interdisciplinary artist, creative technologist, and researcher working at the intersection of **generative AI**, **performance**, **creative coding**, and **critical cognition**. With a hybrid background in **dance**, **software engineering**, and **cognitive science**, his work explores **cognitive systems and assemblages**, **cognitive media**, and **hybrid cognition as material**—investigating how perception, thought, and computation co-compose new forms of experience and understanding.
 
 Since **August 2024**, he has served as [**Maker-in-Residence** at the *Center for Arts, Migration, and Entrepreneurship (CAME)* at the **University of Florida**](https://arts.ufl.edu/people/profiles/marlon-barrios-solano/), where he also teaches in the university’s **AI & Art Certificate Program**.
 
