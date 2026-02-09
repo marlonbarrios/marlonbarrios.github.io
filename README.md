@@ -51,6 +51,7 @@ All research projects can be deployed as performance-lectures, installation/epis
 <img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="1200">
 
 ## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
+
 <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
 
 ## [Time Instances: Epistemic Gestures of Becoming](https://marlonbarrios.github.io/time_instances/)
@@ -60,6 +61,10 @@ All research projects can be deployed as performance-lectures, installation/epis
 ## [Technarchy and Love (October 2025-Ongoing)](https://marlonbarrios.github.io/technarchy/)
 
 <img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="1200">
+
+# [rabbitHoles: Recursive Pathways to the Edges of Material Knowing and Back | Speculative Podcast](https://marlonbarrios.github.io/rabbitholes/)
+
+<img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="1200">
 
 ## [The Upheavals of Emptiness](https://marlonbarrios.github.io/mindfulness/)
 
