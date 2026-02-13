@@ -11,17 +11,19 @@
 
 # Marlon Barrios Solano (short bio)
 
-**Marlon Barrios Solano (Venezuela–USA)** is an interdisciplinary artist, creative technologist, and researcher working at the intersection of **generative AI**, **performance**, **creative coding**, and **critical cognition**. With a hybrid background in **dance**, **software engineering**, and **cognitive science**, his work explores **cognitive systems and assemblages**, **cognitive media**, and **hybrid cognition as material**—investigating how perception, thought, and computation co-compose new forms of experience and understanding.
+I am Marlon Barrios Solano (Venezuela–USA), an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and critical cognition. With a hybrid background spanning dance, software engineering, and cognitive science, I explore cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work investigates how perception, thought, and computation co-compose new forms of experience and understanding.
 
-Since **August 2024**, he has served as [**Maker-in-Residence** at the *Center for Arts, Migration, and Entrepreneurship (CAME)* at the **University of Florida**](https://arts.ufl.edu/people/profiles/marlon-barrios-solano/), where he also teaches in the university’s **AI & Art Certificate Program**.
+Since August 2024, I have served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where I also teach in the university’s AI & Art Certificate Program. My role allows me to integrate research, pedagogy, and experimental practice—developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
 
-His long-term projects use **AI systems as poetic collaborators** in the creation of **speculative documents, web apps, interactive installations, raves, and performance-lectures**. Through **generative and procedural strategies**, his work merges machine learning, generative AI as  **algorithmic aesthetics** with **contemplative and somatic practices** to develop **knowledge dramaturgies**—experimental frameworks where **identity, memory, and cognition** are remixed through **embodied, queer, and diasporic lenses**.
+My long-term projects engage AI systems as poetic collaborators in the creation of speculative documents, web applications, interactive installations, raves, and lecture-performances. Through generative and procedural strategies, I merge machine learning and algorithmic aesthetics with contemplative and somatic practices to develop what I call knowledge dramaturgies—experimental frameworks in which identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
 
-His artistic practice unfolds through  **lecture performances**, **interactive environments**, **installations**, **single-channel video works**, **knowledge labs**, and **constellations of web applications**—recursive architectures where **cognition, code, and choreography** interact as evolving systems of inquiry.
+My artistic practice unfolds across lecture-performances, interactive environments, installations, single-channel video works, knowledge labs, and constellations of web-based applications. These are recursive architectures—spaces where cognition, code, and choreography interact as evolving systems of inquiry.
 
-His work has been presented internationally and supported by institutions such as **Motion Bank**, **ICK Amsterdam**, **Gilles Jobin Company**, and he was a reserach associate at **UDK/HZT Berlin** from 2012 t0 2016.  He is a founding member and researcher-in-residence at **Lake Studios Berlin**. In **2025**, he was awarded the **Beyond Gravity / Decolonizing the Digital Residency** at *Theater im Depot* in Dortmund, Germany.
+My work has been presented internationally and supported by institutions including Motion Bank, ICK Amsterdam, and the Gilles Jobin Company. I served as a research associate at UDK/HZT Berlin (2012–2016) and am a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, I was awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater im Depot in Dortmund, Germany.
 
-He holds an **MFA in Dance and Technology** from *Ohio State University*, Software Engineering Immersion Program by General Assembly (NYC) and is a certified **Mindfulness (Spirit Rock Meditation Center)** and **Embodyoga®** teacher.
+I hold an MFA in Dance and Technology from The Ohio State University, completed the Software Engineering Immersion Program at General Assembly (NYC), and am a certified Mindfulness teacher (Spirit Rock Meditation Center) and Embodyoga® teacher.
+
+Across all these modalities, I treat AI not merely as a tool, but as a cognitive partner—an unstable, generative terrain through which new forms of subjectivity and collective imagination can emerge.
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
