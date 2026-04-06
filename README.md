@@ -31,10 +31,6 @@ Across all these modalities, I treat AI not merely as a tool, but as a cognitive
 Get in touch
 </a>
 
-# Research/Projects
-
-All research projects can be deployed as performance-lectures, installation/epistemic space and workshops/labs:
-
 ## [Born in Latent Space: Time is a Love Story](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
@@ -48,35 +44,33 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="1200">*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
-## [Laboratory of Synthetic Meaning](https://marlonbarrios.github.io/lab_synthetic_meaning/)
+
 
 <img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="1200">
 
-## [UnstableLandscape: Embedded within Cognitive Assamblages](https://marlonbarrios.github.io/unstablelandscape/)
+
 
 <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
 
-## [Time Instances: Epistemic Gestures of Becoming](https://marlonbarrios.github.io/time_instances/)
+
 
 <img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="1200">
 
-## [Technarchy and Love (October 2025-Ongoing)](https://marlonbarrios.github.io/technarchy/)
 
 <img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="1200">
 
-# [rabbitHoles: Recursive Pathways to the Edges of Material Knowing and Back | Speculative Podcast](https://marlonbarrios.github.io/rabbitholes/)
+
 
 <img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="1200">
 
-## [The Upheavals of Emptiness](https://marlonbarrios.github.io/mindfulness/)
 
 <img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
 
-## [Actants: all apps, interfaces and networked knowing](https://marlonbarrios.github.io/actants_apps_interfaces/)
+
 
 <img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="1200">*Screenshot of Canonical app with me performing with it*
 
-[AI resources](https://marlonbarrios.github.io/ai_resources/)
+
 
 ## Recent Interviews, press and writings
 
@@ -108,6 +102,8 @@ All research projects can be deployed as performance-lectures, installation/epis
 
 [@medium](https://medium.com/@marlon_21867/)
 
+
+[AI resources](https://marlonbarrios.github.io/ai_resources/)
 
 <img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
