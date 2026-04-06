@@ -14,19 +14,32 @@
 
 # Marlon Barrios Solano (short bio)
 
+```markdown id="bio_bils_ul_02"
+# Marlon Barrios Solano
+
 I am Marlon Barrios Solano (Venezuela–USA), an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and critical cognition. With a hybrid background spanning dance, software engineering, and cognitive science, I explore cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work investigates how perception, thought, and computation co-compose new forms of experience and understanding.
 
-Since August 2024, I have served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where I also teach in the university’s AI & Art Certificate Program. My role allows me to integrate research, pedagogy, and experimental practice—developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
+Since August 2024, I have served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where I also teach in the AI & Art Certificate Program. My role allows me to integrate research, pedagogy, and experimental practice, developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
 
-My long-term projects engage AI systems as poetic collaborators in the creation of speculative documents, web applications, interactive installations, raves, and lecture-performances. Through generative and procedural strategies, I merge machine learning and algorithmic aesthetics with contemplative and somatic practices to develop what I call knowledge dramaturgies—experimental frameworks in which identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
+My long-term projects engage AI systems as poetic collaborators in the creation of speculative documents, web applications, interactive installations, raves, and lecture-performances. Through generative and procedural strategies, I merge machine learning and algorithmic aesthetics with contemplative and somatic practices to develop what I call knowledge dramaturgies—frameworks in which identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
 
-My artistic practice unfolds across lecture-performances, interactive environments, installations, single-channel video works, knowledge labs, and constellations of web-based applications. These are recursive architectures—spaces where cognition, code, and choreography interact as evolving systems of inquiry.
+My practice unfolds as recursive architectures—spaces where cognition, code, and choreography interact as evolving systems of inquiry. Across these architectures, I treat AI not simply as a tool, but as a cognitive partner: an unstable, generative terrain through which new forms of subjectivity and collective imagination can emerge.
+
+My work currently unfolds through two primary instantiations: *Born in Latent Space* and *Unstable Landscapes*. These are not separate projects but different operational modes of a shared research inquiry into cognition, embodiment, and computational systems.
+
+*Born in Latent Space* is primarily a lecture-performance. It is a live, embodied encounter in which I engage with generative AI systems through voice, movement, storytelling, singing, and sometimes DJing or VJing, in combination with real-time applications. It operates as a cognitive assembly in which human and machine processes co-compose thinking in the moment. The work is structured as a constellation of concepts, stories, applications, and playlists that I activate as a network to navigate the latent space of all possible narratives emerging during the performance. It can also expand into installation formats or workshops, but it maintains the intensity of a situated, performative articulation.
+
+*Unstable Landscapes* is a distributed instantiation of this research. Here, the work becomes an environment for collective cognition—a spatialized and relational system in which participants, interfaces, and computational processes form a distributed cognitive assembly. Rather than centering on a single performer, the emphasis shifts toward the emergence of group dynamics, shared attention, and collective navigation. It operates as a cognitive landscape composed of multiple interacting nodes or cells within an installation-performance environment. While it can also be presented as an installation, its core condition is distributed, relational, and participatory.
+
+Both instantiations are grounded in my ongoing investigation of cognition as something that exceeds the individual and emerges through networks of relations between bodies, technologies, histories, and environments.
 
 My work has been presented internationally and supported by institutions including Motion Bank, ICK Amsterdam, and the Gilles Jobin Company. I served as a research associate at UDK/HZT Berlin (2012–2016) and am a founding member and researcher-in-residence at Lake Studios Berlin. In 2025, I was awarded the Beyond Gravity / Decolonizing the Digital Residency at Theater im Depot in Dortmund, Germany.
 
 I hold an MFA in Dance and Technology from The Ohio State University, completed the Software Engineering Immersion Program at General Assembly (NYC), and am a certified Mindfulness teacher (Spirit Rock Meditation Center) and Embodyoga® teacher.
 
-Across all these modalities, I treat AI not merely as a tool, but as a cognitive partner—an unstable, generative terrain through which new forms of subjectivity and collective imagination can emerge.
+Across all these modalities, I develop environments where cognition becomes experiential, distributed, and embodied—where performance, computation, and collective imagination converge into evolving systems of knowledge.
+```
+
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
@@ -35,6 +48,9 @@ Get in touch
 </a>
 
 ## [Born in Latent Space](https://marlonbarrios.github.io/born_in_latent_space/)
+
+## [UnstableLandscapes](https://marlonbarrios.github.io/unstablelandscape/)
+
 
 <img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
@@ -45,29 +61,17 @@ Get in touch
 
 <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="1200">*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
 
-
-
 <img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
-
-
 
 <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
 
-
-
 <img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="1200">
-
 
 <img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="1200">
 
-
-
 <img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="1200">
 
-
 <img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
-
-
 
 <img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="1200">*Screenshot of Canonical app with me performing with it*
 
