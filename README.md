@@ -1,5 +1,8 @@
 # Marlon Barrios Solano
-<img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
+
+<img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
+
+
 
 ## Interdisciplinary Arts + AI + Creativity + Cognition
 
@@ -32,6 +35,8 @@ Get in touch
 </a>
 
 ## [Born in Latent Space](https://marlonbarrios.github.io/born_in_latent_space/)
+
+<img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
 *Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
@@ -101,7 +106,6 @@ Get in touch
 
 [AI resources](https://marlonbarrios.github.io/ai_resources/)
 
-<img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 
 
