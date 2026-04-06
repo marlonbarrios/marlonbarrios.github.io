@@ -14,7 +14,7 @@
 
 # Marlon Barrios Solano (short bio)
 
-```markdown id="bio_bils_ul_02"
+
 # Marlon Barrios Solano
 
 I am Marlon Barrios Solano (Venezuela–USA), an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and critical cognition. With a hybrid background spanning dance, software engineering, and cognitive science, I explore cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work investigates how perception, thought, and computation co-compose new forms of experience and understanding.
@@ -38,8 +38,6 @@ My work has been presented internationally and supported by institutions includi
 I hold an MFA in Dance and Technology from The Ohio State University, completed the Software Engineering Immersion Program at General Assembly (NYC), and am a certified Mindfulness teacher (Spirit Rock Meditation Center) and Embodyoga® teacher.
 
 Across all these modalities, I develop environments where cognition becomes experiential, distributed, and embodied—where performance, computation, and collective imagination converge into evolving systems of knowledge.
-```
-
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
