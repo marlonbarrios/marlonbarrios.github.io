@@ -72,13 +72,7 @@ Get in touch
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="100%"></td>
-    <td></td>
-  </tr>
-  <tr>
-   
-      <img src="attachment:/mnt/data/Screenshot 2026-04-05 at 3.34.31 PM.png" width="100%">
- 
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%"></td>
   </tr>
 </table>
 
