@@ -31,12 +31,10 @@ Across all these modalities, I treat AI not merely as a tool, but as a cognitive
 Get in touch
 </a>
 
-## [Born in Latent Space: Time is a Love Story](https://marlonbarrios.github.io/born_in_latent_space/)
+## [Born in Latent Space](https://marlonbarrios.github.io/born_in_latent_space/)
 
 <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
 *Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
-
-## [The Tectonics of Otherness](https://marlonbarrios.github.io/tectonics_of-_otherness/) 
 
 <img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="1200">*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
 
@@ -46,7 +44,7 @@ Get in touch
 
 
 
-<img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="1200">
+<img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 
 
