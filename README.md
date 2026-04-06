@@ -3,17 +3,12 @@
 <img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 
-
 ## Interdisciplinary Arts + AI + Creativity + Cognition
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marlonbarriossolano)
-
-
-# Marlon Barrios Solano (short bio)
-
 
 # Marlon Barrios Solano
 
@@ -27,9 +22,9 @@ My practice unfolds as recursive architectures—spaces where cognition, code, a
 
 My work currently unfolds through two primary instantiations: *Born in Latent Space* and *Unstable Landscapes*. These are not separate projects but different operational modes of a shared research inquiry into cognition, embodiment, and computational systems.
 
-*Born in Latent Space* is primarily a lecture-performance. It is a live, embodied encounter in which I engage with generative AI systems through voice, movement, storytelling, singing, and sometimes DJing or VJing, in combination with real-time applications. It operates as a cognitive assembly in which human and machine processes co-compose thinking in the moment. The work is structured as a constellation of concepts, stories, applications, and playlists that I activate as a network to navigate the latent space of all possible narratives emerging during the performance. It can also expand into installation formats or workshops, but it maintains the intensity of a situated, performative articulation.
+[*Born in Latent Space*](https://marlonbarrios.github.io/born_in_latent_space/) is primarily a lecture-performance. It is a live, embodied encounter in which I engage with generative AI systems through voice, movement, storytelling, singing, and sometimes DJing or VJing, in combination with real-time applications. It operates as a cognitive assembly in which human and machine processes co-compose thinking in the moment. The work is structured as a constellation of concepts, stories, applications, and playlists that I activate as a network to navigate the latent space of all possible narratives emerging during the performance. It can also expand into installation formats or workshops, but it maintains the intensity of a situated, performative articulation.
 
-*UnstableLandscapes* is a distributed instantiation of this research. Here, the work becomes an environment for collective cognition—a spatialized and relational system in which participants, interfaces, and computational processes form a distributed cognitive assembly. Rather than centering on a single performer, the emphasis shifts toward the emergence of group dynamics, shared attention, and collective navigation. It operates as a cognitive landscape composed of multiple interacting nodes or cells within an installation-performance environment. While it can also be presented as an installation, its core condition is distributed, relational, and participatory.
+[UnstableLandscapes](https://marlonbarrios.github.io/unstablelandscape/) is a distributed instantiation of this research. Here, the work becomes an environment for collective cognition—a spatialized and relational system in which participants, interfaces, and computational processes form a distributed cognitive assembly. Rather than centering on a single performer, the emphasis shifts toward the emergence of group dynamics, shared attention, and collective navigation. It operates as a cognitive landscape composed of multiple interacting nodes or cells within an installation-performance environment. While it can also be presented as an installation, its core condition is distributed, relational, and participatory.
 
 Both instantiations are grounded in my ongoing investigation of cognition as something that exceeds the individual and emerges through networks of relations between bodies, technologies, histories, and environments.
 
