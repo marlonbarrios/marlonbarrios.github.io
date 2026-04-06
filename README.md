@@ -49,31 +49,32 @@ Get in touch
 
 ## [UnstableLandscapes](https://marlonbarrios.github.io/unstablelandscape/)
 
-
-<img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
-
-<img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="1200">
-*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
-
-<img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="1200">*The Tectonics of Otherness @Beyond Gravity Festival, Dortmund Germany*
-
-<img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="1200">*Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
-
-<img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
-
-<img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="1200">
-
-<img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="1200">
-
-<img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="1200">
-
-<img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="1200">
-
-<img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="1200">*Screenshot of the 1rst chatbot dedicated to Buddhhist thought in 2022*
-
-<img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="1200">*Screenshot of Canonical app with me performing with it*
-
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="100%"></td>
+    <td><img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="100%"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Recent Interviews, press and writings
 
