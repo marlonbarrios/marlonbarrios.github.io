@@ -74,6 +74,12 @@ Get in touch
     <td><img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="100%"></td>
     <td></td>
   </tr>
+  <tr>
+   
+      <img src="attachment:/mnt/data/Screenshot 2026-04-05 at 3.34.31 PM.png" width="100%">
+ 
+    <td></td>
+  </tr>
 </table>
 
 ## Recent Interviews, press and writings
