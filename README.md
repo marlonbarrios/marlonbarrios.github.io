@@ -10,8 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marlonbarriossolano)
 
-# Marlon Barrios Solano
-
 I am Marlon Barrios Solano (Venezuela–USA), an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and critical cognition. With a hybrid background spanning dance, software engineering, and cognitive science, I explore cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work investigates how perception, thought, and computation co-compose new forms of experience and understanding.
 
 Since August 2024, I have served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where I also teach in the AI & Art Certificate Program. My role allows me to integrate research, pedagogy, and experimental practice, developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
