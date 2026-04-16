@@ -83,69 +83,71 @@ Get in touch
 ## Nodes
 
 <table>
- <tr>
-  <td>
-    <a href="https://marlonbarrios.github.io/born_in_latent_space/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="100%">
-    </a>
-  </td>
-  <td>
-    <a href="https://marlonbarrios.github.io/born_in_latent_space/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="100%">
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://marlonbarrios.github.io/unstablelandscape/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%">
-    </a>
-  </td>
-  <td>
-    <a href="https://marlonbarrios.github.io/possibleminds/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%">
-    </a>
-  </td>
-</tr>
-  tr>
-  <td>
-    <a href="https://semantic-tensegrities.vercel.app/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%">
-    </a>
-  </td>
-  <td>
-    <a href="https://marlonbarrios.github.io/unstablelandscape/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%">
-    </a>
-  </td>
-</tr>
- <tr>
-  <td>
-    <a href="https://marlonbarrios.github.io/time_instances/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="100%">
-    </a>
-  </td>
-  <td>
-    <a href="https://marlonbarrios.github.io/detroit/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="100%">
-    </a>
-  </td>
-</tr>
   <tr>
-  <td>
-    <a href="https://marlonbarrios.github.io/rabbitholes/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="100%">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3" target="_blank">
-      <img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%">
-    </a>
-  </td>
-</tr>
-  
-</table>
+    <td>
+      <a href="https://marlonbarrios.github.io/born_in_latent_space/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://marlonbarrios.github.io/born_in_latent_space/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="100%">
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td>
+      <a href="https://marlonbarrios.github.io/unstablelandscape/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://marlonbarrios.github.io/possibleminds/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://semantic-tensegrities.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://marlonbarrios.github.io/unstablelandscape/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://marlonbarrios.github.io/time_instances/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://marlonbarrios.github.io/detroit/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="100%">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://marlonbarrios.github.io/rabbitholes/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3" target="_blank">
+        <img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
