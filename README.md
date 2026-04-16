@@ -106,10 +106,18 @@ Get in touch
     </a>
   </td>
 </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%"></td>
-  </tr>
+  tr>
+  <td>
+    <a href="https://semantic-tensegrities.vercel.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%">
+    </a>
+  </td>
+  <td>
+    <a href="https://marlonbarrios.github.io/unstablelandscape/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%">
+    </a>
+  </td>
+</tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="100%"></td>
     <td><img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="100%"></td>
