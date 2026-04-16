@@ -36,15 +36,11 @@ Across all these modalities, I develop environments where cognition becomes expe
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
-<a href="mailto:mbarriossolano%40ufl.edu?subject=Hello%20Marlon&body=Hi%20Marlon%2C%0A%0AI%27d%20like%20to%20get%20in%20touch%20about...">
-Get in touch
-</a>
+## Projext Clusters
 
 ## [Born in Latent Space](https://marlonbarrios.github.io/born_in_latent_space/)
 
 ## [UnstableLandscapes](https://marlonbarrios.github.io/unstablelandscape/)
-
-
 
 ## Recent Interviews, press and writings
 
