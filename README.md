@@ -1,9 +1,9 @@
 # Marlon Barrios Solano
+## Interdisciplinary Arts + AI + Creativity + Cognition
 
 <img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
 
-## Interdisciplinary Arts + AI + Creativity + Cognition
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
@@ -46,32 +46,7 @@ Get in touch
 
 ## [UnstableLandscapes](https://marlonbarrios.github.io/unstablelandscape/)
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="100%"></td>
-    <td><img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%"></td>
-  </tr>
-</table>
+
 
 ## Recent Interviews, press and writings
 
@@ -105,6 +80,33 @@ Get in touch
 
 
 [AI resources](https://marlonbarrios.github.io/ai_resources/)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2fc88cc8-e3e1-49ed-bf6a-ae3ded0bb685" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/1527812e-eb98-4348-91a0-5b6afad8573d" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="100%"></td>
+    <td><img src="https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%"></td>
+  </tr>
+</table>
 
 
 
