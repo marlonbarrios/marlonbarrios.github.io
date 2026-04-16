@@ -94,10 +94,18 @@ Get in touch
     </a>
   </td>
 </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%"></td>
-  </tr>
+<tr>
+  <td>
+    <a href="https://marlonbarrios.github.io/unstablelandscape/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%">
+    </a>
+  </td>
+  <td>
+    <a href="https://marlonbarrios.github.io/possibleminds/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%">
+    </a>
+  </td>
+
   <tr>
     <td><img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%"></td>
     <td><img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%"></td>
