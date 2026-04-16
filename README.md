@@ -105,7 +105,7 @@ Get in touch
       <img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%">
     </a>
   </td>
-
+</tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/14755778-749d-46b0-8a8a-73372fb704de" width="100%"></td>
     <td><img src="https://github.com/user-attachments/assets/7e40fc0b-496e-4ab1-9aad-0723b986801c" width="100%"></td>
