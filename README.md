@@ -14,6 +14,10 @@ I am Marlon Barrios Solano (Venezuela–USA), an interdisciplinary artist, creat
 
 Since August 2024, I have served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where I also teach in the AI & Art Certificate Program. My role allows me to integrate research, pedagogy, and experimental practice, developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
 
+[Network Visialization of my Research Creation](https://marlonbarrios.github.io/research_viz/)
+
+<img src="https://github.com/user-attachments/assets/531e3cbd-8d5a-4bc4-8d42-177e694c7a8a" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
+
 My long-term projects engage AI systems as poetic collaborators in the creation of speculative documents, web applications, interactive installations, raves, and lecture-performances. Through generative and procedural strategies, I merge machine learning and algorithmic aesthetics with contemplative and somatic practices to develop what I call knowledge dramaturgies—frameworks in which identity, memory, and cognition are remixed through embodied, queer, and diasporic lenses.
 
 My practice unfolds as recursive architectures—spaces where cognition, code, and choreography interact as evolving systems of inquiry. Across these architectures, I treat AI not simply as a tool, but as a cognitive partner: an unstable, generative terrain through which new forms of subjectivity and collective imagination can emerge.
