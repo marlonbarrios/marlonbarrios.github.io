@@ -78,8 +78,9 @@ Get in touch
 
 [@medium](https://medium.com/@marlon_21867/)
 
-
 [AI resources](https://marlonbarrios.github.io/ai_resources/)
+
+## Nodes
 
 <table>
  <tr>
@@ -131,14 +132,18 @@ Get in touch
   </td>
 </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="100%"></td>
-   https://marlonbarrios.github.io/rabbitholes/
-    <td><img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/53370adf-bc64-4761-baaf-a4f09fb567e6" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%"></td>
-  </tr>
+  <td>
+    <a href="https://marlonbarrios.github.io/rabbitholes/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/c8a5931a-799b-4d7b-ae60-730ac48ddc7d" width="100%">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3" target="_blank">
+      <img src="https://github.com/user-attachments/assets/9978319a-925a-4864-a228-d42458c52b9b" width="100%">
+    </a>
+  </td>
+</tr>
+  
 </table>
 
 
