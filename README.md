@@ -1,8 +1,7 @@
 # Marlon Barrios Solano
-## Interdisciplinary Arts + AI + Creativity + Cognition
+## Transdisciplinary Arts + AI + Creativity + Cognition
 
 <img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
-
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
@@ -12,8 +11,7 @@
 
 I am Marlon Barrios Solano (Venezuela–USA), an interdisciplinary artist, creative technologist, and researcher working at the intersection of generative AI, performance, creative coding, and critical cognition. With a hybrid background spanning dance, software engineering, and cognitive science, I explore cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work investigates how perception, thought, and computation co-compose new forms of experience and understanding.
 
-Since August 2024, I have served as Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida, where I also teach in the AI & Art Certificate Program. My role allows me to integrate research, pedagogy, and experimental practice, developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
-
+Since August 2024, I have served as [Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida](https://arts.ufl.edu/people/profiles/marlon-barrios-solano/), where I also teach in the AI & Art Certificate Program. My role allows me to integrate research, pedagogy, and experimental practice, developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
 
 
 <img src="https://github.com/user-attachments/assets/531e3cbd-8d5a-4bc4-8d42-177e694c7a8a" width="1200">*[Network Visialization of my Research Creation](https://marlonbarrios.github.io/research_viz/)*
