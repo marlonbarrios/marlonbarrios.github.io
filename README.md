@@ -36,7 +36,7 @@ Across all these modalities, I develop environments where cognition becomes expe
 
 ## [Long Bio](https://marlonbarrios.github.io/long_bio/)
 
-## Projext Clusters
+## **Clusters**
 
 ## [Born in Latent Space](https://marlonbarrios.github.io/born_in_latent_space/)
 
