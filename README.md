@@ -82,10 +82,18 @@ Get in touch
 [AI resources](https://marlonbarrios.github.io/ai_resources/)
 
 <table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="100%"></td>
-  </tr>
+ <tr>
+  <td>
+    <a href="https://marlonbarrios.github.io/born_in_latent_space/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/c5edbad6-cbcb-42c5-a840-555eabae2981" width="100%">
+    </a>
+  </td>
+  <td>
+    <a href="https://marlonbarrios.github.io/born_in_latent_space/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/64154be7-0e99-4b84-b49d-7d6e6fb4a698" width="100%">
+    </a>
+  </td>
+</tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/02e7552b-70e3-4046-9024-a89466d7b8fd" width="100%"></td>
     <td><img src="https://github.com/user-attachments/assets/272b6496-01e3-4059-a837-e34874f495bf" width="100%"></td>
