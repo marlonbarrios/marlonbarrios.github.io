@@ -3,7 +3,6 @@
 
 <img src="https://github.com/user-attachments/assets/78bad269-30db-49d7-a236-825eaa767af1" width="1200">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin*
 
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
@@ -18,6 +17,7 @@ My work is not organized as discrete projects, but as a system of **dynamic, int
 To access this system, I have developed an interactive network visualization through which viewers can explore the relationships between concepts, works, and tools. Many of these nodes link directly to **live web applications**, while the underlying code is openly shared via GitHub, extending the work as both an artistic and technical ecosystem.
 
 [![Interactive Network Visualization of my art and research](https://github.com/user-attachments/assets/531e3cbd-8d5a-4bc4-8d42-177e694c7a8a)](https://marlonbarrios.github.io/research_viz/)*Click on image to load the network visualization on my work and research*
+
 
 With a hybrid background spanning dance, software engineering, and cognitive science, I investigate cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work explores how perception, thought, and computation co-compose new forms of experience and understanding.
 
