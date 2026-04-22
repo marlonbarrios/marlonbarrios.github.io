@@ -17,7 +17,7 @@ My work is not organized as discrete projects, but as a system of **dynamic, int
 
 To access this system, I have developed an interactive network visualization through which viewers can explore the relationships between concepts, works, and tools. Many of these nodes link directly to **live web applications**, while the underlying code is openly shared via GitHub, extending the work as both an artistic and technical ecosystem.
 
-[![Interactive Network Visualization of my art and research](https://github.com/user-attachments/assets/531e3cbd-8d5a-4bc4-8d42-177e694c7a8a)](https://marlonbarrios.github.io/research_viz/)
+[![Interactive Network Visualization of my art and research](https://github.com/user-attachments/assets/531e3cbd-8d5a-4bc4-8d42-177e694c7a8a)](https://marlonbarrios.github.io/research_viz/)*Click on image to load the network visualization on my work and research*
 
 With a hybrid background spanning dance, software engineering, and cognitive science, I investigate cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work explores how perception, thought, and computation co-compose new forms of experience and understanding.
 
