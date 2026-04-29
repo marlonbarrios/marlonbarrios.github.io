@@ -14,12 +14,11 @@ I am Marlon Barrios Solano (Venezuela–USA), an interdisciplinary artist, creat
 
 My work is not organized as discrete projects, but as a system of **dynamic, interrelated fragments**—a living archive of notes, applications, performances, and conceptual nodes that can be engaged individually or navigated as an evolving network. These fragments are continuously developed, recombined, and activated across different contexts.
 
-To access this system, I have developed an interactive network visualization through which viewers can explore the relationships between concepts, works, and tools. Many of these nodes link directly to **live web applications**, while the underlying code is openly shared via GitHub, extending the work as both an artistic and technical ecosystem.
+With a hybrid background spanning dance, software engineering, and cognitive science, I investigate cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work explores how perception, thought, and computation co-compose new forms of experience and understanding.
+
+I’ve developed an interactive network visualization that lets viewers explore relationships between concepts, works, and tools. Its nodes lead to code repositories, where links to live apps appear on the right, and some READMEs include conceptual and technical notes. Many nodes connect directly to live web applications, while the code is openly shared on GitHub, forming an artistic and technical ecosystem.
 
 [![Interactive Network Visualization of my art and research](https://github.com/user-attachments/assets/531e3cbd-8d5a-4bc4-8d42-177e694c7a8a)](https://marlonbarrios.github.io/research_viz/)*Click on image to load the network visualization on my work and research*
-
-
-With a hybrid background spanning dance, software engineering, and cognitive science, I investigate cognitive systems and assemblages, cognitive media, and hybrid cognition as material. My work explores how perception, thought, and computation co-compose new forms of experience and understanding.
 
 Since August 2024, I have served as [Maker-in-Residence at the Center for Arts, Migration, and Entrepreneurship (CAME) at the University of Florida](https://arts.ufl.edu/people/profiles/marlon-barrios-solano/), where I also teach in the AI & Art Certificate Program. My role integrates research, pedagogy, and experimental practice, developing transdisciplinary frameworks that bring embodied knowledge into dialogue with artificial intelligence.
 
