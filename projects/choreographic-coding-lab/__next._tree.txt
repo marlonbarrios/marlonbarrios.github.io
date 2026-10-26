@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/3kkmkbgb2-m1b.css","style"]
+:HL["/_next/static/chunks/0dlag5q2tjv6b.css","style"]
 :HL["/_next/static/media/75cb990346c55dc4-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b8dfa3d21eb22018-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"choreographic-coding-lab","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"SJULAJvf6ncvbgfK1TqxH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"vaFOEqZtxkh7nySnSFM1t","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
