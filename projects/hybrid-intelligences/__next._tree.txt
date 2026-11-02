@@ -4,4 +4,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"hybrid-intelligences","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"1YRyqc9R4XvHL75sK2t8V","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"kN4AfzABnkKXBF7QhP83e","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
