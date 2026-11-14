@@ -4,4 +4,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"born-in-latent-space","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"q5u0uhiWomLG8rf6TnkxV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Xe9CfDWFKfNh6ev9fcYeV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
