@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/19ep--ho8c6n-.css","style"]
+:HL["/_next/static/chunks/3iemvm2_dzg8d.css","style"]
 :HL["/_next/static/media/75cb990346c55dc4-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b8dfa3d21eb22018-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
-2:[["children",{"s":{"n":"slug","t":"d","k":"dark-enlightenment","s":[]},"h":96,"c":"$Q3"}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"dark-enlightenment","s":["choreographic-coding-lab"]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"pFdAopivtFO9g1EoGfVc8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ygGMx3vmYUa4aA9fnWMZ_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
