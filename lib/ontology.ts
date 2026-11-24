@@ -268,8 +268,8 @@ export const ontology: OntologyEntry[] = [
     name: "Lake Studios Berlin",
     kind: "Project",
     href: "/projects/lake-studios-berlin",
-    terms: ["Lakey", "Digital Body", "Mark Coniglio", "yearly", "facilitation"],
-    text: "A dance research and residency center. I am a founding member. I designed how the residencies work, and I continue as researcher in residence. Digital Bodies, a context I have been invited to facilitate there yearly, is part of Embodied Creative Facilitation.",
+    terms: ["Lakie", "Digital Body", "Mark Coniglio", "yearly", "facilitation"],
+    text: "A dance research and residency center. I am a second-generation founding member, one of the Lakies. I contributed to the residency model and the vision of LAKE Studios as a space for artistic research and exchange, particularly at the intersection of dance and technology. I continue as a researcher in residence. Digital Bodies, a context I have been invited to facilitate there yearly, is part of Embodied Creative Facilitation.",
   },
   {
     name: "Courses at UF",

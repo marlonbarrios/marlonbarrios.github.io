@@ -17,28 +17,34 @@ export async function LakeStudiosBerlin() {
       <p className="kicker">
         <Link href="/">Projects</Link>
       </p>
-      <h1>Lake Studios Berlin</h1>
+      <h1>LAKE Studios Berlin</h1>
       <p className="dek">Dance research and residency center</p>
       <p className="byline">Founding member · Researcher in residence</p>
 
       <div className="prose">
         <p>
-          I am one of the founding members of{" "}
+          I am one of the second-generation founding members of{" "}
           <a href="https://lakestudiosberlin.com/" target="_blank" rel="noreferrer">
-            Lake Studios Berlin
+            LAKE Studios Berlin
           </a>
-          , the Lakeys. I became the designer and architect of how the
-          residencies work, and I created the model for Lake Studios as an
-          art and research center.
+          , the Lakies. During this phase, I contributed to shaping the
+          residency model and developing the vision of LAKE Studios as a space
+          for artistic research and exchange, particularly at the intersection
+          of dance and technology. The development of artist-led spaces,
+          collaborative structures and research-oriented programs is also an
+          integral part of my artistic research and practice.
         </p>
         <p>
-          I continue with Lake Studios as a researcher in residence. Digital
-          Bodies, a context I have been invited to facilitate there yearly,
-          is part of{" "}
+          I continue my relationship with LAKE Studios as a researcher in
+          residence, returning regularly to develop my artistic and
+          technological research, as well as leading meditation sessions and
+          facilitating the Digital Bodies research labs. Digital Bodies, a
+          context I have been invited to facilitate there yearly, is part of
+          my{" "}
           <Link href="/projects/embodied-creative-facilitation#digital-bodies">
             Embodied Creative Facilitation
-          </Link>
-          .
+          </Link>{" "}
+          practice.
         </p>
       </div>
 

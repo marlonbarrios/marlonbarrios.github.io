@@ -221,7 +221,7 @@ export const projects: Project[] = [
     title: "Lake Studios Berlin",
     line: "Dance research and residency center",
     summary:
-      "A founding Lakey. I designed how the residencies work, and the model for Lake Studios as an art and research center. Digital Bodies, which I facilitate there, is part of Embodied Creative Facilitation.",
+      "Second-generation founding member of LAKE Studios Berlin, the Lakies. I contributed to the residency model and the vision of the space for artistic research and exchange, especially where dance meets technology. I continue as a researcher in residence, and facilitate Digital Bodies there as part of Embodied Creative Facilitation.",
   },
   {
     slug: "courses-at-uf",

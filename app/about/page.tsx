@@ -66,8 +66,8 @@ export default function AboutPage() {
           and the Arts Certificate offered by the College of the Arts.
         </p>
         <p>
-          I am also a researcher in residence at Lake Studios Berlin, where I
-          am a founding member. In 2025, I was awarded the Beyond Gravity /
+          I am also a researcher in residence at LAKE Studios Berlin, where I
+          am a second-generation founding member. In 2025, I was awarded the Beyond Gravity /
           Decolonizing the Digital Residency at Theater im Depot in Dortmund,
           where I continue to explore the speculative intersections of
           technology, memory, and the Global South.
